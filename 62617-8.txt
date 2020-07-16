@@ -1,0 +1,4340 @@
+The Project Gutenberg eBook, Pitk‰j‰rvel‰iset, by Jalmari Finne
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Pitk‰j‰rvel‰iset
+       Nelin‰ytˆksinen huvin‰ytelm‰
+
+
+Author: Jalmari Finne
+
+
+
+Release Date: July 11, 2020  [eBook #62617]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+
+***START OF THE PROJECT GUTENBERG EBOOK PITKƒJƒRVELƒISET***
+
+
+E-text prepared by Jari Koivisto
+
+
+
+PITKƒJƒRVELƒISET
+
+Nelin‰ytˆksinen huvin‰ytelm‰
+
+Kirj.
+
+JALMARI FINNE
+
+
+
+
+
+Helsingiss‰,
+Kustannusosakeyhtiˆ Otava,
+1923.
+
+
+
+
+HENKIL÷T:
+
+SUSANNA ANTINTYTƒR, Natukan leskiem‰nt‰.
+JUHA TUOMAANPOIKA, h‰nen poikansa, nuori is‰nt‰.
+TUOMAS JOOSEPINPOIKA, entinen talollinen.
+ANNA MATINTYTƒR, h‰nen vaimonsa.
+REGINA TUOMAANTYTƒR, |
+KATRI TUOMAANTYTƒR,  | heid‰n tytt‰ri‰‰n.
+SOHVI TUOMAANTYTƒR,  |
+MIKKO YRJ÷NPOIKA, Heikkil‰n is‰nt‰.
+LIISA MARTINTYTƒR, h‰nen vaimonsa.
+MARTTI MIKONPOIKA, heid‰n poikansa.
+MATTI MODIG, sotilas.
+ANTTI COV…EN, Susannan is‰, nimismies.
+MARIA YRJ÷NTYTƒR, talonpoikaistyttˆ.
+KALLE BROCKMAN, nuori mies, siltavoudin poika.
+YRJ÷ MARTINPOIKA, Sikalan is‰nt‰.
+LƒPIKƒYTƒVƒN HENNA.
+
+Tapahtuu Orivedell‰ Pitk‰j‰rven kyl‰ss‰ vuonna 1765.
+
+
+
+
+ENSIMMƒINEN NƒYT÷S.
+
+
+Natukan pihamaa Pitk‰j‰rven kyl‰ss‰ Orivedell‰. Vasemmalla asuintupa,
+jonne menn‰‰n aivan etualalla olevasta ovesta. Ovi ilman kuistia, oven
+edess‰ paasi portaana. Ovesta oikealle taustalle p‰in jatkuu
+tuparakennus, jonka sein‰ss‰ on pieni ikkuna. Taustalla kulmittain
+t‰m‰n rakennuksen kanssa on aitta ja sen vieress‰ oikealle p‰in
+luhtirakennus. N‰iden kahden rakennuksen v‰liss‰ on ver‰j‰, josta
+p‰‰st‰‰n tielle, mik‰ kulkee poikittain taustalla. Rakennusten
+v‰lisest‰ aukosta n‰kyy peltoja ja niittyj‰. N‰ytt‰mˆn oikealla
+puolella tallin ja navetan takasein‰. N‰iden rakennusten v‰liss‰
+pieni kuja, josta p‰‰st‰‰n karjapihaan. Rakennukset yhtyv‰t kujan
+yl‰puolella. Koko n‰ytt‰mˆ muodostaa suljetun miespihan. Penkki tuvan
+sein‰ll‰ ikkunan alla. Etualalla oikealla pari kive‰, joille voidaan
+istua.
+
+REGINA (nuori, hemaiseva talonpoikaistyttˆ, yll‰‰n sarkahame ja
+palttinapaita, tukka palmikolla, jalassaan virsut, tulee talosta sanko
+k‰dess‰‰n ja aikoo menn‰ pihan poikki karjapihaan. Juuri kun h‰n aikoo
+sivuuttaa ver‰j‰n, n‰kee h‰n Martin, joka tulee ver‰j‰n taakse).
+Herranen aika, joko sin‰ taas olet t‰‰ll‰?
+
+MARTTI (yhdeks‰ntoistavuotias nuori mies puettuna harmaaseen
+sarkapukuun tulee taustalta ja asettuu ver‰j‰n taakse). Mit‰s jokoa
+t‰m‰ on? Viimeksih‰n olin eilisiltana.
+
+REGINA. Mutta Juha on vihainen, kun sin‰ k‰yt t‰‰ll‰ niin usein.
+
+MARTTI. Mit‰ se Juhaan kuuluu? Eth‰n sin‰ viel‰ ole h‰nen kanssaan
+naimisissa.
+
+REGINA. Enh‰n ole.
+
+MARTTI. Etk‰ ole viel‰ kuulutettukaan.
+
+REGINA. Mutta sit‰ vartenhan min‰ talossa olen.
+
+MARTTI. On sit‰ ennenkin kauppoja purettu, on viel‰ sittenkin, kun
+jo kuulutus on otettu. Mit‰ sin‰ t‰‰ll‰ Natukalla olet ja el‰t, tule
+meille Heikkil‰‰n. Parempi talo se Heikkil‰ on kuin Natukka.
+
+REGINA. Enh‰n min‰ t‰‰ll‰ sen vuoksi ole, vaan Juhan t‰hden.
+
+MARTTI. Mik‰ se Juha sitten on miehi‰‰n minuun verrattuna?
+
+REGINA. Onhan vain sellainen, ett‰ saa talon haltuunsa, kun is‰ns‰ jo
+on kuollut.
+
+MARTTI. Saan min‰kin kerran talon haltuuni, kun olen ainoa poika.
+
+REGINA. Mutta sin‰h‰n olet viel‰ ala-ik‰inen, et sin‰ p‰‰se viel‰
+naimisiinkaan.
+
+MARTTI (tulee portista sis‰‰n). Se asia on pian autettu. Kun olen ainoa
+poika, niin syksyll‰ is‰ voi menn‰ k‰r‰jille ja pyyt‰‰, ett‰ min‰
+p‰‰sen naimisiin. Ja kyll‰ se lupa annetaan, kun min‰ kuitenkin jo ensi
+vuonna pyh‰inmiesten p‰iv‰n aikaan t‰yt‰n kaksikymment‰ vuotta. Ja
+tottahan t‰ll‰ i‰ll‰ jo naimisissa olla osaa.
+
+REGINA. En min‰ nyt jouda kuuntelemaan sinua, minun t‰ytyy menn‰
+karjapihaan.
+
+MARTTI. Mik‰ meno sinulla nyt sinne on? Eih‰n nyt lypset‰.
+
+REGINA. Mutta porsaita t‰ytyy ruokkia.
+
+MARTTI. Anna sin‰ nassujen olla, voimistuvathan ne, kun n‰liss‰‰n
+kiljuvat. J‰tet‰‰n porsaat ja puhutaan minusta.
+
+REGINA. Ei minun sovi puhua sinun kanssasi, kun olen jo lupautunut
+Juhalle.
+
+MARTTI. Kyll‰ aina ennen vihkimist‰ saa toisten miesten kanssa puhua.
+Eikˆ nyt sovittaisi asioista? J‰t‰ sin‰ Juha ja ota minut.
+
+REGINA. Sin‰ puhut ihan joka p‰iv‰ t‰st‰ samasta asiasta.
+
+MARTTI. Totta kai min‰ siit‰ puhun siihen asti, kunnes siit‰ selv‰
+tulee. Ei sit‰ puhumatta naimisiin p‰‰se.
+
+REGINA. Mutta onhan t‰‰ll‰p‰in vaikka kuinka paljon muita tyttˆj‰.
+
+MARTTI. Mutta ei ole toista sellaista kuin sin‰, jolla on tuollainen
+korea naama ja noin paksu palmikko ja jonka k‰ynti on kepe‰‰ kuin
+lintusen rannan kivill‰.
+
+REGINA. ƒl‰h‰n nyt, Martti! Porsaat odottavat.
+
+MARTTI. Odottakoot. En min‰ porsaitten t‰hden tahdo heitt‰‰ hukkaan
+t‰t‰ hetke‰, jolloin saan kahden kesken kanssasi puhella.
+
+REGINA. Ne toiset voivat kohta tulla kirkosta.
+
+MARTTI. Eiv‰t ne viel‰ tule. Kyll‰ ne siell‰ viipyv‰t, ennenkuin
+Susanna-em‰nt‰ on jalkapuusta p‰‰stetty.
+
+REGINA (laskee sangon k‰dest‰‰n). Min‰ en voinut mitenk‰‰n menn‰
+katsomaan sit‰ kirkkoon, vaan j‰in t‰nne kotia. Kyll‰h‰n sisareni Katri
+sanoi, ett‰ h‰n olisi j‰‰nyt ja ett‰ minun olisi pit‰nyt menn‰, kun
+Susanna on niinkuin tuleva anoppini. Mutta en min‰ voinut. Ajattelehan,
+Martti, eikˆ se ole iankaikkinen h‰pe‰, ett‰ saa istua jalkapuussa.
+
+MARTTI. Mit‰ se on, ei yht‰‰n mit‰‰n. T‰‰ll‰ Orivedell‰ on aina totuttu
+istumaan jalkapuussa. Ei t‰‰ll‰ siit‰ v‰litet‰ yht‰‰n. T‰‰ll‰h‰n oli
+ennen sellainen jalkapuu, jossa oli kolme paria jalkareiki‰, mutta kun
+tuli tilan ahtaus, niin t‰ytyi laittaa uusi, jossa on viisi paria.
+
+REGINA. ƒl‰ puhu noin jumalattomasti. Mik‰ sen em‰nn‰nkin leskeksi
+tultuaan siihen saattoi, ett‰ suostui tuohon mieheen ja rupesi
+hommaamaan h‰nen kanssaan?
+
+MARTTI. Kai siin‰ oli rakkautta. Seh‰n vie ihmiset yhteen ja senh‰n
+t‰hden sanotaan lapsia saatavan.
+
+REGINA. Ja jos niit‰ olisi ollut edes yksi lapsi, mutta kun niit‰ oli
+kaksoset.
+
+MARTTI. Yksi tai kaksi, yhden kerran sit‰ vain jalkapuussa tarvitsee
+istua. Samahan tuo silloin on.
+
+REGINA. Minun t‰ytyy ajatella...
+
+MARTTI. Mit‰ sinun t‰ytyy ajatella?
+
+REGINA. Porsaitani.
+
+MARTTI. ƒl‰ ajattele porsaita, vaan ajattele minua.
+
+REGINA. Min‰ kuulen jonkun tulevan. Etteiv‰t vain jo tule kirkosta?
+
+MARTTI. Jos tulevat, niin sitten ovat karanneet ennen
+jumalanpalveluksen loppua. Kun joku on jalkapuussa, niin kirkkoherra
+aina silloin saarnaa puoli tuntia enemm‰n. Se synti on aina niin
+tervetullut asia papeille.
+
+MATTI MODIG (tulee taustalta. H‰n on puettuna sotilaspukuun. Keltaiset
+housut, sininen takki, jonka liepeen etukulmat on k‰‰nnetty ylˆs,
+p‰‰ss‰ kolmikolkkainen hattu, jalassa valkoiset s‰‰rykset. H‰n on
+keski-ik‰inen mies). P‰iv‰‰ taloon.
+
+REGINA. P‰iv‰‰!
+
+MARTTI. Kuka tuo on?
+
+REGINA. En min‰ tied‰.
+
+MODIG. Ei kai neitokainen en‰‰ muista minua?
+
+REGINA. En min‰ oikein muista.
+
+MODIG. Kyll‰h‰n me syksyll‰ Tampereen markkinoilla puhuimme.
+
+REGINA. Nyt min‰ muistan sen.
+
+MODIG (antaa k‰tt‰). Vanhoja tuttujahan me silloin olemme. Min‰ olen
+Messukyl‰st‰ tullut t‰nne ihan neitokaisen t‰hden. Eikˆ t‰‰ll‰ ole
+ket‰‰n katona?
+
+REGINA. Ei ole, ovat kaikki kirkossa.
+
+MODIG. Kirkossa k‰yminen on vakava asia. Pit‰‰ kai sitten odottaa.
+
+REGINA. Passaa menn‰ tuonne tupaan ja odottaa siell‰.
+
+MODIG. Mieluumminhan min‰ t‰‰ll‰ olen, miss‰ noin kaunis neitokainen
+on. Maija kai oli nimi?
+
+REGINA. Ei ole Maija?
+
+MODIG (nauraen). Kas, kun muistin v‰‰rin. Liisahan se oli.
+
+REGINA. Ei se Liisakaan ollut.
+
+MODIG. No, Kaisa sitten kuin nakutettu. Ihan onkin Kaisan n‰kˆinen.
+
+REGINA. En min‰ Kaisakaan ole.
+
+MODIG. Eih‰n niit‰ muita nimi‰ olekaan, ellei satu olemaan Sohvi.
+
+REGINA. Regina min‰ olen.
+
+MODIG. Kun n‰kee niit‰ tyttˆj‰ niin paljon, niin eih‰n sit‰ aina nimi‰
+muista. Reginahan minun piti sanoa. Kyll‰ min‰ sen silloin ensin
+muistinkin ja muistinhan min‰ sen nytkin viel‰, mutta sanoin noita
+toisia nimi‰, jotta p‰‰st‰isiin puheen alkuun.
+
+MARTTI. Olisihan silloin pit‰nyt viel‰ muistaa Lastikka ja Eufemiakin.
+
+MODIG. En min‰ sellaisia vanhojen akkojen nimi‰ nuorille tytˆille anna.
+
+MARTTI. Eih‰n se nimi tytˆn naamaa pilaa eik‰ vartaloa muuta.
+
+MODIG. Kuka t‰m‰ nuori mies on, jonka kieli ei ole molemmista p‰ist‰
+kiinni?
+
+REGINA. Se on Heikkil‰n Martti t‰st‰ naapuritalosta.
+
+MARTTI. Ja kuka t‰m‰ pˆyhkeilev‰ sotamies on, joka keskell‰ kes‰‰
+kuljeksii univormu p‰‰ll‰‰n tytˆille nimi‰ jakelemassa?
+
+MODIG. Min‰kˆ? Kukako min‰ olen? Min‰ olen Matti Modig Porin
+rykmentist‰, majurin komppaniasta, Messukyl‰n Juvelan ruodusta n:o
+7. Jaha, sellainen mies min‰ olen. Olen ollut sitten armon vuoden
+1747 sotilaana ja tehnyt ‰ksiisit ja komennukset aina hyvin. Ei
+minua ole koskaan n‰hty piiskurin edess‰ selk‰ paljaana enk‰ koskaan
+ole humalasta kiinni joutunut. Ja nyt saat sin‰ menn‰ toisille
+markkinoille, kun olet saanut tiet‰‰, mit‰ tahdot.
+
+MARTTI. Ei sit‰ Orivedell‰ Messukyl‰n miehet komentele. Min‰ pysyn
+siell‰, miss‰ min‰ tahdon.
+
+MODIG. Pysy sitten, mutta istu kiltisti kuin hyv‰t lapset paikallasi.
+
+MARTTI. Istun kyll‰, kun sin‰ ensin istut maassa.
+
+MODIG. Tule p‰‰lle, jos uskallat!
+
+REGINA. Hyv‰t miehet, ‰lk‰‰ ruvetko keskell‰ sapattia tappelemaan,
+saatte sakkoa.
+
+MODIG. Mit‰ h‰n haastaa riitaa ja ep‰sopua eik‰ anna minun asiaani
+toimittaa.
+
+REGINA. Toimittakaa sitten asianne ja menk‰‰ ajoissa, ettei tule mit‰‰n
+pahaa.
+
+MODIG. Min‰ olen sotamies ja tapani on menn‰ aina suoraan p‰in
+vihollista ja p‰in naista. Min‰ siis selit‰n asiani niinkuin se minun
+syd‰mell‰ni on. Aina siit‰ asti kun min‰ sinut, Regina, n‰in siell‰
+markkinoilla, on naamasi ollut minun ajatuksissani ja min‰ olen
+ajatellut, ett‰ sinut minun pit‰isi saada el‰m‰nkumppaliksi.
+
+REGINA (ottaa sangon). Parasta on selitt‰‰ asia tuolle Martille. Minun
+t‰ytyy menn‰.
+
+MODIG. Ei t‰t‰ asiaa voi selitt‰‰ kellek‰‰n muulle kuin sinulle. Mihin
+sinulla nyt on sellainen kiire?
+
+REGINA. Porsaathan minua odottavat.
+
+MODIG. Aina mies on enemm‰n kuin porsas. Niin, kun min‰ sinut n‰in,
+niin ajatukseni rupesivat pyˆrim‰‰n ja min‰ ajattelin ja ajattelin...
+
+MARTTI. Sotamies ei saa ajatella, h‰nen p‰‰llysmiehens‰ sen sijaan
+ajattelee kaiken h‰nen puolestaan.
+
+MODIG. Pid‰ suusi kiinni, senkin r‰k‰ttirastas!
+
+MARTTI. Ole vaiti, kruunun krapa!
+
+MODIG. Jos sin‰ tohdit haukkua kruunun sotamiest‰, niin saat linnaa.
+
+REGINA. ƒlk‰‰ riidelkˆ, hyv‰t ihmiset. Parasta on puhua asiat,
+ennenkuin porsaat kuolevat n‰lk‰‰n.
+
+MODIG. Enh‰n min‰ riitaa rakenna. Min‰ en tappele muuta kuin vihollista
+vastaan. Niin, kun min‰ sinua ajattelin, niin muistin sanoneesi, ett‰
+olit kotoisin L‰ngelm‰elt‰. Min‰ menin Juvelaan ja ruodun kirstusta
+otin univormun ylleni ja l‰ksin taivaltamaan L‰ngelm‰elle. Siell‰ sain
+kuulla, ett‰ olit is‰si ja ‰itisi kanssa muuttanut t‰nne Pitk‰j‰rvelle.
+Min‰ astelin rakkauden siivill‰, niinkuin mamsellit sanovat, ja ravasin
+t‰nne.
+
+MARTTI. Varis!
+
+MODIG. Hunsvotti!
+
+REGINA. Muistakaa porsaita, jotka odottavat minua!
+
+MODIG. Ja min‰ olen nyt tullut kysym‰‰n, etkˆ tahtoisi jakaa minun
+kanssani el‰m‰n myˆt‰- ja vastoink‰ymisi‰.
+
+MARTTI. Tuollainen k‰‰kk‰!
+
+REGINA. ƒl‰ nosta metakkaa, Martti! (Modigille.) En min‰ ole vapaa.
+
+MODIG. Olithan sin‰ viel‰ syksyll‰ markkinoilla. Mist‰ se nyt niin
+‰kki‰ on nukkautunut.
+
+REGINA. Se tuli kun tuli, ja min‰ olen t‰‰ll‰ menn‰kseni naimisiin.
+
+MODIG. Tuonko lortin kanssa?
+
+REGINA. Ei h‰nen, vaan t‰m‰n talon pojan kanssa.
+
+MODIG. Mik‰ tuo sitten on? Onko h‰n reservi?
+
+REGINA. Ei h‰n ole mik‰‰n.
+
+MODIG. Mit‰ h‰n sitten t‰‰ll‰ r‰hisee?
+
+MARTTI. Min‰ r‰hisen siell‰, miss‰ min‰ tahdon.
+
+MODIG. Pid‰ suusi kiinni!
+
+MARTTI. Pid‰ itse!
+
+REGINA. Ellette nyt ole hiljaa, niin min‰ menen porsaita ruokkimaan.
+
+MODIG. J‰tet‰‰n koko sikojen suku ja puhutaan rakkaudesta.
+
+MARTTI. Eikˆ t‰m‰ ole se sama Modig, jolla oli Maija-niminen akka?
+Sellainen nilkku ja vaivainen.
+
+MODIG. Ei se Maija aina sellainen ole ollut. Kerran se napisi miest‰‰n
+vastaan, joka lain ja evankeliumin kautta on h‰nen p‰‰ns‰, ja hypp‰si
+kiukuissaan kaivoon ja siit‰ se nilkuksi tuli.
+
+REGINA. Herranen aika, kuoliko se?
+
+MODIG. En min‰ sent‰‰n akkani tappaja ole, el‰‰ se viel‰.
+
+REGINA (kauhistuen). Ja sitten te tulette kosimaan minua!
+
+MODIG. Mit‰ pahaa siin‰ on. Varovainen mies katsoo eteens‰. Kuoleehan
+se akka kuitenkin. Ei se kauaa en‰‰ el‰. Ja kun min‰ sinut n‰in, niin
+min‰ tunsin kuin kanuunalla olisi ammuttu syd‰meen...
+
+REGINA (ottaa sangon j‰lleen k‰teens‰). Sen min‰ sanon, ett‰ siat ovat
+parempia kuin tuollaiset miehet!
+
+    (Menee karjapihaan.)
+
+MARTTI (nauraen). Siin‰ tuli rukkaset niin ett‰ pr‰isk‰hti!
+
+MODIG (aikoo seurata Reginaa). Mutta kuulehan nyt, kun se akka on jo
+niin kovin heikko ja huono...
+
+MARTTI. Parasta on olla menem‰tt‰ sinne, taikka muuten kruunun takki
+ja mies sen sis‰ll‰ makaa keskell‰ pahnoja! Ei ne Reginankaan k‰det
+tuohesta ole, vaan heitt‰‰ se tuollaisen miehen sinne kuin tahtoo.
+Menee yhten‰ k‰ppyr‰n‰ porsaitten joukkoon.
+
+MODIG. Ellei nyt olisi sapatti, niin tulisi t‰st‰ sellainen yhteenotto
+ja k‰sivarsien v‰‰ntˆ sinun kanssasi, ett‰ tiet‰isit olleesi miehen
+k‰siss‰.
+
+MARTTI. Ei sit‰ Heikkil‰n Martti sakkoja pelk‰‰. Talo on suuri ja min‰
+olen ainoa poika, ja jalkapuussa voi istua nuori mies aina aikansa
+kuluksi. Tule p‰‰lle, jos tohdit!
+
+MODIG (vet‰ytyen ver‰j‰‰ kohden). Min‰ en rupea toisten ihmisten
+pihoilla pahantekoon.
+
+MARTTI. ƒh‰‰, joko uskalluksesi v‰henee kuin Eskolan leiv‰t talkoon
+edell‰. Olen min‰ ennenkin tapellut, en min‰ sinua pelk‰‰! Vai tulet
+sin‰ naimisissa oleva mies t‰nne tyttˆj‰ kosimaan! Vai uskaltaa sielt‰
+Messukyl‰st‰ mies tulla neitojen l‰helle Oriveden pihoilla! Katso,
+ettet makaa kohta tuolla aitan nurkissa ja kokoile luitasi palpeerarin
+paikattaviksi.
+
+MODIG. Minulla ei ole mit‰‰n tekemist‰ sinun kanssasi!
+
+MARTTI. Mutta minulla on! Ellet nyt hyv‰n s‰‰n aikana laputa tiehesi,
+niin t‰st‰ syntyy meno, joka on sotaa pahempi.
+
+MODIG. Sin‰ vimmattu nulikka!
+
+MARTTI. Sanoitko nulikka?
+
+MODIG. Kakara, pahankurinen vekara, mullikka!
+
+MARTTI. Viel‰kˆ osaat mit‰‰n vai joko tulet tekem‰‰n k‰sitˆit‰!
+
+MODIG. Min‰ en rupea sinun kanssasi mihink‰‰n, sill‰ sinulla ei ole
+mit‰‰n oikeutta tuohon tyttˆˆn. Vai onko sinulla oikeutta? Sano, onko
+sinulla oikeutta? (Kun Martti on vaiti.) Ahaa, sin‰ rakennat riitaa
+aivan syytt‰ suotta! Varo, etten haasta sinua k‰r‰jiin kotirauhan
+rikkomisesta! Ja sitten saat n‰hd‰, kun saat juosta kujanjuoksua ja
+raipat vinkuvat pitkin selk‰‰si. Ja silloin tahdon min‰ olla sinua
+lyˆm‰ss‰.
+
+MARTTI. Min‰ en osaa kohta puhua en‰‰ mit‰‰n. Min‰ lyˆn, jos viel‰
+sanot yhden ainoan sanan!
+
+MODIG. Min‰ en sano en‰‰ mit‰‰n. Min‰ menen.
+
+    (Menee ver‰j‰st‰.)
+
+REGINA (tulee karjapihasta). Joko se hirvitt‰v‰ ihminen meni?
+
+MARTTI. Jo meni niin ett‰ kintut oikosena.
+
+REGINA (itkien). Mit‰ pahaa min‰ olen tehnyt, ett‰ naineet miehet minua
+n‰in vahtaavat?
+
+MARTTI (hell‰sti). Vahtaammehan me naimattomatkin! ƒl‰ siin‰ nyt itke.
+Min‰ tulen aina niin hell‰lle mielelle, kun tyttˆ itkee.
+
+REGINA. Mutta kun minulla on niin paljon tuskaa, vaivaa ja harmia,
+ennenkuin p‰‰sen naimisiin.
+
+MARTTI. ƒl‰ sin‰ huolehdi siit‰ ollenkaan, vaan anna meid‰n toisten
+p‰‰tt‰‰ se asia.
+
+REGINA. Jos min‰ annan teid‰n toisten p‰‰tt‰‰, niin siit‰ vasta el‰m‰
+tulee. Teh‰n tahdotte kaikki naida minut. Ensin on Juha, jonka kanssa
+olen melkein kuin kihlattu, koska asun h‰nen talossaan. Sitten olet
+sin‰. Ja sitten on tuo sotamies. Ja sitten on Kalle.
+
+MARTTI (tiukasti). Mik‰ Kalle?
+
+REGINA. ƒl‰ katso noin vihaisesti minuun.
+
+MARTTI. Sano heti paikalla, mit‰ Kallea sin‰ tarkoitat?
+
+REGINA (on kuivannut kyyneleens‰; tiukasti). Sit‰ en sano!
+
+MARTTI. Vai et aio sanoa? Kyll‰ min‰ siit‰ tiedon viel‰ saan ja sen
+min‰ sanon, ett‰ niskat min‰ v‰‰nn‰n silt‰ nurin, noin, ett‰ naksahtaa.
+
+REGINA. Sen miehen niskoja sin‰ et v‰‰nn‰.
+
+MARTTI. V‰‰nn‰np‰h‰n!
+
+REGINA. Etp‰ v‰‰nn‰!
+
+MARTTI. Se on ihme ja kumma, ellen min‰ v‰‰nn‰!
+
+REGINA. ƒl‰ jankkaa. Kun min‰ sanon, ettet sin‰ v‰‰nn‰, niin sin‰ et
+v‰‰nn‰.
+
+MARTTI. Min‰ kerron Juhalle ja sitten me v‰‰nn‰mme yhdess‰.
+
+REGINA. Mit‰ sin‰ aiot kertoa?
+
+MARTTI (‰llistyen). Niin... min‰kˆ...?
+
+REGINA. N‰eth‰n, ettet sin‰ voi menn‰ sanomaan h‰nelle, ett‰ Kalle
+tahtoo minut vaimokseen ja ett‰ sin‰ tahdot sen est‰‰, koska itse
+tahdot saada minut vaimoksesi.
+
+MARTTI. H‰?
+
+REGINA. J‰‰ nyt sit‰ miettim‰‰n. Tuolla tulee talonv‰ki jo kirkosta.
+
+(Taustalta saapuvat: Antti CovÈen, Susanna, Tuomas, Anna, Katri ja
+Sohvi ja viimeksi Juha. Kaikki ovat saapuneet n‰ytt‰mˆlle ja seisovat
+paikallaan hetkisen, -- Antti CovÈen, seitsem‰nkymmenenvuotias
+nimismies, pitk‰ ja komea vanhus puettuna tummansiniseen sarkapukuun
+kiilt‰vine nappeineen. Susanna nelj‰nkymmenenvuotias hyvin komea
+ja rehev‰ nainen, puettuna punaiseen verkahameeseen ja mustaan
+rˆijyyn, p‰‰ss‰ tanu ja kaulassa valkoinen huivi, edess‰ valkoinen
+palttinaesiliina, jalassa valkoiset sukat ja mustat keng‰t. Tuomas,
+l‰hes kuudenkymmenenvuotias tanakka talonpoika, tukka pitk‰, parraton,
+puettuna harmaaseen sarkapukuun ja saappaisiin, p‰‰ss‰ harmaa hattu.
+Anna, h‰nen vaimonsa, puettuna punaiseen verkahameeseen ja mustaan
+rˆijyyn, p‰‰ss‰ tanu, kaulassa valkoinen huivi ja edess‰ valkoinen
+esiliina. Katri ja Sohvi, nuoria tyttˆj‰, puetut raidallisiin
+hameisiin ja liiveihin, edess‰ valkoinen esiliina, kaulassa valkoinen
+huivi, p‰‰ss‰ tukkanauha, tukka palmikolla. Juha, nuori ja hento
+mies, puettuna harmaaseen sarkapukuun, p‰‰ss‰ kudottu lakki, jalassa
+saappaat. Kaikilla on virsikirja k‰dess‰‰n.)
+
+ANTTI (ryk‰isee). Nyt olemme siis koettelemuksen suuren hetken
+kest‰neet ja synti on saanut palkkansa.
+
+SUSANNA. Amen!
+
+ANTTI. Sin‰ tytt‰reni olet is‰si nimen h‰pe‰ll‰ peitt‰nyt ja minut
+puheenaineeksi saattanut. Ja nyt on minun, joka niin monta olen
+jalkapuuhun pannut, itse kyynelsilmin t‰ytynyt siihen loukkuun oma
+tytt‰reni panna.
+
+SUSANNA. Etteh‰n te, is‰, yht‰‰n itkenyt, olitte vihaisen n‰kˆinen ja
+sanoitte... En min‰ kehtaa sanoa, mit‰ sanoitte.
+
+ANTTI. Vai olisi pit‰nyt minun siin‰ viel‰ halailla sinua?
+
+SUSANNA. En min‰ sit‰ tarkoittanut. Huomasitteko, is‰, miten kauniit
+valkoiset sukat minulla oli...
+
+ANTTI (ankarasti). Susanna! Sukkiasiko sin‰ ajattelit silloin, kun
+sinun olisi pit‰nyt h‰vet‰ suurta kevytmielisyytt‰si.
+
+SUSANNA. Kyll‰ min‰ sit‰ kevytmielisyytt‰nikin sitten myˆhemmin
+ajattelin.
+
+ANTTI. Kuinka voit sin‰ vanha ihminen...
+
+SUSANNA. Min‰ en ole mik‰‰n vanha, vasta nelj‰kymment‰ t‰ytt‰nyt.
+
+ANTTI. Kuusiviidett‰ Sin‰ olet t‰ytt‰nyt, totta kai min‰ oman tytt‰reni
+i‰n muistan.
+
+SUSANNA. No, ne pari vuotta sinne tai t‰nne! Nuorihan min‰ viel‰ olen.
+
+ANTTI. Sinulla on melkein t‰ysi-ik‰inen poika ja sitten sin‰ lesken‰
+sekaannut toiseen mieheen.
+
+SUSANNA. Piru perikˆˆn sen Juha Heikinpojan, muuta min‰ en sano.
+
+ANTTI (ankarasti). Susanna!
+
+SUSANNA. Ei kai minun elin-i‰kseni pid‰ leskeksi j‰‰d‰? Saan kai min‰
+menn‰ toistamiseen naimisiin. Olettehan tekin, is‰, ollut kahdesti
+naimisissa.
+
+ANTTI. Kun jumala otti minulta vaimon, niin antoi h‰n minulle toisen.
+Mutta min‰ menin naimisiin kirkon kautta enk‰ niinkuin sin‰ omin
+neuvoin.
+
+SUSANNA. Mutta ajatelkaahan, is‰, sent‰‰n asiaa. Kun mieheni kuoli,
+t‰ytyi minulla olla joku, joka talossa teki tyˆt‰, kun Juha on
+viel‰ niin nuori ja hentokainen. Ja sitten tuli h‰n ja tahtoi tulla
+is‰nn‰ksi. Ja onhan is‰nn‰ll‰ aina oikeuksia. Ja sitten tuli ne
+kaksoset.
+
+ANTTI. Ettet sin‰ h‰pe‰ sit‰ tuolla tavalla kertoa.
+
+SUSANNA. Ei siin‰ siihen asti ollut mit‰‰n h‰vett‰v‰‰. Olisimmehan me
+menneet naimisiin. Mutta kun oikeus ei antanutkaan h‰nelle taloa, vaan
+antoi sen pojalleni, niin sammui h‰ness‰ rakkaus. H‰n sanoi, ett‰ sinne
+se hukkui k‰r‰j‰tupaan. H‰n meni heti tiehens‰. Sanovat, ett‰ h‰n on
+nyt Kangasalla Ruokoisissa. Onko is‰ n‰hnyt h‰nt‰? Sattuiko h‰n olemaan
+kirkossa.
+
+ANTTI. Susanna!
+
+SUSANNA. Ja vaikka h‰n talon olisi saanut, niin en min‰ olisi h‰nt‰
+en‰‰ ottanut. Ennen sitten vaikka jalkapuu ja vesi ja leip‰.
+
+ANTTI. Ja niit‰ sin‰, jumala paratkoon, olet saanut maistaa.
+
+SUSANNA. Mutta en min‰ yht‰‰n siit‰ laihtunut. Enh‰n olekaan.
+
+ANTTI. Sin‰ uppiniskainen nainen. Kun laki ja korkea oikeus vaati,
+ett‰ sin‰ menisit h‰nen kanssaan naimisiin, niin sin‰ sanoit, ettet
+mene. Sin‰ sait siit‰ seitsem‰n vuorokautta vett‰ ja leip‰‰. Ja kun
+asia sitten oli uudestaan k‰r‰jill‰, niin sanoit sin‰ sitten taas,
+ettet mene mist‰‰n hinnasta, ja sait kaksi viikkoa vett‰ ja leip‰‰.
+Min‰, joka olen nimismies, h‰pesin sellaista tyt‰rt‰. Ja nyt on asia
+tuomiokapitulissa ja se voi tuomita sinut tuon miehen kanssa vihille.
+
+SUSANNA. Mutta min‰ en mene h‰nen kanssaan naimisiin, en vaikka mik‰
+olisi, en, vaikka piispat ja papit kiljuisivat. Min‰ olen niin sen itse
+tykˆn‰ni p‰‰tt‰nyt. Ja vaikka korkea kuninkaamme...
+
+ANTTI. Kuninkaan nime‰ et saa sekoittaa sinun naimajuttuihisi.
+
+SUSANNA. Sill‰ se mies... en min‰ kuningasta tarkoita, vaan sit‰
+toista... on paha mies, joka lˆi minua. Ja tied‰ttekˆ, is‰, mit‰ h‰n
+sanoi?
+
+ANTTI. Mit‰ h‰n sanoi?
+
+SUSANNA. H‰n oli niin h‰vytˆn, ett‰ sanoi: Tuo toinen kaksosista on
+minun, mutta ei tuo toinen!
+
+    (Martti purskahtaa nauruun.)
+
+ANTTI (tiuskaisee). Pois t‰‰lt‰ pihalta, Heikkil‰n Martti! Ei t‰m‰ ole
+mik‰‰n naurunpaikka!
+
+    (Martti livist‰‰ ver‰j‰st‰ pois.)
+
+TUOMAS (astuu esiin). Mutta eikˆh‰n herra vallesmanni j‰tt‰isi tuota
+korkeaa lain puustavia nyt syrj‰‰n ja alentuisi meid‰n kanssamme
+olemaan rauhassa ja sovussa. Em‰nt‰ on erehtynyt, mutta h‰n on sen
+t‰hden h‰pe‰‰kin saanut. Nyt on h‰nen poikansa aikonut menn‰ meid‰n
+tytt‰remme kanssa naimisiin. Ja kun min‰ olen talossa niin kauan kuin
+molemmat tytt‰reni ovat viel‰ miest‰ vailla, niin eih‰n t‰‰ll‰ ole
+mit‰‰n surun paikkaa. Me el‰mme ja viljelemme taloa. Tyˆt‰ me teemme
+ja voimme hyv‰sti, veromme maksamme ja v‰lt‰mme k‰r‰j‰tupaa. Ei t‰‰ll‰
+em‰nt‰ en‰‰ miest‰ kaipaa, kun kerran min‰ olen is‰nnyytt‰ pit‰m‰ss‰.
+
+ANNA. Ja min‰ olen aina tottunut pit‰m‰‰n miehi‰ loitolla. Ei t‰nne
+en‰‰ kukaan tule muuta kuin minun luvallani.
+
+ANTTI. Mit‰ sin‰, Juha, jota t‰m‰ eniten koskee, t‰h‰n kaikkeen sanot?
+
+JUHA (ujosti). Ei minulta ole kysytty yht‰‰n mit‰‰n.
+
+ANTTI. Min‰ muistan vihkim‰luvusta, ett‰ vaimon tulee erota is‰st‰‰n ja
+‰idist‰‰n ja mieheens‰ sidottu oleman.
+
+TUOMAS. Tarkoittaako vallesmanni sill‰, ett‰ me olemme t‰ss‰ talossa
+liikaa.
+
+ANTTI. Min‰ tarkoitan, ett‰...
+
+ANNA. Vallesmanni sanoo mit‰ ajattelee, emme me pelk‰‰ sanoja.
+
+ANTTI (katsoo pitk‰‰n h‰neen). Min‰ katson ajankohdan sellaiseksi, ett‰
+t‰ss‰ ei puhuta nyt siit‰. Kun Juha ensin on viett‰nyt h‰‰ns‰, niin
+sitten me puhumme kaikesta.
+
+ANNA. Juha tekee niinkuin min‰ tahdon.
+
+SUSANNA. Tai niinkuin min‰.
+
+ANNA. Teeth‰n sin‰, Juha, niinkuin min‰ tahdon?
+
+JUHA. Totta kai min‰ teen.
+
+SUSANNA. Ja teeth‰n, niinkuin min‰ sanon.
+
+JUHA. Sanassa sanotaan, ett‰ pit‰‰ totella ‰iti‰‰n.
+
+ANTTI. Ota siit‰ sitten selko! Kaksi naista ei koskaan tahdo samaa, ei
+ainakaan em‰nt‰n‰ ollessaan.
+
+ANNA. Mutta kun saarna oli pitk‰ ja aamulla varhain l‰hdimme, niin jo
+on ateriankin aika. Menk‰‰mme tupaan. Kai sin‰ olet, Regina, kaiken
+keitt‰nyt?
+
+REGINA. Enh‰n min‰ enn‰tt‰nyt, kun minun piti niit‰ porsaita hoitaa.
+
+SUSANNA. Min‰ n‰in, ett‰ yksi porsas ‰sken meni t‰‰lt‰ pois ja
+ravasikin aika kyyti‰. Ett‰ sin‰ kehtaat!
+
+ANNA. ƒl‰ sin‰ hauku minun tyt‰rt‰ni!
+
+SUSANNA. Sinun tyt‰rt‰si ja minun tulevaa mini‰‰ni!
+
+ANNA. Viel‰ h‰n on minun tytt‰reni eik‰ sinun mini‰si.
+
+ANTTI. So, so, vaimot! Menk‰‰ sis‰lle ja laittakaa ruokaa meille
+miehille.
+
+    (Susanna ja Anna menev‰t tupaan.)
+
+KATRI (Reginalle). Mit‰ sin‰ sit‰ Marttia t‰nne aina kuljetat?
+
+REGINA. Ei minun tuota tarvitse kuljettaa, itseh‰n tuo tulee ja
+tuleekin v‰kipakolla. Jos sin‰ tahdot h‰net luonasi pit‰‰, niin sido
+sitten esiliinasi nauha h‰nen kaulaansa.
+
+KATRI. Ei nuori mies koskaan tule, ellei nainen h‰nt‰ houkuttele.
+
+REGINA. Eip‰ tule kaikille houkuttelemallakaan.
+
+KATRI. Tarkoitatko sill‰ minua?
+
+ANTTI (astuen v‰liin). Rakkaat lapset, ‰lk‰‰ tapelko miehist‰
+sunnuntaip‰iv‰n‰! Menk‰‰ sis‰lle ja laittakaa ruokaa, se on naisen
+teht‰v‰‰!
+
+    (Regina, Katri ja Sohvi menev‰t tupaan.)
+
+JUHA (on seisonut synkk‰n‰ ja katselee Reginan j‰lkeen). Niin on tuo
+Regina mutkallinen ja sekava kuin synnintunnustus lukusijoilla.
+
+ANTTI (istuu oikealle etualalle kivelle). Kuule, minun tytt‰reni poika!
+
+JUHA (l‰hestyy). Mit‰ vaari tahtoo?
+
+ANTTI. Sin‰ olet hiljainen ja yksitotinen mies, ja siksi min‰ sinusta
+pid‰n. Niin olet kuin is‰sikin oli. Hiljainen h‰nkin oli, mutta kun
+kiukku p‰‰si h‰ness‰ valtaan, niin loitolla oli toisten oltava, ja
+saipa siin‰ totella h‰nt‰ silloin vaimonsa Susannakin.
+
+JUHA. Niinh‰n se oli, kyll‰ is‰ ‰iti‰ piti kurissa ja herrannuhteessa,
+varsinkin kurissa, eik‰ silloin s‰‰stetty keppi‰k‰‰n, kun siksi tuli.
+
+ANTTI. Naista on kurilla kasvatettava, ei siit‰ muuten hyv‰‰ tule. Jos
+h‰n vallan k‰siins‰ saa, niin r‰k‰tt‰‰ aamusta iltaan.
+
+JUHA. Oikein ja viisaasti puhuttu. Sit‰ minun is‰nikin sanoi ja samaa
+sanoi h‰nenkin is‰ns‰ vanha Eerikkivaari. Niin oli n‰ill‰ ankara luonto
+naisen suhteen. Naista on hyv‰sti hantteerattava, sanoi Eerikkivaari
+aina.
+
+ANTTI. Min‰ olen katsellut sinun tulevaa vaimoasi. Kaunis h‰n on?
+
+JUHA. Kaunis kuin kukkainen juhannuksen aikaan, punainen kuin mansikka
+aholla ja k‰ynti on h‰nell‰ notkea ja sulava kuin hyv‰ll‰ hevosella.
+Mutta ‰ksy h‰n on, niinkuin varsa, jota ei viel‰ ole opetettu.
+
+ANTTI. Pane ajoissa kuolaimet suuhun, muuten ei sinulla ole ainoaakaan
+rauhan hetke‰. Muista mit‰ Salomo, joka itselleen oli ylenpalttisen
+paljon vaimoja hankkinut, sanoo: "Parempi on istua katon kulmalla
+kuin riitaisen vaimon kanssa yhdess‰ huoneessa!"
+
+JUHA. Olenhan min‰ ajatellut, ett‰ h‰n tulee ‰itiins‰, joka Tuomasta,
+vaikka onkin t‰m‰ roteva mies, pit‰‰ ankarassa kurissa. Mutta kun t‰t‰
+olen katsellut, niin olen p‰‰tt‰nyt, ett‰ toinen meno minun talossani
+on oleva.
+
+ANTTI. P‰‰tˆs on oikea, mutta onko sinussa miest‰ p‰‰tˆksesi perille
+viem‰‰n?
+
+JUHA. En ole tahtonut asiaan kajota, kun h‰n on viel‰ morsiameni, vaan
+olen odottanut h‰it‰.
+
+ANTTI. T‰ytyyh‰n naisella olla oma aikansa, jolloin h‰n komentieraa ja
+mekastaa. Tyttˆn‰h‰n tuo h‰nelle sopii, sill‰ sen kautta nuori nainen
+miehen l‰mpim‰n‰ pit‰‰, mutta kun tulee avioaika, niin on t‰m‰ k‰skev‰
+luonto h‰nest‰ otettava aivan heti pois.
+
+JUHA. Kun n‰in sopiva hetki on tullut, niin saan kai tehd‰ pari
+kysymyst‰?
+
+ANTTI. Tee, tytt‰reni poika, tee kysymyksesi.
+
+JUHA. Jos minun morsiameni h‰nn‰n liepeill‰ toisia poikia juoksee, niin
+mill‰ min‰ ne saan pois?
+
+ANTTI. Anna niille selk‰‰n, se on yksinkertainen neuvoni.
+
+JUHA. Kyll‰h‰n neuvo hyv‰ on, mutta jos voimat eiv‰t riit‰.
+
+ANTTI. K‰yt‰ silloin viekkautta.
+
+JUHA. Mist‰ sen ottaa, jos sit‰ ei ole. Min‰ olen hiukan yksitotinen
+enk‰ osaa kiemurrella.
+
+ANTTI. Kyll‰ kiemurteluun oppii, kun rakkaus piinaa. Rakkaus on kaiken
+hyv‰n ja pahan opetusmestari, Sanoohan sanakin, ett‰ kolme asiaa on
+tutkimatonta: kotkan lento taivahalla, k‰‰rmeen kulku kalliolla ja
+nuoren miehen meno naisen tykˆ. N‰in viisaat miehet ovat jo varhain
+havainneet, ett‰ rakkauden vimma saattaa jokaisen miehen ovelaksi.
+
+JUHA. Eih‰n minun tarvitse oveluutta k‰ytt‰‰, kun Regina samassa
+talossa on. Mutta kun niit‰ toisia liikkuu aina l‰hettyvill‰. Tuo
+Marttikin, joka t‰‰lt‰ livisti, on aina h‰nen kimpussaan. Mill‰ min‰
+h‰net voitan? Minulla on kankea kieli ja h‰nell‰ sujuva puhe. Min‰ olen
+hento ja h‰n on roteva.
+
+ANTTI. Kuule minua, joka pitk‰t ajat olen ollut vallesmannina sek‰
+L‰ngelm‰ell‰ ett‰ t‰‰ll‰ ja monia rakkausjuttuja joutunut suoristamaan
+tai katkomaan sek‰ pit‰j‰ll‰ liikkuessani ett‰ k‰r‰jill‰. Jos sin‰
+tahdot, ett‰ joku Marttia silm‰ll‰ pit‰‰, niin ota selkoa, onko miss‰‰n
+tyttˆ, joka on iskenyt silm‰ns‰ tuohon poikaan.
+
+JUHA. Onhan tuo Katri, morsiameni sisar.
+
+ANTTI. Kovin on kiukkuinen h‰nkin, ei h‰nest‰ ole. Etkˆ tied‰
+lempe‰mp‰‰ naista, joka olisi kipe‰n‰ Martin t‰hden?
+
+JUHA. Mihin sit‰ lempe‰‰ naista tarvitaan?
+
+ANTTI. Jos sellaisen saat tietoosi, niin vihkaise h‰nelle, ett‰ Martti
+rakastaa h‰nt‰. Pian tytˆn mieli sellaisesta pehmenee. H‰n alkaa
+pit‰‰ miest‰ silm‰ll‰. Ja kun rakkaus on alun saanut, niin h‰n alkaa
+vahdata, ettei kukaan toinen nainen p‰‰sisi h‰nen halmeilleen ja
+mailleen. Niin olen min‰ vallesmannina monesti havainnut, ett‰ ei mies
+koskaan jaksa sill‰ tavalla toista ihmist‰ silm‰ll‰ pit‰‰ ja h‰nen
+askeleitaan seurata, kuin nainen jaksaa. Yˆt t‰m‰ kykkii aidan takana,
+nurkan piilossa vahtaa, kuuntelee korva pitk‰ll‰. Ja jos sin‰ h‰nen
+rakkausasiaansa tuet ja turvaat, niin antaa t‰m‰ sinulle kaiken tiedon.
+Noudata vanhan ja viisaan miehen neuvoa, Juha, ja etsi sellainen
+nainen.
+
+JUHA. Kyll‰ min‰ selityksest‰ jo olen arvannut, millaisesta t‰ss‰
+puhutaan. Onhan Yrjˆl‰n Maria sielt‰ Sahraj‰rvelt‰.
+
+ANTTI. Aijai, ei sovi, kovin on toisella puolen pit‰j‰‰.
+
+JUHA. Kyll‰ Maria t‰‰ll‰ l‰hettyvill‰ on. Laasolan Sikalassa se on
+hein'aikaa.
+
+ANTTI. Ja oletko huomannut, ett‰ h‰nen silm‰ns‰ olisivat naulaantuneet
+Marttiin.
+
+JUHA. Vaikka min‰ olen t‰llainen hiljainen mies, niin n‰en min‰kin. Kun
+Martti on l‰hell‰, niin punaisiksi lent‰v‰t neidon posket ja esiliinaa
+hypyilev‰t sormet.
+
+ANTTI. Mutta pompottaako syd‰n?
+
+JUHA. Enh‰n min‰ sit‰ ole voinut koetella.
+
+ANTTI. Ei tarvitsekaan: Onko h‰n kielell‰‰n liponut huuliaan, kun
+Martti on l‰hell‰?
+
+JUHA. Totta viekˆˆn, on! Aina h‰n tekee n‰in. Kielen k‰rki kauniisti
+kulkee huulien v‰liss‰.
+
+ANTTI. Selv‰ merkki? selv‰ merkki! Katsohan, kun rakkaus kuumentaa
+syd‰nt‰, niin henki k‰y myˆs kuumaksi ja huulet kuivuvat. Eiv‰t ne
+muusta kuivukaan naisihmisell‰. Ei edes sanojen tavaton tulva niit‰
+kuiviksi saa. Mutta annahan olla, kun rakkaus saa syd‰men hyppim‰‰n,
+niin heti ovat huulet kuin hein‰ poutaisena p‰iv‰n‰. Ja jos h‰n viel‰
+miehen aikana n‰in pˆyhistelee, nostaa rintaansa ja syv‰‰n vet‰‰
+henke‰‰n, niin rakkaus se silloin myllert‰‰ h‰nen povessaan. Sellainen
+nainen on ihan sokea: niin on kuin sika tulipalossa, menee vain
+liekkiin, ei pysy turvassa, vaan p‰tsiin pyrkii. Ota t‰llainen nainen
+hoitoosi, ja kun huomaat, ett‰ h‰n rakastaa, niin ‰rsyt‰ h‰ness‰
+mustasukkaisuutta. ƒl‰ sit‰ tee aivan selv‰sti, jotta h‰n ei arvaa
+kaikkea. Viittoile sinne ja t‰nne. Jota v‰hemm‰n sanot, sit‰ enemm‰n
+naisen rakkauden p‰tsiss‰ raivoava luonto omiaan keksii. Ja vaikka t‰m‰
+nainen ei saisikaan Marttia omakseen, niin ainakin h‰n saattaa kaikki
+t‰m‰n aikeet tyhjiksi tehd‰ sinun morsiamesi suhteen.
+
+JUHA. Min‰ kiit‰n ja kumarran. Viisaan miehen sanat ovat kultaa
+kalliimmat.
+
+ANTTI. Olen n‰hnyt monta viisasta tuomaria, olen n‰hnyt sek‰
+kihlakunnan k‰r‰jill‰ ett‰ laamannin k‰r‰jill‰, ja monesti ovat n‰m‰
+k‰‰ntyneet minun puoleeni ja sanoneet: "Te vallesmanni CovÈen, joka
+olette viisas ja keksiv‰ ihminen, sanokaa, mill‰ tavalla me t‰m‰n
+pulman ratkaisemme?" Ja aina on Antti CovÈen oikean tien neuvonut. Ja
+niin sanotaan, ett‰ ei mene kiveen eik‰ loveen, jos on tyyr‰‰m‰ss‰
+Antti CovÈen.
+
+SUSANNA (tuvan ovelta). Is‰, tulkaa syˆm‰‰n!
+
+ANTTI. Onko siell‰ rauha maassa?
+
+SUSANNA. Rauha t‰‰ll‰ on. Anna lˆi minua halolla, mutta min‰ iskin
+seip‰‰ll‰.
+
+ANTTI. Eih‰n t‰nne ulos kuulunut mit‰‰n mekastusta tuvasta.
+
+SUSANNA. Mit‰ niin v‰h‰st‰ huutaisi! Olemme me paremminkin tapelleet.
+
+ANTTI. Jaa, jaa, nainen on merkillinen olento. Eih‰n Salomokaan
+kaikessa viisaudessaan siit‰ p‰‰ssyt selville. Mutta olisipa t‰m‰
+kysynyt CovÈenilta.
+
+    (Menee tupaan.)
+
+SUSANNA. Etkˆ tule, Juha?
+
+JUHA. Min‰ menen ensin katsomaan hevosta, ettei se vain ole p‰‰ssyt
+haasta karkuun.
+
+SUSANNA. Min‰ j‰t‰n keittoa sinulle. Tuo Tuomas syˆ kuin villitty. Jos
+h‰n saa olla padan l‰hell‰, niin kaapii h‰n lopulta kaiken sielt‰.
+
+    (Menee tupaan.)
+
+JUHA (aikoo menn‰ ver‰j‰st‰, kun samalla Maria tulee h‰nt‰ vastaan).
+No, minne sin‰, Maria, olet menossa?
+
+MARIA (kahdenkymmenvuotias vaaleatukkainen hiukan ujo, mutta iloinen
+tyttˆ. Puettu siniseen sarkahameeseen). Sinne kai, miss‰ tie p‰‰ttyy.
+Minulla olisi Reginalle asiaa.
+
+JUHA. H‰n on tuolla tuvassa. (Aikoo menn‰.)
+
+MARIA. Minne sin‰ olet menossa?
+
+JUHA. Katsomaan, onko ruuna haassa.
+
+MARIA. Haassa kai se on, koska min‰ juuri sille aidan yli annoin
+leip‰palasen.
+
+JUHA. Siin‰ tapauksessa ei minun tarvitsekaan sinne menn‰, vaan voin
+j‰‰d‰ kanssasi puhumaan. V‰h‰n aikaa sitten puhuin sinusta vallesmannin
+kanssa.
+
+MARIA. Mit‰ puhumista minusta on?
+
+JUHA. Me ihmettelimme sit‰, ettei Heikkil‰n Martti ole sinua huomannut.
+H‰nh‰n huomaa jokaisen korean tytˆn.
+
+MARIA. ƒl‰ viitsi puhua noin. (Hengitt‰‰ syv‰‰n.) Martilla on omat
+mieluisensa.
+
+JUHA. Niin on kai jokaisella nuorella miehell‰. Oletko juossut, kun
+hengit‰t noin syv‰‰n?
+
+MARIA. En min‰ ole juossut, k‰velin Sikalasta aivan hiljaa t‰nne. Nyt
+on vain niin helteinen p‰iv‰. On oikea hein‰ilma.
+
+JUHA. Niin on, tulee niin kuuma, ett‰ huulet kuivuvat.
+
+MARIA. Niin, nyt on kuuma ilma. (Lyhyt vaitiolo.) Onko se Martti
+puhunut minusta mit‰‰n?
+
+JUHA. Ei ainakaan t‰n‰‰n, eik‰ ainakaan minulle.
+
+MARIA. Niin, mit‰ h‰n sinulle muista tytˆist‰ puhuisi, kun h‰n on
+uskollisesti Reginan l‰hettyvill‰.
+
+JUHA. Vai olet sin‰kin sen huomannut?
+
+MARIA. Senh‰n on huomannut aivan jokainen t‰‰ll‰. Me ihmettelemme, ett‰
+sin‰ sen sallit.
+
+JUHA. Reginahan on minun tuleva vaimoni.
+
+MARIA. Ellei Martti h‰nt‰ ota.
+
+JUHA. Ei h‰nt‰ minulta kukaan ota, ellen min‰ itse anna.
+
+MARIA. Ei sit‰ vain niin kysyt‰, kun otetaan.
+
+REGINA (tulee tuvasta). Min‰ n‰in ikkunasta, ett‰ sin‰, Maria, olit
+t‰‰ll‰.
+
+MARIA. Sikalan is‰nt‰ l‰hetti minut t‰nne kysym‰‰n, aiotaanko teill‰
+pit‰‰ hein‰talkoita.
+
+REGINA. Ei kai meill‰ pidet‰, kun t‰‰ll‰ on omaa v‰ke‰ aivan tarpeeksi.
+Aiotaanko Sikalassa pit‰‰?
+
+MARIA. Sellaista is‰nt‰ puhui. H‰n aikoo ensi torstaina pit‰‰.
+
+JUHA. Me olemme siksi saaneet kai jo omat hein‰mme kaikki niitetyiksi,
+niin ett‰ meid‰n puolestamme se sopii aivan hyvin.
+
+REGINA. Etkˆ sin‰ ollut kirkossa, koska et ole juhlapuvussa?
+
+MARIA. Enh‰n min‰. Jonkun t‰ytyi olla kotona. Ja sitten min‰ h‰pesin
+sit‰, ett‰ tuttu em‰nt‰ istuu jalkapuussa.
+
+REGINA. Eih‰n se sellainen juuri talolle ole soveliasta.
+
+MARTTI (tulee ver‰j‰st‰). Kas, t‰‰ll‰h‰n on oikea k‰r‰j‰kunta. Mik‰ se
+Mariankin on t‰nne tuonut?
+
+MARIA. Hein‰talkoistahan min‰ olin t‰‰ll‰ puhumassa Sikalan is‰nn‰n
+puolesta.
+
+MARTTI. Antaako is‰nt‰ tanssiakin talkoissaan?
+
+MARIA. Antaa kai. Miksi tuo sen kielt‰isi, kun aina talkoissa
+tanssitaan muuallakin.
+
+MARTTI (l‰hestyy Reginaa, puolikovaa). Minulla on sinulle asiaa.
+
+REGINA (puolikovaa). ƒl‰ nyt t‰‰ll‰, toiset huomaavat. Tuvastakin
+voidaan n‰hd‰. Ne pitiv‰t jo sellaista metakkaa siit‰, ett‰ sin‰ ‰sken
+olit t‰‰ll‰.
+
+JUHA (hiljaa Marialle). Nuo sopivat jostain.
+
+MARIA. Silt‰ kuulostaa. Minulla on kovin tarkka korva. Minulla oli
+sit‰paitsi t‰ti, joka oli kuuro ja min‰ osaan lukea jo kaukaa suun
+liikkeist‰.
+
+JUHA. Mit‰ he sanovat nyt toisilleen?
+
+MARIA. Regina sanoo, ettei h‰n tahdo. Nyt Martti sanoo, ett‰ Reginan
+t‰ytyy tulla. Regina kysyy, minne. Martti sanoo: illalla Koljon virran
+sillalle.
+
+JUHA. ƒl‰ sano sit‰ kellek‰‰n muille.
+
+MARTTI. Kai min‰ taas menen, koska minua ei vieraaksi taloon huolita.
+Hyv‰sti sitten. Ja Maria, talkoissa me tanssimme yhdess‰.
+
+MARIA. Tanssitaan vain. (Juhalle.) Senkin katala riiviˆ!
+
+JUHA. Min‰ menen Koljon sillalle vahtiin.
+
+MARIA. Niin min‰kin.
+
+MARTTI. Hyv‰sti j‰‰k‰‰! (Menee ver‰j‰st‰.)
+
+REGINA. Tulehan, Juha, syˆm‰‰n! Kai sin‰kin, Maria, tulet tupaan?
+
+MARIA. En, kyll‰ min‰ menen kotia. Hyv‰sti ja herran rauhaan!
+
+JUHA (itsekseen, menness‰‰n tupaan). Vallesmanni on viisas mies!
+
+
+V‰liverho.
+
+
+
+
+TOINEN NƒYT÷S.
+
+
+Koljon virran silta. Virta on kapea, sen yli vie silta, joka t‰ytt‰‰
+koko etualan. Kaidepuu on taustan puolella. T‰m‰n takana n‰kyy
+vehmainen ranta molemmin puolin virtaa. Virtaa, joka on syv‰ll‰, ei
+n‰y laisinkaan. Etualalla johtaa tie kummallekin taholle, vasemmalla
+Laasolan kyl‰‰n, josta Sikala tulee, ja oikealla Pitk‰j‰rven kyl‰‰n,
+josta muut saapuvat.
+
+MARTTI (tulee oikealta, pys‰htyy sillalle, katselee oikealle ja
+viheltelee hiljaa. H‰n kuulee vasemmalta pensaikosta rapinaa, k‰‰ntyy
+‰kki‰ ja kysyy). Kuka siell‰ pensaikossa on?
+
+SIKALAN ƒƒNI (vasemmalta pensaikosta sillan korvasta). Sht!
+
+MARTTI. Kuka siell‰ on? Ellet vastaa, niin ved‰n sinut niskasta esiin.
+
+SIKALAN ƒƒNI. Sht! ƒl‰ huuda!
+
+MARTTI. Kuka siell‰ on? Etkˆ saa ‰‰nt‰ suustasi?
+
+SIKALA (tulee esiin, suuri piilukkoinen pyssy k‰dess‰‰n. H‰n on puettu
+rohtimiseen pukuun. Vanha mies,, piipunnys‰ hampaissaan). Mit‰ sin‰
+siell‰ kiljut! Min‰h‰n se olen.
+
+MARTTI. Kas, Sikalan is‰nt‰h‰n se onkin, joka pensaissa kykkii. Mit‰
+te pyssyll‰ teette? Ette kai ole sorsia vahtaamassa? Ei niit‰ t‰ss‰
+sillalla ole. Tuolla Koljon virran suussa niit‰ on ruohikko aivan
+t‰ynn‰.
+
+SIKALA. Niinkuin min‰ en sit‰ tiet‰isi, senkin lortti. Ik‰ni olen
+t‰‰ll‰ el‰nyt ja sorsia jahdannut jo pitk‰t ajat, ennenkuin sinua
+edes oli ajateltukaan. Ja kallista ruutiako min‰ haaskaisin sorsiin.
+Meneeh‰n niit‰ katiskoihinkin enemm‰n kuin tahtoo.
+
+MARTTI. Mit‰ te sitten t‰‰ll‰ vainootte?
+
+SIKALA. Ole hiljaa ja mene kyyryyn. Tuolla tulee taas.
+
+    (Kyyristyv‰t sillan korvaan ja katsovat hetkisen
+    vasemmalle, Sikalan t‰hd‰tess‰.)
+
+MARTTI. En min‰ n‰e mit‰‰n!
+
+SIKALA. Saakelin kissa siell‰ vain oli!
+
+MARTTI. Kissojako eno t‰‰ll‰ pyyt‰‰kin?
+
+SIKALA. Kivell‰ min‰ vieraat kissat hengilt‰ heit‰n, ei niihin ruutia
+haaskata. Kaksijalkaisia kissoja min‰ t‰‰ll‰ vahtaan. Ja jos viel‰
+yhdenk‰‰n n‰en, niin kinttuihin annan t‰st‰, jotta paukkuu.
+
+MARTTI. Varkaitako te pelk‰‰tte. Eiv‰t ne tule keskell‰ p‰iv‰‰.
+
+SIKALA. Ne varkaat, joita min‰ vahtaan, tulevat juuri n‰in iltap‰iv‰ll‰
+ja varsinkin lauantaina ja sunnuntaina. Ne on ne perkeleen nuoret
+miehet, jotka juoksevat meid‰n talon nurkissa. Onko se nyt laitaa!
+Minulta viev‰t piiat ihan alvariinsa pois.
+
+MARTTI. Eih‰n sit‰ saa toisen palkollista houkutella pois. Laki sen
+kielt‰‰.
+
+SIKALA. Vaan ei naimalaki. Kyll‰ vihkipallin kautta aina piian saa
+pois. Minulla oli ensin piika t‰st‰ pit‰j‰st‰. Keskell‰ vuotta se
+vietiin, ja min‰ tietysti j‰in ilman palkollista. Sitten otin varmuuden
+vuoksi piian L‰ngelm‰elt‰. Oliko se sen parempi? Vieraspit‰j‰l‰inen
+on aina oikein haluttu. Se meni miehen kaulaan niin ett‰ suhahti. Ja
+nyt min‰ olen p‰‰tt‰nyt, ett‰ meid‰n taloon ei saa tulla mik‰‰n nuori
+mies, ennenkuin syyskorjuu on p‰‰tetty. Naikoot sitten vaikka miten
+paljon haluavat. Mutta juuri t‰m‰ hein'aika ja sitten leikkuuaika! Ihan
+luulisi, ettei ihminen osaa rakastaa muuna aikana. Odotahan, tuolla
+taas liikkuu jotain! (Odottaa pyssy ojossa.) Se olikin vain meid‰n
+talon Halli, joka on menossa sorsajahdille.
+
+MARTTI. On sit‰ enollakin omat surunsa.
+
+SIKALA. Sanohan muuta! Mutta mit‰ t‰m‰ viel‰ on. Verrattuna siihen
+Lemp‰‰l‰n Sotavaltaan. Siell‰ herrasv‰ki kuuluu olevan ihan
+helisem‰ss‰. Ne Sotavallan piiat ovat ihan yht‰p‰‰t‰ vihill‰. Se talo
+on ihan kuin naimamarkkinapaikka.
+
+MARTTI. Mit‰ pahaa siin‰ naimisessa on? Onhan enokin ollut naimisissa.
+
+SIKALA. Joo, jo kolmatta kertaa. Kyll‰ min‰ sen homman tunnen paremmin
+kuin kukaan muu. Ensin sit‰ menee naimisiin sen vuoksi, ett‰ ei voi
+olla menem‰tt‰. Sitten menee uudestaan, jotta saisi sellaisen, joka
+olisi oikein lempe‰. Mutta kun nainen aina on lempe‰ ennen h‰it‰,
+niin harvoin oikeaan osuu. Ja jos sitten siit‰ kapistuksesta p‰‰see,
+niin menee viel‰ kerran naimisiin, jotta saisi sellaisen, jonka edess‰
+mies voisi sanoa: "Tuo nainen on parempi minua, min‰ en ole h‰nen
+arvoisensa!"
+
+MARTTI. Ja miten k‰y?
+
+SIKALA. Huomaa, ett‰ sellaista naista ei olekaan maailmassa, jonka
+edess‰ mies olisi huonompi. Kolme kertaa min‰ olen vihill‰ ollut, ja
+tunnethan sin‰ t‰m‰n minun viimeisen akkani! Kun kolmasti on nainut,
+niin on saanut el‰m‰ss‰‰n kolminkertaisen saunan. Ensin on kraatarin
+sauna; sitten soltun sauna ja sitten helvetin sauna! Ja minulle lyˆd‰‰n
+joka p‰iv‰ lˆyly‰ niin ett‰ kivet pihisev‰t kuin lauma hulluja kissoja.
+Sen min‰ sanon sinulle, nuori mies, ‰l‰ mene naimisiin. Tai jos menet,
+niin valikoi sellainen kuin oma ‰itisi Liisa muori on. Oma sisarenhan
+tuo on. Eih‰n veli tavallisesti sisartaan kiit‰. Mutta niin on, ett‰
+se nainen tekee vaikka itse p‰‰perkeleen hiljaiseksi, sellainen
+rauhallinen luonto sill‰ on. Sin‰ et ole ollenkaan h‰nen kaltaisensa,
+senkin kanalja, joka juokset tyttˆjen per‰ss‰ yht‰p‰‰t‰. Mutta se
+sisareni on ihan kuin raamatusta otettu pyh‰ nainen, niin lempe‰,
+niin lauhkea. H‰nen ‰‰nens‰kin on jo kuin harppujen ja sympaalien
+soittoa. Ja jos sin‰, rakki, h‰nelle tuotat yhdenk‰‰n surun, niin min‰
+v‰‰nn‰n sinun niskasi noin ja noin, jotta se keikkuu kuin pˆllˆn p‰‰
+joka haaralle. Anna ‰itisi valita itsellesi vaimo, ‰l‰ sit‰ itse tee,
+sill‰ et sin‰ osaa sit‰ ollenkaan, koska luontosi on kevytmielinen
+ja huikentelevainen. Jos itse valitset, niin hassusti valitset, saat
+naisen, joka sinua p‰rm‰ntt‰‰ aamusta iltaan ja viimein on mielesi
+lattea kuin p‰‰lletrampattu ahven. Niin, niin, katsele sin‰ vain ja
+mulkoile minuun kuin sonni, en min‰ pelk‰‰. Kyll‰h‰n sin‰ olet komea ja
+muotosi on juuri sellainen, joka tyttˆlapsia hurjistuttaa ja saa heid‰t
+katsomaan silm‰t pyˆrein‰ p‰‰ss‰ kuin narratulla sammakolla. Himonsa on
+jokaisella, onhan se hyttysell‰kin. Mutta harvoin mies himonsa vallassa
+viisaasti tekee. Ja sanonpa sinulle viel‰ jotain, kerron asioita, joita
+ehk‰ et ole koskaan kuullut, jotta oppisit ja oikein ajattelemaan
+rupeisit. Kun ‰itisi tuli siihen ik‰‰n, jolloin h‰nen luonnon lain
+mukaan pit‰‰ mies saada, niin juoksiko t‰m‰ itse‰‰n n‰ytt‰m‰ss‰
+markkinoilla ja pidoissa. Kaukana se. Kotona h‰n istui ja rauhallisesti
+teki tyˆns‰. Mutta ajatuksensa olivat aina sittenkin miehiss‰, kyll‰
+sen huomasi, koska h‰n usein kangaspuun yli kumartuessaan kauniisti
+punastui ja korvanipukat ihanasti heloittivat kuin kukkaset kes‰isell‰
+nurmella, punaisina kuin tervakukkaset Ja silloin min‰ useasti
+ajattelin, ett‰ pit‰‰kˆh‰n t‰ss‰ jo tuolle mies minun hankkia. Arvelin
+alussa, ett‰ h‰n ei osaa itse valita, kun oli niin arka, ja pelk‰sin,
+ett‰ tulee joku maantienrosvo, heittiˆ, joka h‰net koppaa. Mutta eikˆs
+mit‰, hiljalleen h‰n hommasi. Is‰si oli hiljainen poika, ei koskaan
+tapellut, eik‰ koskaan ryyp‰nnyt. Ei h‰nt‰ n‰hty talojen kodassa
+silloin, kun viina kirkkaana tippui torvesta astiaan ja miehet kieli
+ojolla sit‰ maistelivat. ƒitisi pysytteli pojan l‰hell‰, ei sanonut
+mit‰‰n, ei vihkaissutkaan h‰nelle, oli vain kuin kaunis laululintunen,
+joka miehen viereen aidalle pys‰htyy ja siin‰ ilonsa syd‰mest‰‰n
+purkaa. Ja miehen ei silloin tarvitse muuta kuin ojentaa k‰tens‰ ja
+lintu suostuu h‰nen k‰dell‰‰n istumaan ja nokkimaan ruokaa, jonka mies
+antaa. Niin teki ‰itisi, minun sisareni Liisa. Ja jos sin‰ h‰nelle
+kerran surua saatat, niin ei helvetiss‰ ole niin kuumaa paikkaa, joka
+sinulle sopisi, vaan uusi p‰tsi on sinne sinua varten rakennettava, ja
+kyll‰ min‰ sen muuraamisessa olen valmis olemaan, vaikka iankaikkisen
+autuuteni sen kautta menett‰isin.
+
+MARTTI (on edellisen aikana milloin suuttunut milloin nauranut; nyt h‰n
+on lopulta heltynyt ja seisoo kyynel silm‰ss‰ enonsa edess‰). Kyll‰h‰n
+min‰ tied‰n, ettei koko maailmassa ole kell‰‰n sellaista ‰iti‰ kuin
+minun on. Ja kun h‰n kerran l‰htee t‰‰lt‰, niin iankaikkista valkeutta
+kohden h‰n lent‰‰. Niinkuin johtaja-kurki etel‰‰n l‰htiess‰ suuren
+suven maahan ilman halkoo, jotta toisille olisi helppo lent‰‰, niin
+h‰nkin tekee ja is‰ ja min‰ sitten per‰ss‰ r‰pyttelemme.
+
+SIKALA. Noin sin‰ nyt puhut, kun olet alamittainen ja mielesi on
+kakaran, joka v‰h‰st‰ heltyy ja silloin pyhi‰ lupauksia tekee. Mutta
+olenpa sinua katsellut ja tied‰n, ett‰ kun hameen n‰et, niin kaikki nuo
+ajatukset ovat menneet. Mutta sen min‰ sanon, jos sin‰ h‰nelle surua
+tuotat, niin saat n‰hd‰, ett‰ kalikoita meid‰nkin mailla kasvaa ja
+pisin niist‰ tanssii sinun selk‰‰si pitkin ja tanssiikin oikein polskan
+tahdissa, tanssii kuin iloisissa h‰iss‰. Mutta tuollahan n‰enkin ‰itisi
+tulevan. Katso, miten kauniisti h‰n astelee ja miten h‰nen k‰yntins‰ on
+kepe‰ kuin nuoren naisen.
+
+    (Molemmat miehet katsovat oikealle, josta Liisa tulee.)
+
+LIISA (keski-ik‰inen mutta hyvin nuorekas nainen, hiljainen ja
+syd‰mellinen, tulee oikealta). Oikein arvasin, kun t‰‰lt‰ sinua,
+Martti, etsin. Is‰ kysyy sinua. Vallesmanni on siell‰, ja is‰ tahtoo
+puhua kanssasi.
+
+SIKALA. Joko se juupeli on johonkin ansaan p‰‰ns‰ pist‰nyt, kun oikein
+vallesmannia tarvitaan?
+
+LIISA (hymyillen). Ei, veljeni, ei sent‰‰n niin. Pian poika tulee
+t‰ysi-ik‰iseksi ja kun h‰n on ainoa lapsemme, niin olemme ajatelleet,
+ett‰ meid‰n on kaiken varalta niin j‰rjestett‰v‰, ett‰ talo s‰ilyy
+h‰nell‰ ja h‰nen suvullaan.
+
+SIKALA. Mutta, herranen aika, et kai sin‰ Liisa aio kuolla kupsahtaa
+ihan tuossa tuokiossa?
+
+LIISA. En suinkaan, mutta sanoohan sanakin, ett‰ meid‰n tulee tehd‰
+talomme ajoissa, koska kuolema voi tulla milloin tahansa. ƒl‰ viivy,
+Martti, koska is‰si sinua odottaa.
+
+MARTTI (hidastelee hiukan; sanoo sitten Sikalalle). Jos minua joku
+kysyy, niin sanokaa, ett‰ kyll‰ min‰ tulen takaisin. (Menee oikealle.)
+
+SIKALA (‰r‰ht‰‰). ÷h! (Huutaa h‰nen j‰lkeens‰.) Kyll‰ min‰ sanon
+ahvenillesi, ett‰ odottavat, kunnes koukkusi tuot.
+
+LIISA. Ket‰ h‰n odottaa t‰‰ll‰?
+
+SIKALA. Likkoja tietysti, mit‰ muuta. T‰ss‰ h‰n kauniisti puhui ja oli
+kuin nuorukainen ripille p‰‰stess‰‰n, nˆyr‰ ja autuas, mutta kyll‰p‰
+heti tuli toinen ‰‰ni kelloon. Sellaista se nuoren miehen mieli on.
+Vuoroin soi ‰‰ni kuin kirkonkello yhteensoitettaessa suvisunnuntaina,
+vuoroin kilkattaa kuin juopuneen aisakello markkinoilta palattaessa.
+
+LIISA (hiukan levottomana). Tied‰tkˆ jotain?
+
+SIKALA. Totta kai min‰ tied‰n, kun minulla on silm‰t p‰‰ss‰ ja ajatus
+paikallaan.
+
+LIISA. Ket‰ naista h‰n t‰‰ll‰ odottaisi?
+
+SIKALA. Ket‰ muuta kuin sit‰ Natukan morsianta, jonka t‰hden t‰‰ll‰
+vilisee poikia kuin Vilkkil‰ss‰ kissoja.
+
+LIISA (nauraen). Seh‰n on vanha juttu se Vilkkil‰n kissojen juttu. On
+kai siell‰ kerran niit‰ ollut, kun siell‰ oli hassu vanha em‰nt‰, joka
+ei antanut hukuttaa ainoaakaan poikasta. Mutta kun em‰nt‰ viimein oli
+kuollut, niin kerrotaan, ett‰ seuraavana p‰iv‰n‰ oli talossa sellainen
+paukkina, ett‰ pois tielt‰. Is‰nt‰ siell‰ ammuskeli pitkin nurkkia.
+
+SIKALA (nauraen). Hahahaha! No on tuo taas niit‰ sinun juttujasi.
+
+LIISA. Jutuistahan maailma el‰‰. Mutta puhukaamme Martista ja
+Reginasta. Eih‰n toki poikani toisen morsianta vahtaa.
+
+SIKALA. Usko mit‰ uskot, min‰ tied‰n. Olen katsellut jo kauan ja
+ihmetellyt t‰t‰ peli‰.
+
+LIISA. En min‰ sit‰ Reginaa mielell‰ni talooni ottaisi. Onhan h‰n hyv‰
+tyˆihminen, sen olen katsellut, mutta kovin on h‰nell‰ kepe‰ luonto.
+
+SIKALA. Viisi viel‰ tytˆst‰, hyv‰ siit‰ voisi tulla, kun kurissa
+kasvaisi, mutta kun siin‰ saa oikean kuorman, saa apen, anopin ja kaksi
+k‰ly‰ ja kaikki riidanhaluisia ihmisi‰.
+
+LIISA. Jos sin‰ jollain keinolla voit t‰m‰n kaiken est‰‰, niin olen
+sinulle, veljeni, kovasti kiitollinen.
+
+SIKALA. Siin‰ est‰misess‰h‰n min‰ olen koko ajan ollut. Sit‰ varten
+tuotin sen Mariankin t‰nne. Ajattelin, ett‰ totta kai niin kaunis muoto
+ja lempe‰ syd‰n nuoressa miehess‰ nostaa ajatuksia. Mutta niin se
+n‰ytt‰‰ olevan, ett‰ kun mies saa valita pirun ja enkelin v‰lill‰, se
+aina valitsee pirun. Se on kai sit‰ vanhaa riiastelua paratiisissa sen
+k‰‰rmeen kanssa.
+
+LIISA. Eevahan siin‰ riiasteli eik‰ Aatami.
+
+SIKALA. Taisi niin olla, en min‰ niin vanhoja asioita en‰‰ niin
+tarkalleen muista. Mutta mit‰ tulee tuohon Martin riiasteluun, niin
+lopun min‰ siit‰ teen. Min‰ j‰‰n t‰nne pyssyni kanssa. Ellei muu auta,
+niin annan paukahtaa.
+
+LIISA (hymyillen). Kyll‰h‰n nuoren miehen rakkausjutut voidaan ilman
+pyssyj‰kin j‰rjest‰‰.
+
+SIKALA. Sin‰ vilkutat niin veitikkamaisesti silm‰‰. Nyt punot juonia,
+aivan varmasti juonia.
+
+LIISA. Ajattelen, ett‰ naisen t‰ytyy k‰ytt‰‰ viisautta silloin
+kun voimansa ei kest‰. Martin t‰ytyisi saada selk‰‰ns‰. Sellainen
+rauhoittaa aina nuorta miest‰.
+
+SIKALA. Pit‰‰kˆ minun t‰ss‰ viel‰ piiskuriksi ruveta sisareni
+vekaralle?
+
+LIISA. Et sin‰ Marttia voittaisi. Juha on hento, ei h‰n kest‰ Martin
+rinnalla. Pid‰ sin‰ silm‰ll‰, mist‰ sopivan auttajan saat. Min‰ j‰t‰n
+kaiken sinun varaasi. Nyt minun t‰ytyy menn‰, sill‰ eih‰n sovi olla
+talosta poissa, kun vallesmanni on siell‰. Ajattele nyt asiaa.
+
+    (Menee oikealle.)
+
+MODIG (joka on tullut oikealta h‰nt‰ vastaan, aikoo menn‰ sillan yli,
+kun huomaa Sikalan pyssyn). Mit‰ varten is‰nt‰ t‰‰ll‰ pyssy k‰dess‰
+vahtaa sunnuntai-iltana?
+
+SIKALA. Riiastelijoitahan min‰ t‰ss‰ odottelen.
+
+MODIG (per‰ytyy). Pankaa pois se, jos viel‰ laukee.
+
+SIKALA. Sotamieskˆ pyssy‰ pelk‰‰?
+
+MODIG. Sotamiesh‰n juuri tiet‰‰, ett‰ se laukee.
+
+SIKALA. Mist‰ kaukaa t‰m‰ vieras on, joka n‰in kes‰ll‰ kruunun takissa
+kulkee?
+
+MODIG. Messukyl‰st‰ min‰ olen ja tulin t‰nne katsomaan tyttˆ‰.
+
+SIKALA. Mit‰ tyttˆ‰? Ei kai sent‰‰n meid‰n, tarkoitan Sikalan piikaa?
+
+MODIG. Ei, ei sielt‰ p‰ink‰‰n. Sanoivat, ett‰ nuoret tulevat t‰nne
+Koljon sillalle sunnuntai-iltoina tanssimaan. Min‰ odotan h‰nt‰ t‰‰ll‰.
+
+SIKALA. Onko se se Regina sielt‰ Natukalta?
+
+MODIG. Mit‰ tuota rakkauttaan salaisi, seh‰n se on.
+
+SIKALA. Antakaahan t‰nne k‰tenne.
+
+    (Tarttuu Modigin k‰teen, nostaa k‰sivarren ylˆs.)
+
+Painakaahan nyt, saatteko alas.
+
+MODIG. Mit‰ varten?
+
+SIKALA. Painakaa, kun min‰ sanon.
+
+    (Miehet koettavat painaa toistensa k‰sivartta alas.
+    Kamppailu, jossa kumpikaan ei voita.)
+
+Ei siit‰ tule mit‰‰n. Ette te kelpaa.
+
+MODIG. Mutta eih‰n sit‰ rakkaudessa k‰sivoimia tarvita.
+
+SIKALA. En min‰ sit‰ tarkoitakaan. Muuten vain t‰ytyi koettaa. Te
+olette jo liian vanha.
+
+KALLE BROCKMAN (hyvin komea ja kookas, yli kahdenkymmenenvuotias nuori
+mies, puettuna siniseen verkapukuun ja mustaan huopahattuun tulee
+vasemmalta. Koko olemuksessaan on jotain herraskaista). P‰iv‰‰, Sikalan
+is‰nt‰!
+
+SIKALA. Jumala antakoon! Minne se siltavoudin nuori herra nyt on
+matkalla?
+
+KALLE. En pitemm‰lle kuin juuri t‰h‰n paikkaan.
+
+SIKALA. No niin on kuin minua olisi tultu katsomaan.
+
+KALLE. Voihan sit‰ is‰nt‰‰kin katsella sen aikaa, kun muuta odottaa.
+
+SIKALA. Kuinka se is‰ siltavouti jaksaa?
+
+KALLE. Hyvinh‰n is‰ jaksaa. Leini vaivaa toisinaan, vaikka ei kai siit‰
+surua ole n‰in kes‰kuumalla.
+
+SIKALA. Pani kai poikansa tarkastamaan siltaa, kun juuri n‰in sillalle
+l‰hetti?
+
+KALLE. En min‰ siltoja tarkasta. Tulin katsomaan, miten t‰‰ll‰ nuoret
+hauskaa pit‰v‰t.
+
+SIKALA. No, on sitten S‰yn‰j‰rven puolella jo kaikki tytˆt varattu, kun
+t‰nne syrj‰kulmalle asti t‰ytyy tulla.
+
+KALLE. Katsoo, miss‰ koreimmat ovat.
+
+SIKALA. Ettei vain se Natukalla oleva Regina olisi niinkuin mieless‰.
+
+KALLE. Kaunis tyttˆ.
+
+SIKALA. Mutta kihloissa.
+
+KALLE. Eip‰ ole viel‰ kuulutuksia ottanut. Onko kihlojakaan viel‰
+ottanut vastaan. Ei ainakaan n‰y mit‰‰n huivia p‰‰ss‰, joka olisi
+kaupungista tuotu.
+
+SIKALA. Onko nuori herra koskaan kantanut rukiita sel‰ss‰‰n?
+
+KALLE. Onhan tuota koetettu. Mit‰ se t‰h‰n kuuluu?
+
+SIKALA. Kai on koko tynnyri mennyt yhdell‰ kantamuksella.
+
+KALLE. Menee siin‰ muutama kappa p‰‰llekin.
+
+SIKALA (iloissaan). Se on kovin komea se Regina, kovin komea, sit‰
+kannattaa vahdata. Sulhanen sill‰ kyll‰ on jo...
+
+KALLE. Juha on sellainen heikko kr‰p‰, ettei siit‰ v‰li‰. Puhaltaa,
+niin menee kumoon.
+
+SIKALA. Ja t‰ss‰ on toinen, t‰m‰ sotilas, joka on tullut Messukyl‰st‰
+myˆs samoille asioille.
+
+    (Kalle katsoo pitk‰‰n Modigiin.)
+
+MODIG (v‰istyen). Min‰ olen vasta tarkastamassa. Ei ole viel‰ mit‰‰n
+p‰‰tetty.
+
+KALLE. Min‰ en juuri tahtoisi kruunun luita pahoin pidell‰, mutta jos
+meid‰n kahden v‰lill‰ tulee yhteenotto, niin tilatkaa ensin hevonen,
+jolla viette haaskanne Messukyl‰‰n.
+
+MODIG. Te h‰p‰isette kruunua!
+
+KALLE. Ei kruunu ole teid‰n h‰pe‰nne, mutta te olette kruunun h‰pe‰!
+
+SIKALA (asettuen v‰liin). Soh, soh, pojat, ei tappelua tytˆn t‰hden.
+Ei, teill‰, nuori herra, vaaraa ole t‰st‰ sotamiehest‰, mutta toisin on
+Heikkil‰n Martin laita. H‰n on juuri nyt kotonaan, jossa on
+vallesmanni, ja siell‰ keskustellaan siit‰, ett‰ h‰n saisi talon. Ja
+kun on talo, ja Heikkil‰ on hyv‰ talo ja Martti on ainoa poika eik‰
+siis tule koskaan mik‰‰n perinnˆnjako kysymykseen, niin...
+
+KALLE. Miss‰ se mies on, min‰ annan sille selk‰‰n!
+
+SIKALA (viittaa oikealle). Se on tuo nuori mies, joka tulee juuri
+tuolta.
+
+MARTTI (tulee kovalla kyydill‰; n‰kee. Modigin). Vai olette te viel‰
+t‰‰ll‰? Korjatkaa luunne mit‰ pikimmin.
+
+MODIG. T‰m‰ Orivesi on todella merkillinen pit‰j‰. Jokainen t‰‰ll‰ ajaa
+minua pois! Olen min‰ ennen n‰hnyt paremmin kunnioitettavan kruunun
+sotilasta ja Porin rykmentin uljasta miest‰.
+
+MARTTI. Mutta ei sellaista, joka etsii vaimoa itselleen, vaikka toinen
+vaimonsa viel‰ el‰‰.
+
+MODIG. H‰n on niin heikko jo, ettei sen el‰m‰st‰ ole mit‰‰n taikaa.
+
+SIKALA. Mit‰ ihmett‰ t‰m‰ on? Onko tuolla sotamiehell‰ jo vaimo?
+
+MODIG. Se on sill‰ viisi‰, ett‰ minun vaimoni on nilkku ja raihnainen
+ja kaikin puolin muutenkin kulunut. Ja kun se kumminkin v‰h‰n ajan
+p‰‰st‰ nuutuu ja sammuu, niin olen katsonut eteeni ja hakenut uutta.
+
+SIKALA. Olen min‰ kolme kertaa ollut naimisissa, mutta en min‰ koskaan
+ennen vaimon kuolemaa ole uutta hakenut. Niinh‰n se on kuin vanki, joka
+jo tyrm‰ss‰ tekee tepposia, ettei tarvitse ollenkaan pois l‰hte‰.
+
+MARTTI. Ja mit‰ t‰m‰ siltavoudin poika t‰‰lt‰ hakee? Is‰sih‰n sillat
+tarkastaa etk‰ sin‰.
+
+KALLE. Mutta vaimoni tarkastan min‰.
+
+MARTTI. Ei sit‰ s‰yn‰j‰rvel‰isten tarvitse Pitk‰j‰rvelt‰ tulla vaimoja
+hakemaan. Kyll‰ mekin oman kyl‰n tytˆt naimme.
+
+KALLE. Emme me olekaan niin huonoja, ett‰ oman kyl‰n tyttˆihin
+tyydymme, vaan ulkoa sen morsiamen olla pit‰‰.
+
+SIKALA (viattomasti). T‰m‰ nuori herra on mielistynyt siihen Reginaan.
+
+MARTTI. No, jo sit‰ h‰vyttˆmyys menee yli ‰yr‰ittens‰! Varo, etten
+peittoa sinua pahanp‰iv‰iseksi.
+
+KALLE. Mit‰ siihen tulee, niin uskallanpa sit‰ hiukkasen ep‰ill‰.
+Meid‰n puolella tapellaan jokainen vapaa ilta. Te t‰‰ll‰ syrj‰kyl‰ss‰
+el‰tte torkkuvaa el‰m‰‰. Is‰ni on jo kuusi kertaa saanut minun
+puolestani maksaa kipurahojakin, niin henkihieveriss‰ on toinen ollut
+minun k‰siss‰ni.
+
+MARTTI. Koetetaanhan. Tahdon min‰kin kerran maksaa kipurahoja.
+
+SIKALA. Pojat, pojat, ‰lk‰‰ tapelko, ‰lk‰‰ tapelko. Muistakaa, ett‰ nyt
+on sapatti. Ennen kello kuutta jos tappelette, niin tulee siit‰ suuret
+sakot.
+
+KALLE. En min‰ sakkoja pelk‰‰ silloin, kun sisuni kiehuu ja sormeni
+syhyv‰t ja p‰‰lle tekee mieli menn‰.
+
+MARTTI. Onko sinulla kello?
+
+KALLE. Ei ole.
+
+MARTTI (Modigille). Onko siell‰ kelloa?
+
+MODIG. Ei ole.
+
+MARTTI. Mist‰ me sen ajan tied‰mme?
+
+SIKALA (viittaa virralle p‰in). Katsokaa tuon suuren kolutun puun
+latvaa. Kun sen varjo osuu vastaisella rannalla olevan suuren kiven
+keskelle, niin silloin on kello kuusi. Niin on t‰‰ll‰ tiedetty aina
+siit‰ asti kuin paavin oppi oli maassa ja sen mukaan p‰‰tettiin,
+milloin iltarukous oli luettava.
+
+MARTTI. Se puuttuu viel‰ monta korttelia.
+
+SIKALA. Mutta kyll‰ se siirtyy pian. Odottakaa siihen asti.
+
+MARTTI. Vai t‰llaiset nallikat sit‰ tyttˆj‰ k‰yv‰t katsomassa. Kun et
+riipu viel‰ mammasi hameen liepeess‰.
+
+KALLE. Ei niit‰ meid‰n puolella poikia olekaan ‰itins‰ liepeiss‰
+kiinni. Ei mahdu.
+
+MARTTI. H‰? Eikˆ mahdu?
+
+KALLE. Ei, kun niit‰ likkoja on niin viet‰v‰n paljon. Likkalapsia ihan
+kuhisee raitilla, on niin, ett‰ p‰‰lle on trampata.
+
+MARTTI. Hohoo, on sit‰ t‰‰ll‰kin lapsia osattu maailmaan saattaa. Ja
+poikia onkin ja riski‰ poikia rivitt‰in.
+
+KALLE. Tied‰th‰n sin‰, ett‰ huono se lehm‰kin on, joka saa paljon
+mullikoita, lehm‰vasikoita sit‰ hyvill‰ lehmill‰ on.
+
+MARTTI. No, luulitkin jo hyv‰n v‰itteen lˆyt‰v‰si, senkin S‰yn‰j‰rven
+ihmeellinen kakaroiden poikkeus.
+
+KALLE. Min‰ en olekaan mik‰‰n kakara, vaan aviovuoteessa min‰ olen
+syntynyt. Ja sisariakin minulla on. Mutta sin‰ olet ihan yksin‰si,
+niinkuin t‰ss‰ is‰nt‰ sanoi.
+
+MARTTI. Mutta lapsia meill‰ on ollut oikein kosolta silti, on vain
+haudattu, jotta ei liikoja tulisi taloon.
+
+KALLE. Napukka, nappula, tarapaappa!
+
+MARTTI. Hauku mit‰ haukut! Odotahan kun kello on kuusi, niin silloin
+tied‰t, miten t‰m‰ nappula hypp‰‰ ja lyˆ.
+
+SIKALA. Saako yksinkertainen is‰nt‰mies kysy‰, mink‰ vuoksi sit‰ t‰ytyy
+tyttˆj‰ muualta hakea, kun omissa nurkissa niit‰ on niin paljon?
+
+KALLE. Johan sanoin, ett‰ kaukaa morsian on tuotava, ei kukaan l‰helt‰
+sit‰ ota, ei muuta kuin kˆyh‰t, joilla ei ole hevosta, jolla morsiamen
+toisivat. Mutta kun min‰ otan meid‰n mustan oriin tallista ja panen
+sen valjaisiin, niin silloin kelpaa rattailla keikkua. Meill‰ on
+rattaatkin, onko teill‰?
+
+MARTTI. Pid‰ suusi kiinni!
+
+SIKALA. Kyll‰ minun t‰ytyy oikeuden nimess‰ todistaa, ett‰ ei
+Heikkil‰ss‰ rattaita ole. Tietkin on t‰nnep‰in niin huonot, ett‰ mit‰
+niill‰ rattailla tekee.
+
+KALLE. Ja sellainen v‰tys, jolla ei ole edes rattaita, jolla morsiamen
+kotiaan toisi, viel‰ aikoo menn‰ naimisiin.
+
+MARTTI. Tuo sit‰ morsiamen paatissakin, jos tarvitaan. Ja on meill‰
+reki ja kaunis ryijy siihen onkin.
+
+KALLE. On meill‰kin kaksi reke‰ ja oikein sudennahkav‰llyt. Kelpaa
+niiden alla morsiantaan vyˆt‰rˆist‰ kiinni ottaa.
+
+MARTTI. Me emme olekaan niin viluisia, ett‰ tarvitsemme v‰llyj‰. Me
+tulemme l‰mpˆisiksi jo heti morsiamen vieress‰.
+
+KALLE. Luuletko sin‰, kukon poika, ett‰ me sitten kylmi‰ olemme?
+
+SIKALA (hilliten heit‰). So, so, ‰lk‰‰ nyt l‰mmitkˆ liikoja!
+(Modigille.) Sopisi sit‰ esivallan palvelijan auttaa, ettei tapahdu
+mit‰‰n sapattirauhan rikkomista.
+
+MODIG. Min‰ en mene tappeluun muuta kuin esivallan komennuksesta. Ja
+t‰‰ll‰ ei ole minulla mit‰‰n esivaltaa.
+
+SIKALA (antaa h‰nelle pyssyn). Pit‰k‰‰ sitten pyssy‰ edes. Se sopii
+teille.
+
+MODIG. Ase onkin minulle rakkaampi kuin nainen! Pyssy on sotamiehen
+morsian!
+
+SIKALA. Mutta ‰lk‰‰ sit‰ morsiantanne hypistelkˆ, jotta se ei paukahda.
+
+    (Antti CovÈen tulee Juhan seurassa oikealta.)
+
+ANTTI. No, mik‰ t‰‰ll‰ on nuorilla miehill‰, kun niin punoittavat ja
+k‰det ovat nyrkiss‰?
+
+KALLE. Heikkil‰n Martti ja min‰ t‰‰ll‰ vain keskustelemme.
+
+SIKALA. Pojat hiukan rakentavat riitaa, mutta ei viel‰ ole muuten lyˆty
+kuin sanoilla.
+
+ANTTI. Ja mist‰ t‰‰ll‰ on riita rakennettu?
+
+SIKALA. Onhan vain tyttˆ mieless‰. Mist‰ miehet muuten riitelisiv‰t,
+niin vanhat kuki nuoretkin. T‰m‰n Juhan Reginahan n‰ill‰ on
+parakraavina. Taitavat pojat v‰itell‰ siit‰, kumman mielest‰ h‰n on
+kauniimpi.
+
+ANTTI. Olen tytˆn n‰hnyt ja kannattaakin siit‰ v‰itell‰. Komea on,
+kovin komea on. (Juhalle.) Kaikki k‰y hyvin. ƒl‰ anna riidan sammua.
+Brockmanin Kalle on hyv‰ tappelemaan. Min‰ olen usein is‰ns‰ puolesta
+saanut asioita sovitella. Katso sin‰ vain sivulta ja ole kuin muina
+miehin‰.
+
+KALLE. Onko vallesmannilla kello?
+
+ANTTI. Onhan se minulla?
+
+KALLE. Mit‰ se aika nyt n‰ytt‰‰?
+
+ANTTI (katsoen kelloaan). Kohta on kuusi. Ei puutu muuta kuin sen
+verran, ett‰ ihminen synnintunnustuksen enn‰tt‰‰ lukea sit‰ ennen.
+
+KALLE (nostaa lakkiaan). Kiitoksia.
+
+ANTTI (Sikalalle). Minulla olisi is‰nn‰llekin asiaa. Kai is‰nt‰ joutuu
+kanssani kotiaan tulemaan, jotta saamme rauhassa puhua kaikki selv‰ksi.
+
+SIKALA. Eih‰n minulla en‰‰ t‰‰ll‰ ole mit‰‰n! Kyll‰ t‰‰ll‰ jo tullaan
+toimeen minuttakin.
+
+    (Ottaa pyssyns‰ Modigilta ja menee Antin seurassa.)
+
+KALLE. Min‰ vaivainen syntinen ihminen... (Martille.) Odotahan!
+
+MARTTI. Joka synniss‰ siinnyt ja syntynyt olen... (Kallelle.) Kunhan
+min‰ p‰‰sen loppuun! Min‰ olenkin lukusijoilla saanut kolme
+risti‰ synnintunnustuksesta.
+
+KALLE. ƒl‰ h‰iritse, vaan lue!
+
+    (Pojat lukevat mutisten synnintunnustusta.)
+
+REGINA (tulee oikealta). Mik‰ hiljaisuus t‰‰ll‰ on?
+
+JUHA. Nuo nuoret miehet lukevat vain synnintunnustusta.
+
+REGINA. Mitk‰ lukusijat t‰‰ll‰ nyt on?
+
+MARIA (tulee vasemmalta). Mik‰ noita kahta vaivaa?
+
+MODIG. Parasta on sinun, nuoren naisen, menn‰ v‰h‰n loitommalle, silta
+on heikko.
+
+MARIA. Mit‰ t‰‰ll‰ tapahtuu?
+
+MODIG. Parasta on menn‰ eik‰ odottaa.
+
+KALLE (heiluttaen k‰si‰‰n). No, joko olet p‰‰ssyt loppuun?
+
+MARTTI. Sin‰ hypp‰sit varmasti. Odota v‰h‰n aikaa!
+
+    (Nielaisee viimeiset lauseet kovalla kiireell‰.)
+
+Tule nyt, jos tohdit!
+
+KALLE. Ei t‰m‰ poika pelk‰‰ pieni‰ pirujakaan!
+
+    (Miehet iskev‰t yhteen. Maria ja Regina parkaisevat. Maria
+    tarttuu Kalleen ja Regina Marttiin vet‰‰kseen heit‰ erilleen.)
+
+MARIA (Modigille). Auttakaa, herran nimess‰, n‰it‰ hulluja erilleen!
+
+MODIG. En min‰ koskaan sekaannu sivullisten riitoihin.
+
+REGINA. Juha, Juha, he tappavat toisensa! Tule auttamaan!
+
+JUHA. Tapelkoot, jos heit‰ haluttaa!
+
+    (Miehet on saatu erilleen.)
+
+KALLE. ƒl‰ roiku minun kaulassani silloin, kun min‰ tapella tahdon.
+
+    (Lykk‰‰ Marian syrj‰‰n.)
+
+MARTTI (Reginalle). Ellet p‰‰st‰, niin ravistan sinut tuonne virtaan!
+
+    (Irroittautuu h‰nest‰.)
+
+KALLE. En min‰ monesti olekaan n‰in mielell‰ni tapellut. Tulehan oikein
+kunnialla painiin, jos tohdit.
+
+MARTTI. ƒl‰ siin‰ suuta soita, leve‰mm‰ksi se siit‰ tulee. Pid‰ se
+hiukan suipommalla, oikein pusumuntulla.
+
+KALLE. Kyll‰ min‰ sinun munttusi niin kl‰‰min, ettei sill‰ kuukauteen
+suuta anneta, sen saat n‰hd‰.
+
+    (Iskev‰t uudelleen yhteen. Modig pid‰tt‰‰ Mariaa ja
+    Juha Reginaa, jotka yritt‰v‰t j‰lleen menn‰ joukkoon.)
+
+MARIA. Martti, Martti, pid‰ paremmin puoliasi!
+
+REGINA. Martti, Martti, ‰l‰ hellit‰!
+
+MARIA. ƒl‰ sin‰ kihlattu morsian toisia nuoria miehi‰ turvaa, ole oman
+sulhasesi kanssa!
+
+REGINA. Mit‰ sin‰ vieraskyl‰l‰inen t‰m‰n kyl‰n tappeluihin sekaannut.
+
+MARIA. Min‰ rakennan rauhaa. Min‰ en tahdo, ett‰ he tappelevat!
+
+REGINA. (on kiskaissut itsens‰ irti ja rynt‰‰ Mariaa kohden). Sin‰ olet
+tullut t‰nne kalastelemaan t‰m‰n kyl‰n poikia, et muuta. Mutta annahan,
+kun min‰ hiukan pˆyhin sinun keltaista tukkaasi!
+
+    (K‰y h‰neen k‰siksi, kun samassa Kalle ja Martti irtaantuvat ja
+    ensin katsovat suut silm‰t auki tyttˆjen yhteenottoa. Sitten he
+    yhteisvoimin irroittavat heid‰t.)
+
+KALLE. Pois tytˆt tappelemasta!
+
+MARIA (itkien). Min‰ haastan sinut k‰r‰jiin t‰st‰ p‰‰llehyˆkk‰yksest‰.
+
+REGINA. Haasta mit‰ haastat! En min‰ k‰r‰ji‰ pelk‰‰!
+
+JUHA (vie Reginan syrj‰‰n). Ole nyt siivolla! Ei t‰m‰ sovi, ett‰
+naisv‰ki tappelee julkisella paikalla.
+
+MARTTI. Pit‰k‰‰ likat syrj‰ss‰, etteiv‰t he meit‰ h‰iritse!
+
+MODIG (pidellen Mariaa). Ei t‰m‰ ainakaan en‰‰ t‰‰lt‰ karkaa!
+
+KALLE. Tule nyt uudella voimalla ja v‰ell‰, jos sinulla sit‰ viel‰ on.
+
+MARTTI. Ei t‰‰lt‰ voima lopu ennenkuin haudassa!
+
+    (Kalle ja Martti iskev‰t j‰lleen yhteen.)
+
+REGINA. Martti, Martti, housusi repee!
+
+MARTTI. Revetkˆˆn, kyll‰ nahka kest‰‰!
+
+KALLE. Ei se sinunkaan nahkasi parkittu ole. Kyll‰ min‰ sen viel‰
+halkaisen useammasta kohdasta!
+
+MARTTI. Suuta sinulla on, mutta t‰‰ll‰ on voimia, sill‰ t‰‰ll‰ on
+paljon ruiskakkoa syˆty.
+
+KALLE. Nariset viel‰, sen saat n‰hd‰!
+
+MARTTI (lykk‰‰ ‰kki‰ Kallen luotaan). ƒl‰ kamppaa! Sin‰, jeeveli,
+kamppaat!
+
+KALLE. En kamppaa, itse sin‰ meinasit, mutta et onnistunut.
+
+MARTTI. Min‰ en kamppaa koskaan!
+
+KALLE. Kamppasitpa, yritit kampata, mutta min‰ olin kuin havutukki,
+joka ei siit‰ v‰lit‰.
+
+    (Seisovat kumarassa eteenp‰in, tujottaen toisiinsa.)
+
+MARTTI. Sin‰ S‰yn‰j‰rven kiiskenpoika!
+
+KALLE. Sin‰ Pitk‰j‰rven rakki!
+
+MARTTI. Min‰ litist‰n sinut!
+
+KALLE. Ja min‰ tramppaan sinut ihan liiskaksi!
+
+MARTTI. ƒl‰ siin‰ suuta soita, vaan tappele, kun otollinen hetki on.
+
+KALLE. Varo nyt rintaluitasi, jos sinulla, mato, niit‰ on.
+
+    (Iskev‰t j‰lleen yhteen. Kiivas paini, jota naiset kirkuen
+    ja ponnistellen kiinnipit‰ji‰‰n vastaan katselevat.)
+
+HENNA (tulee vasemmalta. H‰n on keski-ik‰inen nainen, jolla on nyytti
+kainalossa ja keng‰t olallaan. Yll‰‰n h‰nell‰ on ainoastaan paita,
+jonka yl‰osa on palttinaa ja alaosa pakkoa. Pudottaa s‰ik‰htyneen‰
+kenk‰ns‰ ja nyyttins‰ maahan). Herra hyv‰sti varjelkoon, tappelevatko
+nuo miehet?
+
+MODIG. Se heill‰ on tarkoitus.
+
+HENNA. Miksi ei kukaan est‰ heit‰?
+
+MODIG. Minun t‰ytyy pidell‰ kiinni t‰t‰ likkaa ja Juhan tuolla tuota
+toista.
+
+HENNA. Onko t‰m‰ kristillist‰ menoa pyh‰p‰iv‰n‰! Erilleen, miehet,
+erilleen!
+
+    (Rynt‰‰ heid‰n v‰liins‰, aikoo k‰sill‰‰n irroittaa heid‰t,
+    mutta miehet tyrkk‰‰v‰t h‰nt‰ ja h‰n putoaa istualleen
+    heid‰n v‰liins‰.)
+
+ƒlk‰‰, siunatut miehet, trampatko!
+
+KALLE.(potkaisee h‰nt‰). Pois tielt‰, akka!
+
+HENNA. Ei saa potkia, en min‰ mik‰‰n koira ole!
+
+MARTTI. ƒl‰ sekaannu meid‰n asioihimme!
+
+MARIA. Nouskaa ylˆs ja taivaan nimess‰ erottakaa heid‰t!
+
+REGINA. Tarttukaa kurkkuun ja vet‰k‰‰ molemmat kumoon!
+
+KALLE. Jos yrit‰t, senkin ‰mm‰, niin sinisen‰ olet v‰h‰n ajan p‰‰st‰!
+
+HENNA (nousee maasta ja siirtyy sille puolelle, miss‰ Regina ja Juha
+ovat). En min‰ henke‰ni vaaraan pane!
+
+REGINA. Auttakaa, auttakaa, ennenkuin t‰ss‰ murha tapahtuu!
+
+HENNA. Seiv‰s, seiv‰t, mist‰ min‰ saan seip‰‰n!
+
+    (Katselee ymp‰rilleen.)
+
+KALLE (Martille). Sin‰ et uskalla oikein tarttua kiinni. Sin‰
+kiemurtelet kuin mato ongessa.
+
+MARTTI. Itse sin‰ v‰ist‰t, kun tunnet olevasi heikompi!
+
+KALLE. Sit‰ ei ole minulle viel‰ kukaan t‰t‰ ennen tohtinut sanoa.
+Herra jestas sent‰‰n, ihan pimenee silmiss‰ni ja min‰ tahtoisin saada
+jotain, jolla sinua lˆisin!
+
+    (Martti hyˆkk‰‰ ‰kki‰ h‰nen kimppuunsa. Molemmat kaatuvat
+    maahan ja painivat siin‰.)
+
+HENNA (on lˆyt‰nyt seip‰‰n ja rynt‰‰ heid‰n luokseen. Lyˆ Kallea, joka
+on p‰‰llimm‰isen‰). Tuossa on sinulle, sin‰ tappelupukari!
+
+    (Kalle hellitt‰‰ hiukan, jolloin Martti p‰‰see h‰nen p‰‰lleen.)
+
+Ja tuossa on sinullekin, sin‰ riivattu!
+
+    (Miehet nousevat ja tarttuvat Hennaan.)
+
+KALLE. Anna pois se seiv‰s!
+
+HENNA. En anna!
+
+KALLE. Anna heti paikalla!
+
+MARTTI. Mit‰ sin‰ meit‰ kolhit!
+
+    (Tarttuu h‰nen kurkkuunsa.)
+
+HENNA. ƒl‰ vie vaivaisen henke‰, kallis se minullekin on!
+
+KALLE (v‰‰nt‰‰ seip‰‰n Hennan k‰sist‰). Ei saa akat sekaantua silloin
+kun miehet tappelevat.
+
+    (Heitt‰‰ seip‰‰n virtaan.)
+
+Kiit‰ onneasi, ett‰ olet nainen, sill‰ muuten pit‰isin pient‰ pes‰jakoa
+sinun ruumiinosissasi!
+
+MARTTI (lykk‰‰ Hennan sille puolelle, miss‰ Maria ja Modig ovat). Mene
+nyt, ennenkuin sinun pahemmin k‰y!
+
+    (Molemmat miehet sylk‰isev‰t kouriinsa ja hyˆkk‰‰v‰t
+    taas toistensa kimppuun.)
+
+HENNA (veisaten). ƒl‰ pelk‰‰ lauma piskuinen!
+
+MARIA. Tehk‰‰ mit‰ tahansa, jotta he eiv‰t aivan raatele toisiaan!
+
+HENNA. Nainen on luotu sit‰ varten, jotta h‰n rauhaa rakentaisi
+maailmaan! Ja herra on heikkojen tuki ja turva!
+
+    (Menee miesten luo ja ‰kkin‰isell‰ liikkeell‰ kumartuu
+    alas, tarttuu molempien koipiin.)
+
+KALLE. P‰‰st‰ irti, senkin epeli!
+
+MARTTI. ƒl‰ minun kinttujani kisko!
+
+HENNA. Herra on heikoissa v‰kev‰, sanoo sana!
+
+    (Kalle ja Martti horjahtavat. He eiv‰t p‰‰st‰ toisiaan
+    irti, vaan ovat yh‰ kamppailussa. He kallistuvat sillan
+    kaidepuuta vastaan.)
+
+MARIA. Herranen aika, he putoavat virtaan!
+
+REGINA (kiskaisee itsens‰ ‰killisell‰ liikkeell‰ irti). ƒlk‰‰ pudotko!
+
+    (Rynt‰‰ miehi‰ auttamaan. Samassa kuuluu rys‰hdys, kun
+    kaidepuu menee poikki ja molemmat miehet putoavat virtaan.)
+
+MARIA (vaipuu hervottomana maahan). Sinne ne meniv‰t!
+
+REGINA. Pian auttamaan, he hukkuvat!
+
+    (Regina ja Juha rynt‰‰v‰t oikealle, Modig vasemmalle. Henna
+    on j‰‰nyt istumaan keskelle siltaa, Maria nousee v‰hitellen.)
+
+HENNA. Halleluijaa, halleluijaa, sanon min‰!
+
+MARIA (heikolla ‰‰nell‰). ƒlk‰‰ siin‰ halleluijailko, vaan katsokaa,
+miten heid‰n on k‰ynyt.
+
+    (Nousee vaivalloisesti.)
+
+Tuolla ne uivat virrassa!
+
+HENNA. Kyll‰ kylm‰ kylpy heid‰n tappeluintonsa lopettaa!
+
+MARIA. Nyt he alkavat jo nousta maihin. Hyv‰nen aika, miten m‰rki‰ he
+ovat molemmat.
+
+HENNA. Totta kai se m‰rk‰ on, joka veteen putoo.
+
+MARIA. Mutta kuka te olette?
+
+HENNA. Min‰ olen L‰pik‰yt‰v‰n Henna L‰ngelm‰elt‰.
+
+MARIA. Mutta mit‰ te t‰‰ll‰ teette?
+
+HENNA. Min‰ olin matkalla Er‰j‰rvelle ja poikkesin t‰nne yˆsijaa
+jostain saamaan.
+
+MARIA. Tulkaa Sikalaan, niin saatte siell‰ olla yˆt‰. Te olette t‰m‰n
+kamalan tappelun lopettanut.
+
+HENNA. Minulla on mies, joka aina silloin t‰llˆin tahtoo tapella. Min‰
+olen monta kertaa ennen saanut tarrata h‰nen kinttuunsa ja min‰ tied‰n,
+ett‰ se aina auttaa.
+
+MARIA. Mutta jos nuo miehet ryhtyv‰t uudelleen tappeluun.
+
+HENNA. Tapellaan sit‰ L‰ngelm‰ell‰kin ja sen min‰ olen havainnut, ett‰
+jos nainen saa miesten tappelun ehk‰istyksi, niin eiv‰t he ainakaan
+sin‰ p‰iv‰n‰ uudelleen yrit‰. Sellainen se miehen luonto on. Oliko
+n‰ist‰ jompikumpi sinun rakkaasi, koska niin levoton olit?
+
+MARIA. Rakastanhan min‰ sit‰ toista!
+
+HENNA. Komeita olivat molemmat, voisi rakastaa vaikka molempia.
+
+MARIA. Martti se minun ajatuksissani on, se harmaapukuinen!
+
+HENNA. Ja mit‰ se toinen h‰nen kanssaan tappeli? Tykk‰‰ kai sekin
+sinusta.
+
+MARIA. Ei h‰n minusta v‰lit‰, enk‰ min‰ h‰nest‰, mutta molemmat ovat
+hullaantuneet siihen toiseen naiseeni joka sillalla oli.
+
+HENNA. Ja onko t‰m‰ nainen... mik‰ h‰nen nimens‰ oli?
+
+MARIA. Regina se on.
+
+HENNA. Ja onko tuo Regina jommankumman niinkuin luvattu siippa.
+
+MARIA. Ei, h‰n on sen nuoren miehen luvattu, joka h‰nt‰ kiinnipiteli.
+
+HENNA. No, taivaan tapernaakkeli, on sekin asia sekava! Ihme ja
+kummakos, ett‰ t‰ss‰ tapeltiin.
+
+MARIA (alkaa itke‰). Ja kun min‰ n‰in, miten h‰n tuon siltavoudin
+Kallen kanssa tappeli Reginan vuoksi, niin huomasin min‰, etten min‰
+koskaan h‰nt‰ saa.
+
+HENNA (nousee viimein). Kyll‰p‰ ovat j‰senet kankeat, mutta j‰rki ei
+minulla ole kangistunut. Luota sin‰ minuun, kyll‰ min‰ sellaisen asian
+j‰rjest‰n. (Hiljaa.) Minulla on monet taiat tiedossa. Niit‰h‰n varten
+minut on Er‰j‰rvelle tilattu, kun siell‰ Juoppolan Kirsti ei tahdo
+saada sit‰, jota omakseen haluaa. Mies on, katsohan, lapsukainen, hyvin
+itsep‰inen olento, sit‰ t‰ytyy kaikilla konsteilla osata ohjata.
+
+MARIA. Voi, voi, jos te minullekin sellaisen keinon antaisitte, niin
+kyll‰ min‰ sen muistaisin.
+
+HENNA. Sin‰ puhuit ‰sken Sikalasta. Oletko sin‰ sen talon tyt‰r?
+
+MARIA. En, min‰ olen Sahraj‰rven Yrjˆl‰st‰.
+
+HENNA. Vai vallan Yrjˆl‰st‰. Tunnenhan min‰ talon, hyv‰ talo, kaunis
+talo ja suuri vilja-aitta onkin siell‰. Hulipaalla vain on suurempi.
+
+MARIA. Min‰ annan mit‰ ik‰n‰ns‰ pyyd‰tte, jos te saatte Martin mielen
+k‰‰ntym‰‰n minuun.
+
+HENNA. Min‰ olen niin monen miehen mielt‰ k‰‰nt‰nyt ennenkin. Totta kai
+sin‰ olet kuullut puhuttavan L‰pik‰yt‰v‰n Hennasta?
+
+MARIA. En ole, jos totta puhun.
+
+HENNA. Olet niin nuori viel‰. H‰nest‰ puhutaan silloin, kun todellinen
+h‰t‰ tulee. (Katsoo virralle p‰in.) Tuolla ne nyt menev‰t?
+
+MARIA (katselee myˆs virralle). Jumalan kiitos, Juha vei Reginan
+menness‰‰n.
+
+HENNA. Ei tarvinnut vied‰. Ei kukaan tyttˆ katsele m‰rk‰‰ miest‰, jonka
+housut ovat revenneet. Tuolla se sinipukuinen menee sen sotamiehen
+matkassa.
+
+MARIA. Eri puolille menev‰t. Kun t‰ss‰ seisomme, niin est‰mme heit‰
+yhteen iskem‰st‰.
+
+HENNA (nauraen leve‰sti). Eiv‰t ne iske ainakaan t‰n‰‰n. Johan min‰
+sanoin, ett‰ mies, jonka nainen on voittanut, on luontonsa menett‰nyt.
+Ja sen min‰ tied‰n, ett‰ kaksi m‰rk‰‰ miest‰ ei koskaan tappele
+kesken‰‰n. Niinkuin ei m‰r‰t koiratkaan. Miss‰ minun nyyttini on? Olipa
+onni, ettei se virtaan pudonnut, sill‰ enh‰n min‰ Juoppolaan olisi
+kehdannut menn‰ paitasillani.
+
+    (Nostaa nyyttins‰ maasta.)
+
+MARIA. L‰hdet‰‰n Sikalaan!
+
+    (L‰htev‰t oikealle.)
+
+V‰liverho.
+
+
+
+
+KOLMAS NƒYT÷S.
+
+
+Heikkil‰n tupa. Avara, hyvin siisti tupa. Oikealla ovi eteiseen.
+Taustalla ja vasemmalla ikkuna. Vasemmalla suuri pˆyt‰ ja sen edess‰
+rahi. Oikealla nurkassa avoin liesi. Oikeita oven luona k‰sikivet.
+Lieden vieress‰ havutukki ja kirves.
+
+MIKKO (istuen vasemmalla pˆyd‰n ‰‰ress‰ tupakoiden. H‰n on l‰hes
+viidenkymmenvuotias, hiljainen mies). Kuulehan, Liisa, mik‰ sit‰ meid‰n
+Marttia t‰n‰ aamuna vaivasi?
+
+LIISA (joka askartelee lieden luona). Kukapa niist‰ nuoren miehen
+mielialoista niin tarkalleen tiet‰‰.
+
+MIKKO. Olikohan poika jo tullut vakavaksi, kun eilen vallesmannin
+kanssa puhelimme siit‰, ett‰ talo h‰nelle tulee?
+
+LIISA. Kun kerran on ainoa poika, niin tiesih‰n tuo t‰m‰n.
+
+MIKKO. Vai arvelet sin‰, ettei se h‰nt‰ vakavaksi tehnyt. H‰n l‰ksi
+eilen t‰‰lt‰ pois jo ennen vallesmannia. Minne lienee h‰nell‰ sellainen
+kiire ollut? Taisi menn‰ Koljon sillalle pyh‰iltaa viett‰m‰‰n.
+Siell‰h‰n mekin nuorina olimme, siell‰ se nuoriso nytkin on ja
+ajastajasta ajastaikaan siell‰ pyh‰isin ollaan.
+
+LIISA. En tied‰, minne l‰ksi. Tuli illallakin kotia niin hiljaa, etten
+tiennyt, milloin tuli. Kun k‰vin aitassa, kuulin kahkinaa luhdista.
+Siell‰ h‰n jo oli. Ei h‰n kauaa viipynyt, jos jossain viipyi. Jo olisi
+aika pojan ajatella vaimoa itselleen.
+
+MIKKO. Sit‰h‰n min‰kin olen arvellut. Ellei aikanaan mene, niin ei mene
+koskaan. Olisikohan tuolla jo joku katsottuna?
+
+LIISA. Kai sellainen kuin Martti katsoo montaakin, mutta tuskin on jo
+p‰‰ttynyt.
+
+MIKKO. Olisikohan h‰n iskenyt silm‰ns‰ siihen Yrjˆl‰n Mariaan?
+
+LIISA. Ei kai h‰n, mutta Maria taitaa olla niinkuin pistoksissa.
+
+MIKKO. Sit‰ min‰kin olen ollut huomaavinani. Onhan se nuoren tytˆn
+rakkaus kuin saunan l‰mpi‰mist‰. N‰kyyh‰n aina sauhu, kyll‰ se jostain
+ilmaan p‰‰see, ellei ovesta niin muualta. Marian kiuas onkin jo
+jokseenkin tulinen, kun h‰n niin punastelee Martin n‰hdess‰‰n ja kun
+h‰n tavantakaa tekee asiaa t‰nne. Ei sit‰ koirakaan niin usein talossa
+k‰y, jossa sit‰ hyv‰sti ruokitaan, kuin Maria meill‰.
+
+LIISA (hymyillen). N‰kyikˆ se saunan l‰mpi‰minen minustakin aikanaan?
+
+MIKKO. No, totta kai min‰ sen n‰in, ett‰ siell‰ oikein joululˆyly oli.
+
+LIISA. Nyt sin‰ narraat.
+
+MIKKO. En min‰ narraa, en ollenkaan. Silm‰si loistivat kuin kaksi
+t‰hte‰ taivaalla, kun min‰ tulin l‰helle. Min‰ aloin sit‰ ep‰ill‰ ja
+er‰‰n‰ pyh‰iltana, kun nuoret taas olivat tuolla Koljon sillalla,
+pysyin rannalla pensaitten suojassa ja odotin, milloin sin‰ tulit.
+Katsohan, min‰ tahdoin p‰‰st‰ selville. Min‰ kytt‰sin.
+
+LIISA. Ja mit‰ n‰it?
+
+MIKKO. N‰inh‰n sen, ett‰ kun Liisa tuli sillalle ja siin‰ sive‰n‰
+seisoi toisten tyttˆjen joukossa, niin olivat kasvot vakavat eik‰ h‰n
+pojille vastannut mit‰‰n, jos n‰m‰ h‰nelt‰ kysyiv‰t jotain, meni vain
+piiloon toisten sel‰n taakse. Mutta sen min‰ huomasin, ett‰ Heikkil‰‰n
+p‰in h‰nen silm‰ns‰ tavan takaa vilkuilivat. No, jo oli kuin j‰nis,
+joka pist‰‰ p‰‰ns‰ pensaasta esille ja katselee seutua. Min‰ tulin
+varovasti pensaan takaa maalle, menin tielle ja sitten k‰velin
+sillalle. Ja tied‰tkˆ, mit‰ huomasin?
+
+LIISA. Kai huomasit, ett‰ siell‰ oli monta ihmist‰ ja Liisa niiden
+joukossa.
+
+MIKKO. Kyll‰h‰n min‰ aina olen osannut housut ja hameet erottaa. Mutta
+huomasin min‰ muutakin. Liisan silm‰t alkoivat loistaa eik‰ h‰n en‰‰
+toisten tyttˆjen takana pysynyt vaan oli kuin langalla vedettyn‰ minun
+l‰hell‰ni. Mik‰h‰n se h‰nt‰ niin veti?
+
+LIISA. Mik‰h‰n tuo mahtoi olla?'
+
+MIKKO. Ei kai Liisa sit‰ silloin tiet‰nyt, mutta Mikko tiesi. Vaikka
+min‰ olenkin t‰llainen hiljainen mies, niin huomaan min‰kin jotain.
+
+LIISA (on tullut h‰nen viereens‰ ja seisoo k‰si h‰nen olallaan). Ja
+huomasin min‰kin, ett‰ Mikko, joka aina oli niin kovin vaiti, rupesi
+puhelemaan, kun min‰ tulin l‰helle.
+
+    (Sivelee hiljaa h‰nen tukkaansa.)
+
+Voi, voi sit‰ tyhm‰‰ Mikkoa! J‰i silloin tytˆn ansaan.
+
+MIKKO. Ja hyv‰ oli j‰‰d‰kin.
+
+MARTTI (tulee eteisen ovesta). Nyt on isoniitty jo korjattu. Me menemme
+nyt Kaisan kanssa pikkuniitylle.
+
+MIKKO (nousee). T‰ytyy kai minun tulla joukkoon auttamaan. J‰in t‰nne
+istumaan. Tulee vanhaksi is‰nn‰ksi ennen aikaansa.
+
+MARTTI. Kyll‰ te, is‰, saatte kotona pysy‰. Kaisa ja min‰ ja
+Heikki-renki siin‰ samalla, kyll‰ me sen asian siell‰ hoidamme.
+
+    (Lyhyt ‰‰nettˆmyys.)
+
+LIISA. Varhain sin‰ eilen tulitkin kotia, vaikka oli pyh‰ilta.
+
+MARTTI (hiukan h‰mill‰‰n). Mist‰ te, ‰iti, sen tied‰tte?
+
+LIISA. Menin aittaan ja kuulin sinun liikkuvan luhdissa.
+
+MARTTI. Ei minua huvittanut sinne sillallekaan j‰‰d‰. Min‰ olin
+vakavissa ajatuksissa, ja se nuorten kevytmielinen rehkiminen ei
+tuntunut milt‰‰n.
+
+MIKKO. Sill‰ kertaa, niin kai. Olethan jaksanut rehki‰ ennen siell‰
+tanssimassa. Olet hyppinyt kuin hullu riihess‰.
+
+MARTTI. Johan min‰ kahden vuoden p‰‰st‰ pyh‰inmiesten p‰iv‰n aikaan
+tulen t‰ysi-ik‰iseksi. Lopetettavahan sellainen meno on aikanaan.
+
+MIKKO. Jos jokainen t‰ysi-ik‰isen‰ lakkaa tanssimasta, niin sittenh‰n
+me vanhat saamme minun i‰ll‰ni kainalosauvoilla kulkea. Ei, ei,
+poikani, pit‰‰ pysy‰ norjana. Ja sen min‰ sanon, ett‰ vasta v‰h‰‰ ennen
+hautajaisiani min‰ aion olla tanssimatta purppuria.
+
+LIISA. Oliko siell‰ sillalla jotain erikoista eilen illalla?
+
+MARTTI. Mit‰ siell‰ olisi ollut, aivan tavallista menoa.
+
+LIISA. Kummallista, ettei se sinua en‰‰ miellyt‰.
+
+MARTTI. Minun t‰ytyy nyt menn‰, kun ne toiset odottavat. Tulin hakemaan
+kotoa hein‰seip‰it‰.
+
+    (Menee.)
+
+MIKKO. Poika on nolo kuin uitettu kissa. Jotain h‰nelle on tapahtunut
+
+LIISA. Eip‰ h‰n v‰h‰ll‰ miesm‰isyytt‰‰n menet‰.
+
+MIKKO. Rakkautta se ei ole, sill‰ huulet olivat kovin yhdess‰. Jos
+rakastuu, niin hymyilee kuin j‰rkipuoli.
+
+SUSANNA (tulee kovalla touhulla eteisen ovesta). P‰iv‰‰, p‰iv‰‰!
+(K‰ttelee.) Tietysti jo olette kaiken kuulleet? Min‰ olin ihan
+s‰ik‰htynyt, kun se minulle kerrottiin.
+
+LIISA. P‰iv‰‰, mit‰ nyt on tapahtunut, kun sin‰ sellaisella kiireell‰
+tulet meille?
+
+SUSANNA. Ettekˆ te ole kuullut? Semmoinen tappelu!
+
+LIISA. Ketk‰ ovat tapelleet?
+
+SUSANNA. Siltavoudin Kalle ja teid‰n Martti.
+
+LIISA. Meid‰n Marttiko?
+
+SUSANNA. Minun t‰ytyy istua, juoksin niin, ett‰ olen ihan heng‰stynyt.
+
+    (Istuu penkille pˆyd‰n ‰‰reen.)
+
+Kyll‰ te el‰tte kuin kuurot, vaikka silta on ihan talonne alapuolella,
+ettek‰ kuule.
+
+MIKKO. Kuuluihan sielt‰ illalla vallesmannin menty‰ jotain melua.
+Kuulithan sin‰kin sen, Liisa, kun sanoit, ett‰ kai pojat tappelevat,
+kun tytˆt noin kirkuvat, mutta min‰ sanoin, ett‰ kirkuvat ne tytˆt
+muutenkin, kun poikia on l‰hell‰.
+
+SUSANNA. Mit‰ se is‰nt‰ nyt puhuu. Hiljaa silloin ollaan ja
+supatellaan.
+
+MIKKO. Niinh‰n tehd‰‰n, mutta se tulee vasta sitten myˆhemmin ajan
+mukana, ensin virskutaan, sitten kiljutaan, sitten ollaan tuppisuuna ja
+huokaillaan ja sitten supatellaan ja sitten menn‰‰n pappilaan.
+
+SUSANNA (huokaa). Niin, niin, sellainen aika on nyt minun edest‰ni
+mennyt. Lesken‰ saan istua, vaikka kaikki hampaat viel‰ on suussani.
+Kuka sit‰ minusta huolii, kun minulla oli ne kaksi kakaraa?
+
+LIISA. Mutta kerrohan nyt siit‰ tappelusta. Olitko itse siell‰?
+
+SUSANNA. En ollut. Eih‰n minun sopinut menn‰ eilen; kun juuri olin
+istunut jalkapuussa samana p‰iv‰n‰. Pit‰‰ s‰ilytt‰‰ s‰‰dyllisyys
+kaikessa. Mutta meid‰n Regina tuli ihan kauhuissaan Juhan kanssa kotia
+ja itki. Min‰ jo luulin, ett‰ heid‰n asiansa on mennyt sekaisin ja
+meinasin ruveta sit‰ selvitt‰m‰‰n, kun Juha alkoi kertoa. Pojat olivat
+jo silloin yhteen menossa, kun Regina ja Juha tulivat. Pojat lukivat
+juuri synnintunnustusta.
+
+MIKKO. Sill‰kˆ he alkoivat tappelun ja k‰sirysyn?
+
+SUSANNA. Min‰ en tied‰, mit‰ se siihen kuului, mutta sit‰ he olivat
+lukeneet ja kovalla kiireell‰ olivatkin sen tehneet. Oli luistanut kuin
+lukusijoilla. Ja sitten he rynt‰siv‰t yhteen. Toiset koettivat est‰‰,
+mutta tytˆt saivat siin‰ pienet kolaukset.
+
+LIISA. Ketk‰ tytˆt?
+
+SUSANNA. Siell‰ oli se Mariakin ollut ja olikin rehkinyt kuin riivattu
+Martin puolesta. Niit‰ sai pit‰‰ kiinni, kun muuten olisivat olleet
+toistensa tukassa hekin. Niin Juha sanoi ja h‰n on aina pysynyt
+totuudessa. Ja ett‰ h‰n puhui totta, sen huomasin siit‰, ett‰ kun
+tultiin t‰h‰n kohtaan kertomuksessa, niin vinkaisi Regina. Taisi surra,
+ettei saanut h‰nkin tapella.
+
+LIISA. No kyll‰ on, kun tytˆtkin tappelevat. Eiv‰th‰n ne sit‰ koskaan
+ole tehneet muuta kuin joskus poikien t‰hden.
+
+SUSANNA. Mutta seh‰n juuri t‰ss‰ olikin kysymyksess‰, juuri pojat
+
+MIKKO. Mink‰ poikien t‰hden?
+
+SUSANNA. Sen teid‰n Martin t‰hden? Katsokaahan, kun min‰ ongin kaikki
+selv‰ksi, niin p‰‰sin tietoon, ett‰ Kalle oli katsellut Reginaa ja ett‰
+Martti sen on tehnyt se on p‰iv‰n selv‰‰, kun mies ihan uskoa roikkuu
+meid‰n nurkissa.
+
+LIISA. Mutta Reginahan on aiottu Juhalle.
+
+SUSANNA. Niin on aijottu, mutta enh‰n min‰ sille mit‰‰n mahda, ett‰
+h‰nell‰ oli sellainen luonto, joka vet‰‰ poikia tykˆns‰. Kyll‰ min‰ sen
+ymm‰rr‰n; Niin min‰kin olin ennen. Aijai, sit‰ menoa kuin oli minunkin
+kotini nurkissa silloin, kun min‰ olin nuori. Nuorihan min‰ nytkin olen
+viel‰, mutta silloin kun olin naimaton. Viel‰ enemm‰n minulla oli. Ja
+kun Tuomas vainaja minut sai omakseen, niin aidalla min‰ istuin ja
+katselin, kun pojat rehkiv‰t painissa. Ja herra jestas sent‰‰n, mink‰
+n‰kˆinen se minunkin Tuomaani oli, kun h‰n siit‰ p‰‰si. Oli se ihana
+aika! Koko naama veress‰ ja min‰ itkin ja kuivasin, kuivasin ja itkin.
+Totta kai minun itke‰ t‰ytyi. Ja siit‰ se sitten tuli. Ja hyv‰ mies se
+Tuomas olikin, kun miehekseni p‰‰si. Kuoli vaan liian varhain.
+
+MIKKO. Mill‰ tavalla se meid‰n Martti tappelusta selvisi? Ei h‰n t‰ll‰
+kulmalla viel‰ ole kertaakaan alakynteen j‰‰nyt.
+
+SUSANNA. Ei t‰‰ll‰, mutta toista on, kun Brockmanin Kallen kanssa menee
+yhteen. En min‰ tied‰, kuka siin‰ voitolle olisi j‰‰nyt, sill‰ molemmat
+menn‰ ploiskahtivat Koljon virtaan. Meilleh‰n se Kalle tuli. Ja m‰rk‰
+se oli, herranen aika, miten m‰r‰ksi ihminen tuleekaan, kun vaatteet
+p‰‰ll‰ veteen joutuu! Min‰ niit‰ sitten kuivasin, niit‰ vaatteita
+nimitt‰in, uunin p‰‰ll‰. ƒsken Kalle sitten l‰ksi kotiaan kohdin,
+mutta kovin krymp‰ttyn‰. Reginan suhteen oli kaikki loppunut, sen min‰
+huomasin. Kyll‰h‰n Regina h‰nt‰ koetti lohdutella, mutta mies oli
+synkk‰ kuin murhaaja k‰r‰jill‰.
+
+LIISA. Pelk‰‰, ett‰ t‰m‰ juttu kerrotaan pit‰j‰ll‰ ja h‰nelle
+nauretaan. Sellainen sammuttaa pahimmankin rakkauden miehess‰.
+
+SUSANNA. Se on selv‰‰, se. Kyll‰h‰n min‰ sen Reginan olisin sille
+Kallelle suonut.
+
+MIKKO. Mutta onhan Regina Juhan morsian.
+
+SUSANNA. Jos min‰ oikein totta puhun ja ajatukseni tuon julki, niin ei
+minulla mit‰‰n sit‰ vastaan olisi, ett‰ h‰n menisi jollekulle toiselle.
+Ottakaa h‰net t‰nne Martin vaimoksi.
+
+LIISA. En min‰ h‰nt‰ ottaisi.
+
+SUSANNA. Kyll‰ min‰ sen ymm‰rr‰n, voi, voi, miten hyvin min‰ sen
+ymm‰rr‰n. Onhan se Regina hyv‰ tyˆihminen ja kauniskin h‰n on, mutta
+kun sill‰ on se hirmuinen roikka mukanaan. On is‰, ‰iti ja kaksi
+sisarta ja kaikki n‰m‰ ovat ihan riivattuja komentamaan. Ei siin‰ auta
+muu kuin aina pit‰‰ halkoa l‰hell‰, jos tahtoo em‰nnyyden s‰ilytt‰‰.
+Kyll‰ min‰ t‰h‰n asti olen voitolla ollut heit‰ kaikkia vastaan, sill‰
+eiv‰t ne toki kehtaa viel‰ pahaa luontoaan t‰ydellisesti n‰ytt‰‰. Mutta
+arvaahan sen, ett‰ kun h‰‰t ovat olleet, niin olen min‰ talossani kuin
+lude, joka saa etsi‰ rakoa, minne p‰‰sisi piiloon.
+
+MIKKO. Miksi se Juha ei aja sit‰ roikkaa pois?
+
+SUSANNA. Meid‰n Juha! Se on niin hiljainen ihminen, etten sit‰ uskoisi
+omaksi pojakseni, ellen sit‰ varmasti tiet‰isi. Is‰ns‰ joikin toisinaan
+ja olikin humalassa hauska mies, lauloi ja hoilasi ja puheli mukavia.
+Mutta t‰m‰ ei ole maistanut viinan tippaakaan. Ja kun h‰nell‰ on
+joutoaikaa, niin istuu ja tutkii raamattua. Ilmankos se Regina saa
+toisinaan h‰nest‰ tarpeekseen. En min‰ usko, ett‰ h‰n halaakaan sit‰
+morsiantaan muuta kuin kerran viikossa, vaikka t‰m‰ on samassa talossa.
+Ei sit‰ sent‰‰n nuori tyttˆ niin v‰h‰‰n tyydy. Sano suoraan Liisa;
+tyytyisitkˆ sin‰, jos olisit nuori?
+
+LIISA. En min‰ usko, ett‰ Mikko halasi minua ennen h‰it‰ ollenkaan.
+Enk‰ min‰ sit‰ kaivannutkaan. Enn‰tt‰‰ sen sittenkin.
+
+SUSANNA. Ihmeiden ihme! Onko niit‰ sellaisia ihmisi‰ maailmassa! Mutta
+kun lukee sit‰ korkeaa veisua, niin silloin tiet‰‰ yht‰ ja toista.
+
+MIKKO. Min‰ luen aina profeettoja!
+
+SUSANNA. Ne mekastavat aina niin kovasti. Kyll‰h‰n sit‰ sellaista
+on terveellist‰ lukea, mutta sittenkin... Te ette siis huoli siit‰
+Reginasta. Mutta jos Martti haluaa h‰net, niin huolitte kai sitten.
+
+LIISA. Ei Martti ole meille siit‰ mit‰‰n puhunut. Ja h‰n on sellainen
+poika, ettei h‰n sent‰‰n mit‰‰n tee vanhempiensa tahtoa kysym‰tt‰.
+
+    (Maria ja Henna tulevat.)
+
+MARIA. P‰iv‰‰! Is‰nt‰ k‰ski sanoa, ett‰ meill‰ olisi talkoo torstaina.
+Kai t‰‰lt‰kin tullaan?
+
+LIISA. Meill‰ on hein‰nkorjuu jo siksi loppunutkin, kyll‰ me tulemme
+kaikin. Kuinka siell‰ teill‰ n‰in kauan on kest‰nyt?
+
+MARIA. Meill‰ ei ole ollut v‰ke‰ kylliksi, ja ne niityt, jotka ovat
+siell‰ virran varrella, eiv‰t ole viel‰ olleet niitett‰viss‰.
+
+MIKKO. Kiire siin‰ jo onkin, jos tahtoo enn‰tt‰‰ kaikki hein‰t korjuun,
+ennenkuin ruis pakkaa p‰‰lle.
+
+SUSANNA. No, Maria, seh‰n oli tavaton tappelu, joka siell‰ eilisiltana
+oli Koljon sillalla.
+
+MARIA (h‰tk‰ht‰‰). Min‰ olen ihan onneton siit‰! Ett‰ ne viitsiikin
+sill‰ tavalla!
+
+SUSANNA. Voi, voi, et sin‰ tunne viel‰ nuoria miehi‰; Kyll‰ he tapella
+jaksavat. Ei siin‰ auta sakot ja pappien saarnat. Veri se on, joka
+sellaista tekee.
+
+HENNA (joka on istunut uunin luo sis‰‰n tultuaan). Tiesi, miten siin‰
+olisi k‰ynyt, ellen min‰ olisi tullut apuun.
+
+MARIA. Niin, t‰m‰ Hennahan sen kaiken lopetti.
+
+SUSANNA. Mutta seh‰n on Henna. Min‰ t‰ss‰ katselinkin, ett‰ tutun
+n‰kˆinen se on.
+
+    (Menee k‰ttelem‰‰n.)
+
+Kyll‰h‰n min‰ L‰pik‰yt‰v‰n Hennan muistan silt‰ ajalta, kun is‰ni viel‰
+asui L‰ngelm‰ell‰. Aijai, ettei se Henna vain tehnyt taikoja silloin,
+kun min‰ naimisiin menin.
+
+HENNA. Eih‰n sit‰ tarvittu, kun vallesmannin rˆˆkyn‰ oli niin korea ja
+hemaiseva.
+
+SUSANNA. Niin, niin, kun muistelee niit‰kin aikoja! Vai Henna se nyt
+tappelun lopetti?
+
+HENNA. Niinh‰n min‰ tein. Min‰ olen mieheni niin usein laahannut pois
+tappeluista, ett‰ kyll‰ min‰ kaikki konstit tunnen. Min‰ ryˆmin kuin
+kissa hiirt‰ vahdatessaan poikien jalkoihin ja tarrasin kinttuihin
+kiinni. Ei se miesk‰‰n yhdell‰ jalalla pystyss‰ pysy, ei ainakaan
+silloin, kun toisen kanssa tappelee. Ne meniv‰t niin ett‰ roiskahti
+kaidepuun yli virtaan; Siell‰ ne sitten mulskivat aikansa ja nousivat
+rannalle. Mutta sellainen sisu niill‰ viel‰ oli siell‰kin, etteiv‰t
+edes samalle rannalle tahtoneet nousta, vaan toinen nousi toiselle ja
+toinen toiselle.
+
+LIISA (mennen ovea kohden). Minnek‰h‰n se Martti ne vaatteensa on
+j‰tt‰nyt. Pit‰‰ menn‰ aittaan katsomaan, etteiv‰t siell‰ sikisty aivan
+pahanp‰iv‰isiksi. Ne pojat heitt‰v‰t vaatteitaan sinne ja t‰nne yhteen
+kasaan.
+
+    (Menee)
+
+MIKKO. No, onko se Henna taas taikamatkoilla?
+
+HENNA. Ei minulla t‰h‰n pit‰j‰‰n asiaa ole. Min‰ olin vain l‰pimatkalla
+sinne Er‰j‰rvelle. Siell‰ on sellainen onneton likka, joka ei tahdo
+miest‰ saada, ei, vaikka mik‰ olisi. Ja ellen min‰ auta, niin Kyˆpelin
+klasivuorta se kiivet‰ saa.
+
+MIKKO. Henna onkin kai monen silt‰ matkalta pelastanut?
+
+HENNA. Onhan tuota tullut tehdyksi. Onhan l‰himm‰ist‰ autettava siin‰
+miss‰ kukin voimainsa mukaan voi. Ja naiminen on pyh‰ ja vakava asia.
+Ei siihen vain jokainen toisten auttamatta p‰‰se, kun ne miesriiviˆt
+ovat tulleet sellaisiksi junttip‰iksi, ett‰ eiv‰t menisi pappilaan
+vaikka mik‰ olisi. Houkuteltava niit‰ on ja konstia on k‰ytett‰v‰.
+
+SUSANNA. Ei Henna nyt mene t‰st‰ pit‰j‰st‰ pois, ennenkuin on meill‰
+k‰ynyt. Min‰kin olen nyt lesken‰.
+
+HENNA. Niin, min‰ olen sen kuullut, ett‰ rˆˆkyn‰ on leski. Mitenk‰s se
+is‰faari jaksaa? On kai viel‰ yht‰ nuori ja kekkee kuin ennenkin?
+
+SUSANNA. Samanlainen h‰n on kuin ennenkin. Onko siell‰ L‰ngelm‰ell‰
+kuollut viime aikoina paljon ihmisi‰?
+
+HENNA. Ainahan niill‰ on se tapana ollut. Milloin enemm‰n milloin
+v‰hemm‰n. Lapsia tietysti kuolee parhaasta p‰‰st‰, mutta menee siin‰
+keski-ik‰isi‰kin. Voi, kyll‰ se oli vahinko, ettei rˆˆkyn‰ ollut leski
+silloin, kun se V‰stil‰n Laurilan Lauri is‰nt‰ leskeksi j‰‰ty‰‰n haki
+itselleen uutta vaimoa. Siin‰ oli sitten touhua. Koko pit‰j‰ sit‰
+hakemista ja valikoimista seurasi. Lesken se sitten otti, kun ei ket‰‰n
+nuorta tyttˆ‰ saanut. Mutta olisi rˆˆkyn‰n kelvannut menn‰ siihen
+taloon.
+
+SUSANNA. Onko h‰nell‰ poikia?
+
+HENNA. Onhan se Jaakko. Komea ja roteva poika. Pitk‰, tavallista
+pitempi. Se on nyt juuri siin‰ i‰ss‰, ett‰ senkin pit‰isi menn‰
+naimisiin. On ainoa poika ja saa talon. Eih‰n sit‰ juuri kannata menn‰
+muuta kuin sellaiseen taloon, jossa on yksi poika. Kyll‰h‰n niist‰
+tytˆist‰ sitten p‰‰see perunkirjoituksissa, vaikka eiv‰t ne langot
+niit‰ hauskimpia ole; vaativat ja vaativat. Mutta p‰‰seeh‰n niist‰.
+Mutta toista on pojat. Min‰ tied‰n talon, en nyt viitsi nime‰ sanoa,
+mutta siell‰ pojat niin riiteliv‰t perinnˆst‰, ett‰ piti pˆyt‰kin
+sahata kahtia, kun ei kukaan tahtonut toista puolta toiselle sovinnolla
+antaa.
+
+SUSANNA. Mutta se Jaakko? Vai on pitk‰ ja komea?
+
+LIISA (tulee sis‰‰n). Enkˆ min‰ sit‰ arvannut. Sinne se Martti oli
+pannut vaatteet m‰rkin‰ nurkkaan yhteen k‰‰rˆˆn. Olisi luullut, ett‰
+n‰it‰ ei ole mestarilla koskaan teetetty, niin ovat rypyss‰.
+
+    (Oikoo vaatteita ja asettaa ne kuivumaan takan p‰‰lle.)
+
+SUSANNA. Tekisi niin mieli j‰‰d‰ tuota Hennaa puhuttamaan, sill‰ on
+aina niin mukavia juttuja, mutta ne voivat siell‰ kotona tehd‰ mit‰
+tahansa, ellei ole aina vieress‰ katsomassa. Hyv‰sti nyt. Henna tulee
+sitten varmasti meille. T‰ss‰h‰n se on ihan vieress‰.
+
+HENNA. Kyll‰ min‰ tulen. Onhan sit‰ niinkuin sukua, kun on samassa
+pit‰j‰ss‰ syntynyt. ÷risse aina l‰hemp‰‰ kuin vieraasta pit‰j‰st‰
+olisi.
+
+SUSANNA (k‰ttelee kaikkia). Hyv‰sti nyt. Ja Henna ei sitten unohda
+mill‰‰n tavalla tulla meille. Min‰ annan vaikka ryypyn.
+
+    (Menee.)
+
+LIISA (tarkastaen riippumaan asetettuja housuja). Ja mill‰ tavalla se
+poika on housujaan pidellyt! Ihan rikki!
+
+HENNA (nauraen). H‰h‰h‰h‰h‰! Siin‰ ryt‰k‰ss‰ ne repesiv‰t. Min‰ n‰in
+sen!
+
+LIISA. Kyll‰ n‰ist‰ paikkaamalla viel‰ tulee tyˆhousut, mutta ei n‰it‰
+en‰‰ pyh‰n‰ pid‰. Miss‰h‰n, Mikko, se pit‰j‰n r‰‰t‰li t‰h‰n aikaan on
+tyˆss‰? Pit‰isi mestarille saada sana.
+
+MARIA. Mestari tuli juuri sinne Sikalaan t‰n‰ aamuna.
+
+LIISA. Voi todellakin sanoa, miss‰ housut repee, siell‰ r‰‰t‰li on
+paikalla kepee. Jos sin‰, Mikko, menisit heti h‰nelle puhumaan. Kai tuo
+siin‰ muun tyˆn v‰liss‰ enn‰tt‰isi housut tehd‰ Martille. Minulla on
+aitassa viel‰ t‰t‰ samaa sarkaakin.
+
+MIKKO. Voihan tuota menn‰, niin on sekin asia sitten hoidettu aikanaan.
+
+    (Ottaa lakkinsa ja menee.)
+
+HENNA. Kyll‰ on t‰m‰ is‰nt‰ nˆyr‰ ja kuuliainen. Ei niit‰ olekaan
+monessa paikassa sellaisia. Komentieraavat akkaansa ihan aamusta
+iltaan.
+
+LIISA. Miehiss‰ ja miehiss‰ on kovin suuri ero.
+
+HENNA. Siin‰ em‰nt‰ sanoi ihan toden sanan. Kyll‰ se ero on niin suuri,
+ettei sit‰ uskoisikaan.
+
+LIISA. Ei kai sinulla, Maria, ole kovin kiirett‰ pois.
+
+MARIA. Ei ole. Tarvitaanko minua t‰‰ll‰?
+
+LIISA. Minun pit‰isi k‰yd‰ v‰h‰n niityll‰ juuri nyt. Pit‰‰ vied‰ sinne
+niille juotavaa. Minun pit‰isi v‰h‰n puhua sinulle asioista.
+
+MARIA. Kyll‰ min‰ sen ajan t‰ss‰ odotankin.
+
+LIISA. Pit‰‰ samalla v‰h‰n toruakin sit‰ Marttia, kun ei ole ‰idilleen
+mit‰‰n puhunut tuosta tappelusta.
+
+    (Menee.)
+
+HENNA. Voi sinua, kultainen nypykk‰, kyll‰ saat hyv‰n anopin ja apen,
+jos t‰h‰n taloon p‰‰set. Min‰ olen jo n‰hnyt niin monta taloa ja niin
+monta perhett‰, ett‰ ihan haistan heti tupaan tullessani, miss‰ ollaan
+onnellisia. Min‰ myisin vaikka autuuteni, jotta hankkisin sinulle
+mini‰n paikan t‰llaisessa talossa.
+
+MARIA (alakuloisena). Auttaako siin‰ en‰‰ mit‰‰n, kun se tappelukin oli
+eilen.
+
+HENNA. Auttaa ja auttaa varmasti, kun min‰ hommaan. Katsohan, kohtalon
+sormi pisti ihan siihen paikkaan, miss‰ apu on.
+
+MARIA. Ja miss‰ se on?
+
+HENNA. Tuolla uunin p‰‰ll‰.
+
+MARIA. Mik‰ siell‰ sitten on?
+
+HENNA. Ne housut. Jos saa nuori tyttˆ k‰siins‰ rakastamansa miehen
+housut, niin on taika, joka varmasti auttaa. Se tepsii mieheen ihan
+tiukasti.
+
+MARIA (innostuen). Ja mik‰ se taika on?
+
+HENNA. Sinun pit‰‰ ottaa nuo Martin housut ja sitten jauhaa niit‰
+k‰sikivill‰.
+
+MARIA. Herranen aika, pit‰‰kˆ minun he sitten jauhettuina syˆd‰?
+
+HENNA. Ei, ei niit‰ syˆd‰ sent‰‰n tarvitse, mutta jauhaa ne pit‰‰
+oikein pieniksi. Ja ett‰ kohtalon sormi on tismalleen t‰m‰n asian
+p‰‰ll‰, se n‰hd‰‰n kaikesta. Ensin tuo pojan oma ‰iti housut ihan
+meid‰n nen‰mme eteen. Ja sitten on tuossa ihan l‰hell‰ k‰sikivet.
+
+    (Osoittaa oven pieless‰ olevia k‰sikivi‰.)
+
+Ja sitten k‰y kaikki kuin nakutettu. Is‰ menee pois, ‰iti menee pois,
+me j‰‰mme kahden, eik‰ talossa ole ket‰‰n muita kuin me kaksi. Ota pian
+housut sielt‰ alas!
+
+MARIA (ottaa housut uunin p‰‰lt‰). Voi, voi, kuinka min‰ pelk‰‰n!
+
+HENNA. Ei tarvitse pel‰t‰ ollenkaan.
+
+MARIA. Mutta mit‰h‰n Martti sanoo, jos saa tiet‰‰, ett‰ min‰ olen h‰nen
+housunsa jauhanut?
+
+HENNA. Mit‰ se sanoo, on mieliss‰‰n sellaisesta. Kyll‰ se selvi‰‰ siin‰
+ilossa ihan itsest‰‰n. Pian housut myllyyn!
+
+MARIA (menee housut k‰dess‰‰n myllyn luo). Pit‰‰kˆ minun panna n‰m‰
+myllyyn niin, ett‰ ensin on puntit, vai ett‰ ensin on vyˆt‰rˆ!
+
+HENNA. Hullu likka, tietysti ensin puntit. Pystyss‰h‰n miehen t‰ytyy
+olla, eik‰ p‰‰ll‰‰n seisomassa.
+
+MARIA (koettaa saada housut k‰sikivien silm‰st‰ sis‰‰n). Eiv‰t n‰m‰
+mene mill‰‰n ihmeell‰ sis‰‰n. T‰m‰ reik‰ on pieni ja housut
+ovat sarkaa.
+
+HENNA. Ota halko ja paina sill‰!
+
+    (Tuo h‰nelle uunin luota halon.)
+
+Paina t‰ll‰!
+
+MARIA (painaa). Eiv‰t ne mene sittenk‰‰n!
+
+HENNA. No, se on nyt ihme ja kumuna!
+
+    (Ilahtuen.)
+
+Mutta, katsohan, taas se kohtalon sormi n‰ytt‰‰ mit‰ meid‰n tulee
+tehd‰. Tuolla uunin kupeella on tukki ja sen p‰‰ss‰ kirves, ihan kuin
+meit‰ ja t‰t‰ asiaa varten siihen pantuna. En ole viel‰ koskaan taikaa
+tehnyt, jossa kaikki olisi ihan tarjolla edess‰, on saanut etsi‰ ja
+hakea. Tuo housut t‰nne, niin min‰ autan!
+
+    (Menev‰t yhdess‰ tukin luo, joka on uunin pieless‰ tuvan puolella.)
+
+MARIA. Ihan minua peloittaa!
+
+HENNA. ƒl‰ lˆpise. Pian housut t‰nne!
+
+MARIA. T‰ss‰ ne ovat!
+
+    (Antaa Hennalle housut, joka panee ne tukille, tarttuu
+    kirveeseen ja alkaa lukea hakaten samalla housuja.)
+
+HENNA.
+
+    Iske kirves miehen mielt‰,
+    Pirstoa pahan sisua,
+    Nˆyr‰ksi nujertamahan,
+    Lempe‰n‰ leimumahan.
+    Nosta haluja h‰ness‰,
+    T‰m‰n meid‰n piian p‰‰lle,
+    Ettei muita muistakahan
+    Eik‰ toisia tavota.
+
+(Puhuu.) T‰ss‰ on nyt silppua. Ota se ja ala jauhaa! (Antaa Marialle
+hakkaamaansa kangasta. Maria ottaa ja menee myllyn luo ja alkaa
+jauhaa.)
+
+    Niinkuin pˆksyj‰ pitelen,
+    Niin m‰ sisuas sitelen,
+    Yhtehen yhistykˆhˆn,
+    Kiinni kinnaroitukohon,
+    Ettei p‰‰se p‰ivin‰ns‰,
+    Selvi‰ sin‰ ik‰n‰!
+
+(Puhuen.) T‰ss‰ on lis‰‰ vaikka kuinka paljon. Jauha, jauha!
+
+MARIA. T‰m‰ on niin nihke‰‰, ettei se kulje kivien v‰liss‰. Se vain
+vinkuu ja vitisee!
+
+HENNA. Anna vinkua, ei se mit‰‰n tee. Kyll‰ se suppu siell‰ pienenee!
+
+(Maria ryhtyy taas jauhamaan. Henna jatkaa lukuaan.)
+
+    Nouse lempi hettehist‰,
+    Nouse minun nostaessa,
+    Pyˆrrytt‰ˆs miehen p‰‰t‰,
+    Souda suonissa suvena,
+    Ett‰ aivot on sekaisin,
+    Halut hulluina h‰ness‰.
+
+(Puhuen.) Tuleeko siit‰ mit‰‰n?
+
+MARIA. Kyll‰ se jo alkaa luistaa.
+
+HENNA. Tule ottamaan lis‰‰. T‰‰ll‰ on sinulle! (Maria k‰y ottamassa
+lis‰‰ riepuja. Henna jatkaa kirveell‰ hakkaamista ja lukee.)
+
+    Ei sitten sin‰ ik‰n‰,
+    Ellei t‰n‰n kes‰n‰,
+    Lempi leiki lehtoloissa,
+    Kukertele kuusen alla.
+    Jos et nouse, min‰ nostan,
+    Jos et kiihdy, min‰ kiroan!
+
+(Puhuen.) No, nyt se on sit‰ myˆten valmis. Puntit on m‰s‰n‰.
+Istuinpaikka on v‰ltt‰m‰ttˆm‰sti pantava kokonaisena myllyyn.
+(Menee myllyn luo ja tuppoa housuja kiven silm‰‰n.)
+
+Luistaako se!
+
+MARIA. Ei se luista. Se juuttuu ihan kiinni!
+
+HENNA. V‰‰nnet‰‰n yhdess‰! Kas, tuolla tavalla, tuolla tavalla! Kyll‰
+t‰st‰ nyt hyv‰ tulee!
+
+MARTTI (on tullut hiljaa ovesta ja seisoo aivan naisten takana;
+katselee v‰h‰n aikaa ihmeiss‰‰n heid‰n hommaansa). Mit‰ te t‰‰ll‰
+jauhatte?
+
+    (Molemmat naiset kirkaisevat. Maria pakenee tuvan toiselle
+    puolelle pˆyd‰n luo, Henna uunin l‰helle.)
+
+HENNA. No, nyt meni kaikki sekaisin!
+
+MARTTI Mit‰ te noin s‰ik‰hd‰tte?
+
+    (Astuu muutaman askeleen eteenp‰in, Henna livist‰‰
+    samassa h‰nen taitseen ovesta ulos.)
+
+No, no, minne sellainen kiire?
+
+    (Menee j‰lleen myllyn luo ja vet‰‰ housun kappaleen myllyst‰.)
+
+Voi paratiisin omenat! Minun housuni! Mit‰ ihmett‰ te minun housujani
+myllyss‰ jauhatte? Eih‰n n‰ist‰ ole muuta kuin istuin en‰‰ j‰lell‰ ja
+sekin jo koko lailla kelvottomassa kunnossa.
+
+    (Menee housut k‰dess‰‰n Marian luo, joka on istunut
+    penkille ja peitt‰‰ kasvonsa esiliinallaan.)
+
+Tied‰tkˆ sin‰, mit‰ n‰m‰ ovat?
+
+MARIA (heikolla ‰‰nell‰). Sinun pˆksysih‰n ne ovat.
+
+MARTTI. Ovat olleet, eiv‰t kai en‰‰ ole.
+
+    (Yst‰v‰llisell‰ ‰‰nell‰).
+
+Mit‰ varten sin‰ n‰it‰ t‰ll‰ tavalla olet pidellyt?
+
+MARIA (nyyhkytt‰en). Kun se Henna neuvoi.
+
+MARTTI. (vihelt‰en). Vai niin, vai neuvoi Henna? Ja mit‰ varten n‰it‰
+sitten n‰in pidettiin?
+
+MARIA. Kun se Henna sanoi, ett‰ se auttaa varmasti.
+
+MARTTI. Mihin se auttaa?
+
+MARIA. Siihen rakkauteen. Voi, voi. Martti hyv‰, anna anteeksi, en min‰
+en‰‰ toista kertaa sill‰ tavalla tee.
+
+MARTTI. Tahtoiko se Henna, ett‰ min‰ rakastuisin h‰neen?
+
+MARIA. Eih‰n h‰n tahtonut, mutta h‰n neuvoi minua.
+
+MARTTI. Ett‰kˆ min‰ rakastuisin sinuun?
+
+MARIA. Min‰ niin h‰pe‰n. Ei minun olisi pit‰nyt menn‰ ollenkaan t‰h‰n
+loukkuun. Mutta kun sin‰ niin kovasti olit sen Reginan puolella ja kun
+minulla ei ollut en‰‰ mit‰‰n muuta keinoa ja kun sin‰ tappelitkin h‰nen
+t‰htens‰.
+
+MARTTI (koettaa salata nauruaan). Vai sen vuoksi?
+
+MARIA (ojentaa k‰tens‰ ja tarttuu housuihin). Anna ne minulle, kyll‰
+min‰ hommaan uudet sinulle n‰iden sijaan.
+
+MARTTI (vet‰en vastaan). Ja ellen min‰ anna.
+
+MARIA. Sinun t‰ytyy antaa, muuten min‰ tulen ihan onnettomaksi.
+
+MARTTI. Min‰ t‰ss‰ olen tuumaillut, ett‰ jokainen asia maailmassa pit‰‰
+toimittaa p‰‰tˆkseen.
+
+MARIA. Mit‰ sin‰ tarkoitat?
+
+MARTTI. Ett‰ sinun t‰ytyy jauhaa n‰m‰ housut ihan valmiiksi. Sitten voi
+‰iti niist‰ vaikka leipoa kakun ja syˆtt‰‰ minulle.
+
+MARIA. ƒl‰ nyt tee pilkkaa minusta, min‰ olen niin onneton.
+
+MARTTI. Ellet jauha n‰it‰ housuja loppuun asti, niin min‰ kerron asian
+koko maailmalle.
+
+MARIA. Mieluummin sitten se kuin ett‰ koko pit‰j‰ minua pit‰‰
+pilkkanaan.
+
+    (Nousee.)
+
+MARTTI. Mutta jauhakin ne pieniksi.
+
+MARIA (menee alakuloisena myllyn luo). Kyll‰h‰n min‰ jauhan, kun siin‰
+sit‰ niin vaadit!
+
+    (Pist‰‰ housut myllyyn ja alkaa jauhaa.)
+
+MARTTI. Se on sinulle raskasta tyˆt‰!
+
+MARIA. Eih‰n t‰m‰ tyˆ raskasta olisi, elleiv‰t ne housut olisi
+nihkeit‰.
+
+MARTTI. Kangas tulee sellaiseksi vedess‰.
+
+MARIA. Ett‰ minun pitikin viel‰ t‰llaiseen joutua! Min‰ en koskaan t‰t‰
+unohda.
+
+MARTTI. No, se on vissi sana se, ettei sit‰ unohtaa saakaan.
+
+MARIA. Ettei vaan kukaan tulisi.
+
+MARTTI. Henna karkasi tiehens‰. ƒiti j‰i niitylle; ja is‰ on jossain
+asioillaan.
+
+MARIA. Mutta ellen min‰ saakaan n‰it‰ pieniksi?
+
+MARTTI. Jauhat siihen asti, kunnes saat. Ehk‰ min‰ tulen auttamaan.
+
+MARIA. Et saa, kyll‰ min‰ yksinkin jauhan.
+
+MARTTI. Pelk‰‰tkˆ sin‰, ett‰ taika ei sitten auta?
+
+MARIA. En min‰ en‰‰ ajattele mit‰‰n taikoja, kun vain p‰‰sisi pois.
+
+MARTTI (tarttuu k‰sikiveen yhdess‰ Marian kanssa). Mutta miehen pit‰‰
+aina naista auttaa. Jauhetaanhan yhdess‰.
+
+MARIA (vilkaisee h‰neen). Sin‰ naurat.
+
+MARTTI. En kai min‰ t‰ss‰ itke‰ kollota.
+
+MARIA. Sin‰ et siis ole en‰‰ minulle vihoissasi?
+
+MARTTI. En, jos saamme housut pieniksi.
+
+MARIA (alkaa jauhaa t‰ytt‰ voimaa). Kyll‰ min‰ sitten jauhan vaikka
+viikon t‰ss‰. Enk‰ min‰ sitten en‰‰ v‰lit‰, vaikka koko kyl‰ tulisi
+minulle nauramaan.
+
+MARTTI. Sekˆ sinulle onkin p‰‰asia?
+
+MARIA. Mik‰?
+
+MARTTI. Se, ett‰ min‰ en ole vihainen sinulle?
+
+MARIA. Enh‰n min‰ mist‰‰n muusta v‰litt‰isi koko maailmassa.
+
+MARTTI. Miksi et ole koskaan ennen siit‰ puhunut?
+
+MARIA. Enh‰n min‰ ole sinua vastaan rikkonutkaan.
+
+MARTTI. En min‰ sit‰ juuri tarkoittanut.
+
+MARIA. Mit‰ sitten?
+
+MARTTI. Sit‰, ett‰ sin‰ pid‰t minusta.
+
+MARIA. Mit‰ min‰ sit‰ olisin tullut sanomaan, kun sin‰ et ole pit‰nyt
+minusta.
+
+MARTTI. Mist‰ sin‰ sen tiesit?
+
+MARIA. Tiet‰‰h‰n sen sellaisen.
+
+MARTTI. ƒl‰ nyt ole olevinasi miest‰ viisaampi. Ja mist‰ sin‰ minun
+asiani olisit tiet‰nyt?
+
+MARIA. Kun se Regina...
+
+MARTTI. Min‰ h‰m‰sin sit‰ Reginaa ihan huvikseni, kun se on niin
+halukas kokoamaan miehi‰ ymp‰rilleen ja kun sen Juhan asioista ei
+tahtonut tulla mit‰‰n selv‰‰.
+
+MARIA. Onko se ihan totta?
+
+MARTTI. Ei ihan, mutta on sinnep‰in ainakin.
+
+MARIA. Anna nyt minun jauhaa t‰m‰ yksin‰‰n loppuun asti.
+
+MARTTI. Parempi on, kun saadaan pikemmin t‰m‰ suttu valmiiksi.
+
+MARIA. Mit‰ varten?
+
+MARTTI. Jotta sitten puhutaan muusta.
+
+MARIA. Mist‰ muusta?
+
+MARTTI. Vaikka meid‰n h‰ist‰mme.
+
+MARIA (huudahtaa). Martti!
+
+    (Horjahtaa ja k‰tens‰ menev‰t kiven laitaan.)
+
+MARTTI. ƒl‰ siin‰ jauha hyppysi‰si yhteen sotkuun.
+
+MARIA. ƒl‰ tee minusta pilkkaa, Martti!
+
+MARTTI. En min‰ pilkkaa tee. Mutta katsotaanhan nyt, mit‰ niist‰
+housuista on tullut.
+
+    (Tarkastaa myllyyn.)
+
+Eikˆh‰n t‰m‰ jo riit‰. Tule nyt t‰nne ja istu viereeni, niin puhumme.
+
+    (Vie h‰net istumaan rahille pˆyd‰n ‰‰reen.)
+
+MARIA. Min‰ tahtoisin jo menn‰ pois t‰‰lt‰, ennenkuin ‰itisi tulee
+kotia.
+
+MARTTI. Min‰ luulen, ett‰ ‰iti ei tule kovinkaan pian. H‰n tuli
+niitylle ja l‰hetti minut t‰nne hakemaan sukkavarrasta itselleen.
+Kyll‰h‰n min‰ ihmettelin, mit‰ h‰n sill‰ tekee, kun ei kudintakaan
+ollut h‰nell‰ k‰dess‰‰n, mutta en min‰ h‰nelt‰ mit‰‰n kysellyt, vaan
+l‰hdin niitylt‰. Katsohan, kun ‰iti k‰skee, niin pit‰‰ totella. Nyt
+min‰ huomaan, ett‰ sin‰ olitkin se sukkavarras, jota minun piti t‰‰lt‰
+etsi‰.
+
+MARIA. Olisikohan h‰n toden totta tarkoittanut sit‰, ett‰ sin‰ puhuisit
+minun kanssani?
+
+MARTTI. ƒiti on niin viisas, etteiv‰t tuomarit ja laamannit h‰nelle
+riit‰. Ja kun h‰n l‰hett‰‰ minut t‰nne ja tiet‰‰ sinun olevan t‰‰ll‰,
+tarkoitti h‰n sill‰ jotain. Ja h‰n huusi viel‰ per‰st‰ni, ettei sill‰
+ollut mit‰‰n kiirett‰.
+
+MARIA. Mutta vieh‰n h‰nelle nyt se sukkavarras, kun h‰n kerran l‰hetti
+sit‰ hakemaan.
+
+MARTTI. Min‰ tahdon kerran olla tottelematonkin, ennenkuin tulen
+t‰ysi-ik‰iseksi. T‰m‰ kilttin‰ poikana oleminen on ajanmittaan niin
+kovin ik‰v‰‰. Kuulehan, Maria, tuletko sin‰ meille?
+
+MARIA. En min‰ osaa siihen mit‰‰n sanoa.
+
+MARTTI. Ehk‰ sanoisit, jos ensin sˆisit tuon supun tuolta myllyst‰.
+
+MARIA. ƒl‰ nyt viitsi!
+
+MARTTI. Vai tahdotko sin‰, ett‰ min‰ otan sen Reginan sisaren Katrin
+tai sitten Sohvin?
+
+MARIA. Ei, et saa ottaa kumpaakaan heist‰.
+
+MARTTI (n‰kee ikkunasta Liisan tulevan). Ellet pian sano; j‰‰tkˆ t‰nne
+vai etkˆ j‰‰, niin kerron kaiken ‰idille, joka jo n‰kyy tuolla tulevan
+sit‰ sukkavarrasta hakemaan.
+
+MARIA. Martti, tied‰th‰n sin‰.
+
+MARTTI. Enkˆh‰n min‰ tied‰.
+
+MARIA. Mit‰ sitten kysyt?
+
+MARTTI. En min‰ mit‰‰n kysyk‰‰n en‰‰.
+
+LIISA (tulee). No, kauan sin‰ viivyitkin, Martti.
+
+MARTTI (on noussut ja seisoo pit‰en Mariaa k‰dest‰ kiinni). ƒiti,
+ellei teill‰ ole mit‰‰n sit‰ vastaan, niin min‰ ottaisin t‰m‰n
+Marian vaimokseni.
+
+LIISA (menee Marian luo ja syleilee h‰nt‰). Terve tuloa sitten taloon.
+T‰t‰ min‰ olen toivonut. Tee h‰net onnelliseksi ja muista karttaa aina
+viimeiseen asti ensimm‰ist‰ riitaa.
+
+MARTTI. Ei sit‰ tarvitse en‰‰ pel‰t‰, me olemme jo riidelleet.
+
+LIISA (pudistaen p‰‰t‰‰n). Lapset, lapset, joko jo?
+
+MARTTI. Meill‰ oli riita niist‰ minun housuistani.
+
+MARIA (kauhuissaan). Mutta Martti, et saa!
+
+MARTTI. Parasta on h‰pe‰ tuoda yhdell‰ kertaa esiin, niin p‰‰see
+v‰hemm‰ll‰.
+
+LIISA. Mit‰ te housuista riitelitte?
+
+MARTTI. ƒiti, katsokaa tuonne myllyyn, niin n‰ette, siell‰ ne ovat.
+
+LIISA (katsoo myllyyn). Mit‰ ihmett‰ t‰m‰ on?
+
+MARTTI. Se on rakkauden taikaa. Ja ett‰ se on tepsinyt, siit‰ olen min‰
+selv‰n‰ todistuksena.
+
+LIISA (purskahtaa nauruun). Hyv‰nen aika! En ole kuullut enk‰ n‰hnyt
+mokomaa!
+
+MIKKO (tulee). Mik‰ ilo ja riemu t‰‰ll‰ on?
+
+LIISA (k‰‰nt‰‰ h‰net ymp‰ri). Tule pois, et saa j‰‰d‰ t‰nne. Martti on
+mennyt kihloihin Marian kanssa. Ei heit‰ nyt saa h‰irit‰.
+
+MIKKO. No, tahdon min‰kin joskus olla herra omassa talossani!
+
+    (Lykk‰‰ Liisan syrj‰‰n.)
+
+Ole hiljaa, akka, kun min‰ mini‰‰ni k‰ttelen!
+
+    (Menee tervehtim‰‰n Mariaa).
+
+Tervetullut taloon!
+
+MARIA. Min‰ niin h‰pe‰n!
+
+    (Karkaa ovesta.)
+
+MARTTI. Pit‰‰ menn‰ j‰lest‰, ettei kokonaan h‰vi‰!
+
+    (Juoksee nauraen h‰nen j‰lest‰‰n.)
+
+MIKKO (seisoo ihmeiss‰‰n paikallaan). Olen min‰ n‰hnyt kaikenlaisia
+morsiamia, mutta en viel‰ tuollaista!
+
+LIISA. Mutta kuulehan nyt, kun kerron.
+
+    (Kertoo nauraen.)
+
+Maria teki taikoja. Jauhoi k‰sikivill‰ noita Martin m‰rki‰ housuja.
+T‰ss‰ ne nyt ovat.
+
+    (Vet‰‰ housun kappaleen myllyst‰.)
+
+Sit‰ se nyt h‰pe‰‰.
+
+MIKKO. Mit‰ se suotta h‰pe‰‰, kuu kerran hyv‰sti auttoi?
+
+LIISA (mennen miehens‰ luo ja laskee k‰tens‰ h‰nen molemmille
+olkap‰illeen). Mikko rakas, meill‰ on nyt mini‰ ja oikein mieluinen
+mini‰. En olisi parempaa saanut, vaikka itse olisin valinnut.
+
+MIKKO. Kun onni asuu talossa, niin onnea on kaikkialla. Ei hyv‰ss‰
+talossa koskaan mit‰‰n pahoin k‰y.
+
+LIISA. Meill‰ on nyt mini‰. Uusi polvi varttuu heist‰, uusi ja
+onnellinen polvi. Ja kun me kerran olemme menneet hautuumaalle, niin he
+meit‰ silloin viel‰ muistavat.
+
+MIKKO. Muistavat sinua ainakin, sill‰ sin‰h‰n taloon onnen olet tuonut.
+
+LIISA. Eih‰n onnen kaunis lintu pysy, ellei sit‰ toinen osaa pysytt‰‰.
+
+MIKKO. Mutta kaikkien taloon ei onnen lintu lenn‰k‰‰n. Sin‰ olet
+lent‰nyt.
+
+LIISA. Mutta muistakaamme sit‰, joka t‰t‰ asiaa meille nyt on
+kiirehtinyt. Hennaa nimitt‰in. Miss‰h‰n h‰n lienee t‰ll‰ haavaa.
+
+MIKKO. Aitan nurkan takaa min‰ n‰in h‰nen kurkkivan taloon tullessani.
+
+LIISA. Hae kukkarosi esiin, min‰ kutsun h‰net t‰nne.
+
+    (Menee ikkunaan ja viittoilee.)
+
+MIKKO (menee sein‰kaapille, ottaa esiin nahkakukkaron ja sielt‰
+hopeatalarin).
+
+N‰etkˆ h‰nen naamaansa miss‰‰n?
+
+LIISA. Tuolla Henna on, mutta ei tohdi tulla. (Viittoo uudelleen.) Jo
+l‰hti liikkeelle.
+
+HENNA (tulee v‰h‰n ajan p‰‰st‰ ovelle. Kurkistaa varovaisesti sis‰‰n).
+Em‰nt‰ taisi viittoilla minulle.
+
+MIKKO (pit‰en rahaa hyppysiss‰‰n). Tunteeko Henna, mik‰ t‰m‰ on?
+
+HENNA (nielaisee ensin). Hopeatalarihan se on. Kyll‰h‰n min‰ sellaisen
+tunnen, vaikka en monasti ole sellaista pidellyt.
+
+MIKKO. Saa nyt pidell‰.
+
+    (Heitt‰‰ sen h‰nelle.)
+
+HENNA (koppaa sen kiireesti). Ja auttoiko se?
+
+LIISA. Auttoi varmasti ja siksi t‰m‰ on palkka.
+
+HENNA. Sen min‰ olen aina sanonut, ett‰ kyll‰ niist‰ taioista apua on,
+kun on oikea toimittaja.
+
+    (Lyhyen vaitiolon j‰lkeen.)
+
+Kai min‰ saan tuon supun ottaa tuolta myllyst‰?
+
+LIISA. Mihin sit‰ k‰ytet‰‰n?
+
+HENNA. Voinhan min‰ sen sanoa n‰in salassa. Elukoillehan min‰ t‰t‰
+annan. Pannaan hiukan sonnin juomaan, niin kyll‰ tepsii. Se on niin
+varmaa kuin varma on. En min‰ suotta ole L‰pik‰yt‰v‰n Henna.
+
+V‰liverho.
+
+
+
+
+NELJƒS NƒYT÷S.
+
+
+Sama n‰ytt‰mˆ kuin ensimm‰isess‰ n‰ytˆksess‰.
+
+SOHVI (tulee juosten ver‰j‰n kautta, huutaa tupaan p‰in). Katri!
+
+    (Surkealla ‰‰nell‰.)
+
+Katri! Katri!
+
+KATRI (tulee tuvasta). Mik‰ sinulla nyt on h‰t‰n‰?
+
+SOHVI. Min‰ kuulin kyl‰ll‰, ett‰ Heikkil‰n Martti on mennyt kihloihin.
+
+KATRI (s‰ik‰htyen). Kenen kanssa h‰n on mennyt kihloihin?
+
+SOHVI. Yrjˆl‰n Marian kanssa.
+
+KATRI. Se on valhe!
+
+SOHVI. Ei, kyll‰ se on totta.
+
+KATRI (purskahtaen itkuun). Hyv‰nen aika, miten onneton min‰ olen!
+
+SOHVI. Oletko sin‰kin onneton!
+
+    (Purskahtaa h‰nkin itkuun.)
+
+KATRI. Itketkˆ sin‰kin?
+
+    (Kuivaa ‰kki‰ kyyneleens‰.)
+
+Ja mit‰ varten sin‰ itket?
+
+SOHVI. Kun min‰ olen h‰nen p‰‰lleen ajatellut jo kauan aikaa.
+
+KATRI (suuttuen). Sin‰, alamittainen! Et sin‰ semmoista viel‰ saa
+ajatella. Ensin t‰ytyy Reginan menn‰ naimisiin ja sitten minun ja
+sitten vasta tulee sinun vuorosi. J‰rjestys kaikessa!
+
+SOHVI. Mutta enh‰n min‰ sille mit‰‰n mahda, ett‰ h‰n on niin komea ja
+minun on niin hyv‰ olla, kun n‰enkin h‰net.
+
+KATRI. Pid‰ suusi kiinni, likka!
+
+SOHVI. Et saa olla paha minulle, kun minun syd‰meni on ihan murtunut!
+Kyll‰h‰n min‰ tiesin, ett‰ sin‰ ajattelit h‰nt‰...
+
+KATRI (suuttuen). Mit‰ se sinuun kuuluu, ket‰ min‰ ajattelen?
+
+SOHVI. Ei kuulukaan, mutta min‰ ajattelin, ett‰ samahan tuo on, jos h‰n
+tulee vaikka sinulle, onhan h‰n sittenkin samassa suvussa!
+
+KATRI. Ellet nyt jo lakkaa vonkumasta, niin saat selk‰‰si!
+
+REGINA (tulee tuvasta). Mit‰ tuo Sohvi parkuu ja poraa!
+
+SOHVI. Kun se Heikkil‰n Martti on mennyt kihloihin Yrjˆl‰n Marian
+kanssa.
+
+REGINA (s‰v‰ht‰en). Onko se totta?
+
+KATRI. Niin ainakin tuo likka v‰itt‰‰.
+
+REGINA. Kuinka h‰n on uskaltanut sen tehd‰!
+
+KATRI. Sinultako h‰nen olisi pit‰nyt siihen lupaa kysy‰. Ellet sin‰
+olisi h‰nt‰ koettanut houkutella puolellesi, niin olisi h‰n mieltynyt
+minuun, sill‰ min‰ olin t‰‰ll‰ jo ennenkuin Maria tulikaan Sikalaan.
+
+REGINA. Mit‰ minun asiani sinuun kuuluu?
+
+KATRI. Sin‰ olet toisen miehen kihlattu morsian ja sitten sin‰ yht‰
+kaikki narraat toisia miehi‰.
+
+REGINA. Pid‰ sin‰ huoli omista asioistasi.
+
+SOHVI. Ellei Regina aina olisi tupannut Martin seuraan, niin olisi h‰n
+joutunut puhumaan meid‰n kanssamme.
+
+REGINA. ƒl‰ r‰k‰t‰!
+
+SOHVI (joka on lakannut itkem‰st‰). ƒh‰, kuttipiti, mitenk‰ k‰vi
+sinulle! Sait apskeetit!
+
+REGINA (hyˆkk‰‰ h‰nen kimppuunsa). Kyll‰ min‰ sinulle n‰yt‰n viel‰!
+
+KATRI (koettaen est‰‰). Anna lapsen olla!
+
+REGINA. H‰nen tarvitsee saada kuritusta, kun tekee minusta pilkkaa!
+
+    (On tarrannut Sohvin palmikkoon. Sohvi parkuu.
+    Katri tarraa Reginan palmikkoon.)
+
+P‰‰st‰ irti heti paikalla!
+
+KATRI. P‰‰st‰ sin‰ ensin irti!
+
+REGINA. Min‰ kiskon joka karvan h‰nen p‰‰st‰‰n!
+
+SUSANNA (on tullut tuvan ovelle). Joko te sisarukset taas olette
+tukkanuottasilla! Odottakaahan!
+
+    (Menee tupaan.)
+
+KATRI. Sin‰ villitty narttu, p‰‰st‰ heti Sohvi irti.
+
+REGINA. ƒl‰ retuuta minun palmikkoani, taikka tulee niin ett‰ l‰ikyy.
+
+SUSANNA (halko k‰dess‰‰n rynt‰‰ tyttˆjen kimppuun). Ettekˆ siit‰ mene
+erillenne heti paikalla!
+
+    (Lyˆ halolla jokaista.)
+
+ANNA (tulee oikealta karjapihasta seiv‰s k‰dess‰‰n). Ole siin‰
+rusikoimatta minun lapsiani! Minulla on valta niihin eik‰
+sinulla.
+
+    (Hyˆkk‰‰ Susannan kimppuun.)
+
+SUSANNA (k‰‰ntyy ja lyˆ halolla Annaa). Tule p‰‰lle, jos uskallat!
+
+ANNA. En min‰ sinua pelk‰‰, sin‰ senkin leskivaimo, kakaroiden ‰iti.
+
+SUSANNA. ƒl‰ hauku minua, senkin noita-akka, kirppupes‰, hˆlpp‰huuli,
+miehen risti!
+
+ANNA. Sin‰ joka miehen lautta!
+
+SUSANNA. Sanotko sin‰ minua lautaksi! Min‰ maataan sinut ihan
+kirjavaksi!
+
+    (Susanna ja Anna hyˆkk‰‰v‰t yhteen, Regina, Katri ja Sohvi
+    koettavat heit‰ erottaa. Kaikki ovat yhdess‰ sikerm‰ss‰.)
+
+TUOMAS (tulee tuvasta). Hiljaa, akkav‰ki!
+
+SUSANNA. Pid‰ kurissa tuo sinun sukusi. Se hyˆkk‰‰ minun kimppuuni!
+
+ANNA. Kuka t‰ss‰ on p‰‰lle hyˆk‰nnyt jollet sin‰ juuri!
+
+    (Lyˆ h‰nt‰.)
+
+JUHA (tulee tuvasta). ƒl‰ lyˆ minun ‰iti‰ni! Pysy alallasi, senkin
+kirottu anoppi-akka!
+
+    (Miehet menev‰t ja eroittavat naiset.)
+
+TUOMAS. Pid‰ suusi kiinni, kloppi! Vai haukut sin‰ minun vaimoani!
+
+JUHA. Haukun, kun h‰n hyˆkk‰‰ ‰itini kimppuun!
+
+TUOMAS. Mik‰ sin‰ luulet olevasi?
+
+JUHA. Is‰nt‰ talossa!
+
+TUOMAS. Vai is‰nt‰! Tuollainen kr‰p‰! Ei sit‰ is‰nn‰ksi tiet‰isi,
+ellet pid‰ rinnan p‰‰ll‰ julistusta. Kaikki sit‰ itse‰‰n is‰nn‰ksi
+kutsuvatkin, jotka eiv‰t ole edes is‰nn‰n n‰kˆisi‰. Min‰ se is‰nt‰
+t‰ss‰ talossa olen.
+
+JUHA. Is‰nt‰ on se, jolle talo kuuluu.
+
+TUOMAS. Is‰nt‰ on se, joka is‰nt‰n‰ olla osaa.
+
+JUHA. Merkitsee sit‰ laki ja parakraahvit myˆs jotain! Ja laki on
+tuominnut talon minulle.
+
+TUOMAS. Laki ja parakraahvit! Laki olen min‰ ja minun kourani ovat
+t‰ss‰ talossa parakraahvit!
+
+SUSANNA (Juhalle). Katso, miten h‰n sinua soivaa! H‰n tahtoo ottaa
+talon sinulta, vaikka h‰n ei ole t‰‰ll‰ yht‰‰n mit‰‰n.
+
+TUOMAS. Vai en ole mit‰‰n? Sanohan se toinen kerta! Min‰ olen t‰t‰
+komentoa jo kylliksi kauan katsellut. Ja nyt min‰ sanon, ett‰ min‰
+t‰‰ll‰ m‰‰r‰‰n eik‰ kukaan muu.
+
+SUSANNA. ƒl‰ hellit‰, Juha! H‰n vie talon sinulta!
+
+JUHA. Min‰ en anna taloa n‰in vain. Talo oli is‰ni ja min‰ pid‰n sen!
+Ja ennenkuin siit‰ luovun, min‰ peruutan koko naimakaupan!
+
+REGINA. Juha, sit‰ sin‰ et saa tehd‰!
+
+TUOMAS. Uskallappas, jos tohdit. Min‰ ved‰n sinut oikeuteen, min‰ k‰yn
+k‰r‰ji‰ siihen asti, kun viimeinen hengenveto kest‰‰!
+
+JUHA. Mill‰ tuollainenkin mies k‰r‰ji‰ k‰y, jolla ei ole edes omaa
+taloa, joka on t‰‰ll‰ toisten armoilla.
+
+TUOMAS. Vai olen min‰ armoilla! Kohta n‰hd‰‰n, kuka t‰ss‰ armoilla on.
+
+    (Hyˆkk‰‰ h‰neen k‰siksi.)
+
+SUSANNA. He tappavat toisensa!
+
+ANNA. Erottakaa heid‰t!
+
+    (Naiset rynt‰‰v‰t miehiin kiinni ja kiskovat heid‰t erilleen.)
+
+    (Samassa tulevat ver‰j‰st‰ Mikko, Liisa, Martti, Maria ja Henna.)
+
+MIKKO. Herran rauhaa taloon!
+
+LIISA. T‰‰ll‰ on kai ollut jotain pient‰ keskustelua, kun miehet ovat
+noin punaisia.
+
+SUSANNA. Ei t‰‰ll‰ ole mit‰‰n. Me vain olimme aikeissa menn‰ niitylle.
+
+MIKKO. Me olemme saaneet jo hein‰t tehdyiksi. Ja kun tied‰mme, ett‰
+teill‰ viel‰ on joukko korjaamatta, niin me tulimme t‰nne kaikin
+auttamaan.
+
+SUSANNA. Seh‰n on vallan erinomainen asia. Min‰kin olin juuri menossa.
+
+LIISA. Ja oikein halko kourassa! Ihan siit‰ olisi tullut hˆlmˆl‰isten
+hein‰nkorjuuta!
+
+SUSANNA. Kas, kun on se viel‰ k‰dess‰. Min‰ olin juuri meiningiss‰
+panna se pes‰‰n, kun t‰ytyi tulla t‰nne.
+
+    (Heitt‰‰ halon pois.)
+
+HENNA. Joko t‰‰ll‰ tiedet‰‰n uudesta kihlauksesta?
+
+SUSANNA. Kuka on mennyt kihloihin?
+
+LIISA. T‰m‰ meid‰n Martti ja Maria, neh‰n ovat sen tehneet eilen.
+
+SUSANNA (menee k‰ttelem‰‰n Marttia ja Mariaa). No, kyll‰ olette
+osanneet sen salassa pit‰‰. Onneksi olkoon teille molemmille. Kyll‰
+min‰ nyt ymm‰rr‰n, miksi sin‰, Liisa, eilen olit niin vastahakoinen,
+kun min‰ toisella tavalla ehdotin.
+
+LIISA. Min‰ annoin nuorten p‰‰tt‰‰ asiansa.
+
+ANNA (tulee k‰ttelem‰‰n). Onnea vain sitten!
+
+JUHA (l‰mpim‰sti). Hyv‰sti olet valinnut, Martti! Mariasta saat oikein
+lempe‰n ja sive‰n vaimon itsellesi.
+
+MARTTI. Siit‰ olen ihan varma.
+
+TUOMAS (k‰ttelee). El‰k‰‰ sovussa ja rauhassa niin kauan kuin suinkin
+laatuun k‰y! Se on minun toivotukseni!
+
+    (Regina, Katri ja Sohvi k‰ttelev‰t sanaakaan sanomatta.
+    Sohvi rupeaa itkem‰‰n.)
+
+LIISA. No, mik‰ lapselle tuli?
+
+HENNA. Ainahan ne nuoret tytˆt itkev‰t kihlajaisissa ja h‰iss‰. Se
+kuuluu nuoren naisen luonnonlaatuun.
+
+ANTTI (tulee ver‰j‰n kautta). T‰‰ll‰h‰n on melkein koko kyl‰ koolla.
+
+SUSANNA. Mik‰ teid‰t, is‰, taas t‰nne tuottaa?
+
+ANTTI. Virka-asiat, tytt‰reni, virka-asiat! Juuri kun olin kotia
+p‰‰ssyt, niin tuli siltavouti meille ja ilmoitti, ett‰ t‰‰ll‰ on h‰nen
+poikaansa sunnuntai-iltana hyvin pahalla tavalla mukiloitu. Minun
+t‰ytyy tulla toimittamaan siit‰ tutkimus. Aijai, pojat, t‰st‰ nousee
+julma prosessi! Tappelu ja pyh‰iltana viel‰. Siin‰ otetaan monta
+parakraafia varteen eik‰ siin‰ p‰‰sek‰‰n en‰‰ sakoilla, vaan
+kujanjuoksua siit‰ tulee.
+
+MARTTI. Muistaako vallesmanni, ett‰ te menitte Koljon sillan yli juuri
+silloin, kun Kalle ja min‰ seisoimme siell‰. Me kysyimme silloin aikaa
+ja te sanoitte, ett‰ puuttuu kello kuudesta se aika, mik‰ tarvitaan
+synnintunnustuksen lukemiseen ja min‰ luin ensin koko vaivaisen
+syntisen alusta loppuun.
+
+ANTTI. Onko sinulla siihen todistajia?
+
+MARTTI. Olihan siell‰ Regina ja Maria ja olihan siell‰ Juhakin ja
+sitten se er‰s messukyl‰l‰inen sotamies.
+
+MIKKO. Maria on j‰‰vi, koska h‰n on Martin morsian.
+
+ANTTI. Vai on se sill‰ tavalla. Min‰ onnittelen sitten v‰h‰n myˆhemmin.
+Virkatoimitus ensin ja ilot sitten vasta.
+
+HENNA. Jos min‰ saan sanoa jotain asian selvitykseksi.
+
+ANTTI. Kuka te olette?
+
+HENNA. Eikˆ vallesmanni en‰‰ tunne L‰pik‰yt‰v‰n Hennaa sielt‰
+L‰ngelm‰elt‰? Vanhoja tuttujahan me ollaan.
+
+ANTTI. Onhan Henna meill‰ usein ollut sahtia panemassa.
+
+HENNA. Ja eikˆs ole tullut aina hyv‰‰? Tietysti on tullut, kun min‰
+olen tahtonut. Ja pit‰‰h‰n sit‰ tulla, kun olen aina saanut kapan
+maltaita palkakseni ja koko haarikallisen aivan uutta olutta.
+
+ANTTI. Ja silloin Henna on laulellut.
+
+HENNA. Totta kai sit‰ laulaa, kun juonut on. Vihellet‰‰nh‰n sit‰
+silloin, kun hevonen juo, totta kai t‰ytyy laulaa, kun ihminen juo.
+
+ANTTI. No, mit‰ Henna tiet‰‰ t‰h‰n asiaan?
+
+HENNA. Min‰ tulin siihen juuri silloin, kun ne pojat rimpuilivat
+toistensa kimpussa. Min‰ menin erottamaan, sill‰ tappelu on jumalatonta
+meininki‰. Ensin tramppasi ja potkaisi ne minua! Pahasti potkaisikin
+se Kalle, kun sill‰ on sellainen hirve‰ voima. Minulla on ihan sininen
+l‰isk‰ t‰‰ll‰ takana. N‰yt‰nkˆ vallesmannille?
+
+ANTTI. Ei tarvitse, kyll‰ min‰ uskon.
+
+HENNA. Mutta ei minulta luonto mene yhdest‰ potkusta, ei sent‰‰n! Min‰
+kramppasin kiinni poikien kinttuihin, n‰yt‰nkˆ vallesmannille, miten
+min‰ kramppasin? Min‰ otin t‰ll‰ tavalla nilkoista kiinni.
+
+    (Tarttuu ‰kki‰ Antin jalkaan.)
+
+ANTTI (joka on horjahtamaisillaan). No, no, sellaisiako konsteja sill‰
+Hennalla on?
+
+HENNA. Neh‰n sanovat minua siell‰ L‰ngelm‰ell‰ kinttusyyn‰‰j‰ksi, kun
+min‰ tavallisesti tappelut lopetan t‰ll‰ tavalla. Ja kun min‰ sen
+tein, niin sitten ne meniv‰t molemmat virtaan niin ett‰ mulskahti.
+Ja vaikka min‰ en olekaan tuomari enk‰ edes lautamies, niin sen min‰
+sent‰‰n ymm‰rr‰n, ett‰ jos se Kalle on t‰st‰ asian tehnyt, niin sisu
+siin‰ on peliss‰. Ei se anna sit‰ anteeksi, kun sill‰ tavalla joutui
+jokeen. Se koskee niin kovin kipe‰sti miehen luontoon sellainen. Ja
+jos vallesmanni sallii, niin min‰ selit‰n, millainen se miehen luonto
+oikeastaan on.
+
+ANTTI. Kyll‰ min‰ sen tunnen, onhan sellainen minullakin.
+
+HENNA. Mutta ei sit‰ mies koskaan miehen luontoa niin tunne kuin
+nainen, joka sit‰ katselee sivultap‰in ja sen t‰hden saa k‰rsi‰ vaivaa
+ja tuskaa. Kas, se on sill‰ viisi‰, ett‰ kun mies on oikein varma
+itsest‰‰n ja voimastaan ja sitten saa kˆniins‰, niin se ihan hirmustuu.
+Ja jos se ei uskalla uudestaan yritt‰‰, niin se menee k‰r‰jiin ja
+koettaa saada toiselle ainakin sakot. Eih‰n sit‰ koskaan k‰r‰jille se
+tule, joka tappelussa voiton saa ja siis on vahvempi.
+
+ANTTI. Niinh‰n se on, mutta Henna voisi...
+
+HENNA (uudella vauhdilla). Ja min‰ olen ajatellut, ett‰ likkojen t‰hden
+ne pojat toistensa nappia tahtoivat purkaa, kun ne kaksi, tuo Regina ja
+tuo Maria, siin‰ vieress‰ niin rinkuivat, ett‰ ihan kiinni t‰ytyi
+pidell‰. Ja se tappelu, joka k‰yd‰‰n likkojen t‰hden, se se vasta
+jotain onkin. Se ei p‰‰ty, ennenkuin toinen on auttamattomasti
+kukistettu. Ja kun se Kalle on tunnettu jumalattomasta luonnostaan,
+seh‰n k‰y siell‰ L‰ngelm‰ell‰kin toisinaan voimiaan koettamassa, niin
+totta kai se el‰m‰n nostaa, kun se kastui. Ei tappelu p‰‰ty hyv‰ll‰,
+ellei se k‰y kuiviltaan. Mutta t‰ss‰ ei minun meininkini alkujaan
+ollutkaan niit‰ virtaan heitt‰‰. Kaataa min‰ tahdoin, mutta kun ne
+olivat niin l‰hell‰ sillan kanttia, niin en min‰ jaksanut kahta
+sellaista retkaletta kintuista pidell‰, kun ne rupesivat menem‰‰n
+alasp‰in. Min‰h‰n olisin ollut itse vedess‰ ja sit‰ min‰ sent‰‰n varon,
+kun min‰ en osaa uida ollenkaan. Enh‰n min‰ vett‰ pelk‰‰, mutta en min‰
+uida osaa. Osaako vallesmanni?
+
+ANTTI. Kyll‰ t‰m‰ asia t‰st‰ jo alkaa tulla selv‰ksi, kun Henna p‰‰see
+kaiken kertomaan. Min‰ menen nyt ensin Sikalan is‰nn‰n luo ja otan
+h‰net matkaani ja sitten me yhdess‰ pid‰mme protokollan t‰st‰ kaikesta.
+
+HENNA. Mutta ei kai minua siit‰ sakoteta, ett‰ niiden kinttuihin
+kramppasin?
+
+ANTTI. Kun se tapahtui rauhan rakentamiseksi, niin ei siit‰ mit‰‰n
+sakkoa tule Hennalle.
+
+HENNA. Mutta kai min‰ jalkavaivat saan?
+
+ANTTI. Min‰ en tied‰, kuka ne maksaisi.
+
+MIKKO. Kyll‰ kai ne joutuvat meid‰n talon maksettaviksi, kun t‰m‰
+Martti on mennyt kihloihin sen tappelun kunniaksi.
+
+ANTTI. Niin, teill‰h‰n on kihlajaiset. Onnea vain nuorille. Kelpaahan
+nuoren vaimon menn‰ sellaiseen taloon kuin Heikkil‰ on.
+
+MARIA. V‰h‰t min‰ talosta. Martin t‰hdenh‰n min‰...
+
+ANTTI. Min‰ menen nyt Sikalan is‰nn‰n kanssa puhumaan. ƒlk‰‰ kukaan
+menkˆ pitk‰lle, jotta saan teid‰t k‰siini kuulustelua varten. Kaikesta
+p‰‰tt‰en on t‰m‰ sellainen juttu, ett‰ t‰ss‰ p‰‰st‰‰n sovinnolla hyv‰‰n
+loppuun eik‰ tule tuomiokirjaan.
+
+    (Menee ver‰j‰st‰.)
+
+MIKKO. Mit‰ me t‰ss‰ viivyttelymme. Niitty odottaa. Mist‰ me aloitamme,
+Juha?
+
+JUHA. T‰st‰ kotiniitylt‰h‰n pit‰isi kai aloittaa, koska se on viel‰
+kesken.
+
+LIISA. Menn‰‰n siis.
+
+ANNA. Min‰ olen juuri sahtia panemassa. Min‰ en voi nyt tulla kesken
+kaiken sinne.
+
+LIISA. Tarvitaanhan sit‰ sahtiakin, kun ensin on heiluttu niityll‰.
+
+TUOMAS. Menk‰‰ te edelt‰, min‰ hakkaan v‰h‰n lis‰‰ tupakkaa tuolla
+tuvassa. Pit‰‰h‰n sit‰ hengenruokaakin olla tyˆn lomassa.
+
+    (Menee tupaan.)
+
+REGINA. Min‰ tulen heti paikalla, kun ensin olen porsaat syˆtt‰nyt
+
+    (Menee ovesta.)
+
+MARTTI (Marialle). Niin kauan kuin min‰ muistan, niin h‰n aina syˆtt‰‰
+porsaita.
+
+MARIA. ƒl‰ siin‰ tee pilkkaa!
+
+    (Mikko, Leena ja Maria menev‰t ver‰j‰st‰. Martti, Susanna,
+    Katri ja Sohvi seuraavat heit‰.)
+
+JUHA (pid‰tt‰‰ Hennaa). Minulla olisi v‰h‰n asiaa.
+
+HENNA. Jaa, minulleko olisi asiaa?
+
+JUHA. Henna taisi sen Martin ja Marian saattaa yhteen.
+
+HENNA. Kyll‰h‰n se oli niinkuin minun tyˆt‰ni. Tuskin siit‰ minun
+avuttani olisi mit‰‰n tullutkaan. Olivat niin kovin arkoja molemmat.
+Niit‰ nuoria t‰ytyy aina tyrk‰t‰. Se on se t‰m‰n puolen luonto
+sellainen. Tekee mieli, mutta ei oikein tohdi.
+
+JUHA. Henna taitaa osata antaa neuvoa vaikka mihin tahansa.
+
+HENNA. Kyll‰h‰n min‰ yht‰ ja toista tied‰n. Onko t‰‰ll‰ lehm‰
+punataudissa vai?
+
+JUHA. Kyll‰ nyt on kysymys minusta eik‰ lehm‰st‰. Voiko Henna sanoa,
+mit‰ pit‰‰ tehd‰, jos nainen tulee ‰ksyksi?
+
+HENNA. Riippuu siit‰, onko nainen oma vai toisen.
+
+JUHA. Jos on oma.
+
+HENNA. Silloin sit‰ pit‰‰ lyˆd‰. Niin, lyˆd‰!
+
+JUHA. Se on sent‰‰n ilke‰‰. Jos puhuisi kauniisti.
+
+HENNA. Kun nainen on ‰ksy, niin ei siin‰ hyv‰ puhe auta, lyˆd‰ sit‰
+pit‰‰. P‰lk‰neell‰ oli Onkkaalan kyl‰ss‰ is‰nn‰ll‰, en nyt viitsi
+sanoa talon nime‰, paha akka. Min‰ neuvoin ja h‰n lˆi sit‰ talikolla
+pari kertaa oikein tuntuvasti. Akka oli kaksi viikkoa kipe‰n‰, mutta
+sisu oli mennyt. Niill‰ on nyt kuusi lasta elossa. Ja Luopioisissa
+oli em‰nt‰, joka teki miehens‰ koko pit‰j‰n nauruksi, kun sit‰ niin
+komentierasi, mutta mies pudotti sen kerran veneest‰ Kukkia-j‰rveen,
+antoi sitten muijalle vitsaksen, josta se sai pit‰‰ kiinni ja uitti
+t‰t‰ pitkin j‰rve‰. Ja kun tultiin rannalle, niin oli niin nˆyr‰,
+aijai, kuinka nˆyr‰ se oli. Ja Padasjoella pudotti pit‰j‰n suutari
+muijansa kaivoon eik‰ p‰‰st‰nyt ennenkuin se oli luvannut pysy‰
+siivolla. Min‰ sen keinon neuvoin. Suutari enn‰tti tehd‰ puolipohjat
+minun kenkiini, ennenkuin akka oli talttunut. Ja Pirkkalassa
+Naistenmatkan kyl‰ss‰ min‰ neuvoin nuorta is‰nt‰‰, joka oli nainut
+‰k‰isen naisen Lemp‰‰l‰st‰, ett‰ joka aamu ensimm‰iseksi hiukan siveli
+vaimoaan housun hihnalla.
+
+JUHA. Mutta teh‰n olette l‰‰nitt‰in k‰ynyt ihmisi‰ neuvomassa.
+
+HENNA. En min‰ ole Akaata alempana ollut, siit‰ etel‰mp‰‰n ne ovat
+saaneet naida ja hommata ihan omin neuvoin. Ja kyll‰ se onkin semmoista
+sitten ollut. Mutta kun sit‰ kulkee joka paikassa ja katselee ihmisten
+el‰m‰‰, niin sittenh‰n sit‰ oppii. Ei sit‰ kirjoista opi kaikkea. Kyll‰
+min‰ sen olen n‰hnyt. On sit‰ saanut ihan herrasv‰ellekin sanoa mill‰
+lailla pit‰‰ el‰‰ ja olla.
+
+JUHA. Ette kai sent‰‰n kysym‰tt‰ neuvo?
+
+HENNA. Johan nyt. Jos kysym‰tt‰ neuvoo, niin leiv‰tt‰ kulkee. Puoli
+talaria se olisi.
+
+JUHA. Mik‰?
+
+HENNA. T‰m‰ neuvo, jonka nyt annoin siit‰ selk‰saunasta.
+
+JUHA. Min‰ en maksa, ennenkuin olen ensin koettanut.
+
+HENNA. Hehehehe, on sit‰ ennenkin minulle sanottu ja aina on sitten
+maksettu.
+
+    (Menee ver‰j‰st‰.)
+
+    (Juha on j‰‰nyt miettiv‰isen‰ ja p‰‰t‰‰n raapien
+    seisomaan paikalleen Hennan menty‰.)
+
+REGINA (tulee karjapihasta). Etkˆ sin‰ jo ole mennyt tyˆhˆn?
+
+JUHA. Odotan, ett‰ sin‰ menet ensin.
+
+REGINA. Kyll‰ min‰ tyˆaikani tied‰n.
+
+JUHA. Sin‰ l‰hdet siis nyt, jotta vieraat eiv‰t tee kaikkia tˆit‰
+yksin‰‰n.
+
+REGINA. Vai yrit‰t sin‰ minua komentierata?
+
+JUHA. Min‰ en yrit‰, min‰ komentieraan.
+
+REGINA. Tuollainen kr‰p‰.
+
+JUHA. ƒl‰ hauku minun hentoa ruumistani, sisu se minullakin on.
+
+REGIHA. Ei sit‰ ole paljoa t‰h‰n asti n‰kynyt.
+
+JUHA. Kun sit‰ ei ole t‰h‰n asti tarvittu. Mutta nyt minun t‰ytyy jo
+sanoa, ett‰ min‰ alan v‰sy‰ t‰h‰n sinun ynseyteesi minua kohtaan.
+Olethan sin‰ aikonut minun kanssani menn‰ naimisiin.
+
+REGINA. Olen aikonut ja oli aika, jolloin olisin mennyt toiselle, mutta
+nyt en en‰‰ aio.
+
+JUHA. Oliko se toinen Martti?
+
+REGINA. Jos tahdot tiet‰‰, niin oli.
+
+JUHA. Ja sen sin‰ sanot minulle vasten kasvoja!
+
+REGINA. En kai min‰ yksin‰nik‰‰n sit‰ sano.
+
+JUHA. Ja tuommoisen kanssa min‰ menisin naimisiin!
+
+REGINA. Menet kuin menetkin. Kihlat olet antanut ja min‰ olen ne
+ottanut vastaan. Sinun on pakko menn‰ minun kanssani naimisiin.
+Muistahan Knaapin em‰nt‰‰ Kuhmalahdella. H‰n otti Kuivaisten pojan
+kihlat vastaan, kun t‰m‰ tuli illalla niit‰ tuomaan ja em‰nt‰ jo oli
+levolla, tulikin oikein todistaja matkassaan. Em‰nt‰ l‰hetti kihlat
+takaisin. Mutta auttoiko se? Ei auttanut. Mies veti lesken oikeuteen ja
+oikeus tuomitsi em‰nn‰n ottamaan Kuivaisten pojan miehekseen. Niin sit‰
+k‰y. Ja Tavelan poika Kangasalta sai ottaa tytˆn vaimokseen, kun oli
+sille preivin kirjoittanut. Kyll‰ min‰ lain tunnen.
+
+JUHA. N‰yt tuntevan paremmin kuin pahin tuomari.
+
+REGINA. Siit‰ huomaat, ett‰ sin‰ et p‰‰se minusta irti en‰‰ mill‰‰n
+tavalla, ellen min‰ sinua p‰‰st‰. Enk‰ min‰ sinua p‰‰st‰, jotta sen
+tied‰t.
+
+JUHA (nolona). No, on t‰m‰ nyt ihme ja kumma, kun v‰kisin pit‰‰ menn‰
+naimisiin.
+
+REGINA. Kun min‰ kerran olen ollut kanssasi kihlattu ja jos sitten
+eroan, niin kyll‰ kai min‰ miest‰ odottaa saan. Ja sit‰ min‰ en aio
+tehd‰.
+
+JUHA (tullen nˆyr‰ksi). Kuulehan nyt, Regina, puhutaan kauniisti nyt.
+Olenhan min‰ sinua rakastanut, tied‰th‰n sin‰ sen. Mink‰t‰hden sin‰
+n‰in ylenkatsot minua?
+
+REGINA. Kun sin‰ olet sellainen kr‰p‰ ja vaivainen, joka et uskalla
+tapella edes.
+
+JUHA. Mutta eih‰n miehen kunto tappelussa ole.
+
+REGINA. Miss‰ se sitten n‰kyy, jollei siin‰, ett‰ uskaltaa jotain.
+
+JUHA. ƒl‰h‰n nyt viitsi olla noin tyly. Martti on nyt mennyt kihloihin
+toisen kanssa. Eih‰n t‰ss‰ mik‰‰n muu auta kuin ett‰ me ajattelemme
+sit‰ naimista. Ja koetetaan el‰‰ sovussa. Sopu ja rauha on rakasta
+el‰m‰ss‰.
+
+REGINA (ivallisesti matkien). Niin, sopu ja rauha on rakasta el‰m‰ss‰.
+
+    (Kiivaasti.)
+
+Mutta min‰ en aio el‰‰ kuin mik‰kin v‰tys, jotta sen tied‰t.
+
+JUHA. Mutta kun min‰ rakastan sinua yht‰ kaikki.
+
+REGINA. Se on sinun asiasi, eik‰ se kuulu minuun.
+
+    (Heitt‰en niskojaan menee ver‰j‰st‰.)
+
+JUHA (pudistaen p‰‰t‰‰n). Taisi silt‰ Hennalta j‰‰d‰ se talarin
+puolikas saamatta.
+
+HENNA (tulee ver‰j‰st‰). Min‰ kuuntelin tuolla aitan takana. Sen min‰
+sanon, ett‰ tuollaista miest‰ en min‰ ole koskaan n‰hnyt. Miksi et sit‰
+lyˆnyt?
+
+JUHA. Ei ole helppoa lyˆd‰ naista, jota rakastaa.
+
+HENNA (nauraen). Hehehehe! Katsele kissoja, tappelevat nekin! Mutta en
+min‰ voi mit‰‰n asiaa kesken j‰tt‰‰. Kun kerran kaikki ovat poissa,
+niin koeta haukkua minua.
+
+JUHA. Min‰ en voi haukkua vanhempaa naista. Se ottaa niin luontoani
+vastaan.
+
+HENNA. Hauku, kun min‰ sanon!
+
+JUHA (kokoaa rohkeutensa). Sin‰ senkin raato!
+
+HENNA. Sano paremmin!
+
+JUHA. Sin‰ maantien kura-rapakko!
+
+HENNA. Kiukkuisemmin, paljoa kiukkuisemmin! Tuo on likkojen vikin‰‰!
+
+JUHA. No, kyll‰ min‰ sinua kiukkuisestikin osaan haukkua, sill‰ nyt jo
+minun k‰rsiv‰llisyyteni loppuu, kun t‰ss‰ jokainen tahtoo painaa minua
+alas. Mies min‰kin olen.
+
+HENNA. Mik‰ mies sin‰ olet! Viho viimeinen vaivainen, joka ei kelpaa
+mihink‰‰n muuhun kuin istumaan lullan vieress‰ ja laulamaan: "Kala oli
+vedess‰ ja made oli vadissa ja lude oli lullan laidalla!"
+
+JUHA. Sin‰ tahdot jo ottaa minulta miehen arvonkin.
+
+HENNA. Ei sit‰ ota, jota ei ole.
+
+JUHA. Min‰ hirmustun!
+
+HENNA. Hehehehe, ei sit‰ pelk‰‰ torakkakaan!
+
+JUHA. Ellet sin‰ jo pid‰ sit‰ suutasi suipemmalla, niin saat ett‰
+l‰j‰ht‰‰!
+
+HENNA. Mill‰h‰n sin‰ lˆisit, tuollainen ruikka, tuollainen kr‰‰kk‰,
+tuollainen krampampuli! Lyˆ, jos tohdit! ƒh‰, etp‰ tohdikaan!
+
+JUHA (kohottaa k‰tens‰ lyˆntiin). Ellet nyt jo lakkaa r‰‰kym‰st‰, niin
+min‰ isken.
+
+HENNA (ojentaa korvansa lyˆt‰v‰ksi). Tuossa on korva, on sille ennenkin
+pl‰ikytetty.
+
+    (Juha vet‰‰ k‰tens‰ pois.)
+
+Kala, pehme‰ kuin matikka, ruodoton kuin savolaisen kalakukon syd‰n,
+vaivainen v‰tys!
+
+    (Tyrkk‰‰ h‰nt‰ nyrkill‰ rintaan.)
+
+JUHA. ƒl‰ tule niin l‰helle tai min‰ en tied‰, mit‰ min‰ teen!
+
+HENNA. Tulenpas, tulen aivan nen‰si eteen, sin‰ lude, heikkohenkinen
+lude, joka ei ole ihmist‰ vuosikauteen n‰hnyt, sin‰ kalatorpan lude
+kev‰‰ll‰ auringon paisteessa, sin‰ Oriveden kurjin akan-alku.
+
+JUHA. ƒl‰ hauku minua akaksi, sill‰ sit‰ min‰ en suvaitse.
+
+HENNA. Akka olet ja akkana pysyt, vaikka sinulla olisi housut jalassa!
+
+JUHA. ƒl‰ tule niin l‰helle. Nyt min‰ lyˆn!
+
+    (Lyˆ h‰nt‰ korvalle.)
+
+HENNA. Vai tohdit sin‰ silmille hyppi‰. Min‰ kynsin sinulta silm‰t
+p‰‰st‰. Min‰ revin joka karvan p‰‰st‰si.
+
+    (Rynt‰‰ h‰nt‰ kohden.)
+
+JUHA. Sin‰ villitty! Sin‰ paapelin peliaali, sin‰ ilmestyskirjan peto!
+
+    (Lyˆ h‰nt‰ uudelleen.)
+
+HENNA. Otanko sinua kintusta kiinni ja heit‰n tuonne navetan katolle!
+
+JUHA. Navettaan min‰ sinut itsesi panen, poljen sonnan alle syv‰lle ja
+sitten ved‰n pellolle!
+
+    (Lyˆ h‰nt‰ uudelleen.)
+
+TUOMAS (tulee tuvan ovelle). Vai leikkii jo nallikatkin!
+
+JUHA (k‰‰ntyy kimmastuneena). Vai h‰rn‰‰tte tekin minua! Miksi ette ole
+tyˆss‰ niinkuin muutkin?
+
+TUOMAS. Min‰ hakkasin tupakkaa!
+
+JUHA. Laiskuuttanne te hakkasitte yh‰ pehme‰mm‰ksi. En ole teid‰n viel‰
+n‰hnyt tekev‰n yht‰‰n tyˆt‰ t‰ss‰ talossa. Mutta min‰ menen tyˆhˆn!
+
+    (Menee ver‰j‰‰ kohden.)
+
+TUOMAS. Se menee per‰ss‰, joka ei mene edell‰.
+
+JUHA (k‰‰ntyy). Ja muutamat haukkuvat aina toisia tekem‰tt‰ itse
+mit‰‰n!
+
+TUOMAS. Vai rupeat sin‰ t‰ss‰ jumalattomaksi suustasi. Katso, ettet
+makaa tuolla nurkassa!
+
+    (Menee nopeasti tupaan.)
+
+JUHA (huutaa h‰nen j‰lest‰‰n). Min‰ en pelk‰‰ nyt ket‰‰n, en vaikka
+taivaan enkeli tulisi painimaan minun kanssani kuin patriarkan kanssa!
+Min‰ en pelk‰‰. Tulkaa t‰nne, jos tohditte!
+
+TUOMAS (tulee kalikka k‰dess‰‰n). Niin min‰ tulenkin ja annan kerran
+sinulle oikein apen k‰dest‰!
+
+    (Rynt‰‰ h‰nt‰ kohden, tarttuu h‰nen tukkaansa toisella
+    k‰dell‰ ja lyˆ toisella k‰dell‰ kalikalla p‰‰h‰n.)
+
+HENNA. Pid‰ puoliasi, Juha, pid‰ puoliasi. Appi se vain on! Ei se ole
+taivaan enkeli!
+
+SUSANNA (tulee ver‰j‰st‰). Mit‰ t‰‰ll‰ minun poikaani hantteerataan!
+
+    (Sieppoa halon, jonka h‰n n‰ytˆksen alussa on heitt‰nyt
+    syrj‰‰n ja rynt‰‰ auttamaan poikaansa. Menee Tuomaan taakse
+    ja vet‰‰ h‰nt‰ tukasta.)
+
+P‰‰st‰tkˆ irti!
+
+    (Lyˆ h‰nt‰ halolla p‰‰h‰n.)
+
+P‰‰st‰tkˆ irti!
+
+TUOMAS (p‰‰st‰‰ irti). Saatanan akka!
+
+SUSANNA (kiskaisee kalikan h‰nen k‰dest‰‰n). J‰t‰ minun poikani
+rauhaan, eih‰n ole sinun pieksett‰vi‰si!
+
+REGINA (on tullut karjapihasta ja seisoo katsellen tappelua). Olipa
+Juha j‰‰d‰ alle, ellei ‰iti olisi auttanut. Millainen mies!
+
+    (Nauraa.)
+
+JUHA. Vai naurat sin‰kin viel‰ minulle.
+
+    (Rynt‰‰ vimmoissaan Reginaa kohden, joka pakenee
+    n‰ytt‰mˆn toiselle puolelle.)
+
+TUOMAS (rynt‰‰ uudelleen Juhan kimppuun). Minun tyt‰rt‰ni sin‰ et lyˆ,
+sen min‰ sanon!
+
+SUSANNA (rynt‰‰ taas erottamaan miehi‰). Irti minun vesastani! Jos h‰n
+selk‰‰ns‰ tarvitsee, niin osaan min‰kin antaa!
+
+ANNA (tulee oikealta kantaen kahta sankoa). Joko te nyt taas olette
+kaikki yhdess‰. Erillenne siit‰!
+
+    (Ottaa toisen sangon ja heitt‰‰ siit‰ vierrinvett‰ ryhm‰n
+    p‰‰lle. Ryhm‰ hajaantuu heti. Tuomas vet‰ytyy syrj‰‰n
+    kuivaten kasvojaan, samoin Susanna.)
+
+JUHA. Vai on viel‰ anoppikin minun kimpussani! Kyll‰ t‰st‰ nyt jo loppu
+tulee, sen min‰ sanon.
+
+    (Rynt‰‰ Annaa kohden. T‰m‰ pakenee vasemmalle sein‰n vieress‰
+    olevan rahin luo. Juha sieppaa toisen sangon. Anna kaatuu
+    rahille, Juha valelee sangossa olevalla vedell‰ Annan.)
+
+    (Katri ja Sohvi tulevat ver‰j‰st‰.)
+
+KATRI (rynt‰‰ apuun). ƒl‰ minun ‰iti‰ni siell‰ kastele!
+
+    (Tarraa takaap‰in Juhan tukkaan.)
+
+JUHA (ravistaa h‰net irti). Vai isket sin‰ kuin ilveskissa minun
+kimppuuni! Kavala ilveskissa!
+
+SOHVI (kiljuen). Sin‰ kurja retkale!
+
+JUHA. ƒl‰ yski, lude!
+
+    (Potkaisee Sohvia.)
+
+No, nyt min‰ olen saanut tarpeekseni t‰st‰ kaikesta. Ulos nyt minun
+talostani joka sorkka!
+
+TUOMAS. Mit‰ sin‰ tohdit sanoa?
+
+JUHA. Kootkaa hynttyynne heti paikalla ja sitten mars raitille. Min‰
+olen jo saanut koko roikasta tarpeekseni!
+
+    (Anna, Katri ja Sohvi juoksevat tupaan.)
+
+Min‰ en takaa en‰‰ mist‰‰n, min‰ en v‰lit‰ en‰‰ vaikka murha tulisi!
+Pian nyt sis‰lle kokoamaan kampsujanne!
+
+    (Tuomas livahtaa tupaan.)
+
+Regina, sin‰ j‰‰t! ƒl‰ liiku siin‰ paikaltasi!
+
+REGINA (tuvan oven l‰hell‰. Niiaa.) Enh‰n min‰ mene. Kyll‰ min‰ j‰‰n!
+
+JUHA (k‰‰ntyy Susannaan p‰in). Sen min‰ sanon, ett‰...
+
+SUSANNA (arkana). Mit‰ is‰nt‰ tahtoo?
+
+JUHA. Is‰nt‰! Niin, viimeinkin is‰nt‰ omassa talossaan!
+
+    (K‰‰ntyy Reginaan p‰in.)
+
+Tule t‰nne! Tule t‰nne, kun min‰ sanon!
+
+REGINA (l‰hestyy nˆyr‰n‰). T‰ss‰ min‰ olen.
+
+JUHA. Ja nyt sin‰ et puhu muuta kuin is‰nn‰n luvalla. Ymm‰rr‰tkˆ?
+
+REGINA (niiaa). Kyll‰ min‰ ymm‰rr‰n.
+
+    (Aikoo sanoa jotain.)
+
+JUHA. Mit‰ sin‰ viel‰ tahdot?
+
+REGINA. Juha, rakas Juha, ‰l‰ ole noin vihainen!
+
+JUHA. Mene auttamaan is‰‰si ja ‰iti‰si, jotta he pikemmin p‰‰sev‰t
+matkaan!
+
+    (Regina menee nˆyr‰n‰ tupaan.)
+
+SUSANNA. Is‰nt‰ koettaa nyt olla rauhallinen. Ei t‰ss‰ mit‰‰n vaaraa
+ole. Kaikkihan on hyvin.
+
+JUHA. Ei, ennenkuin tuo joukko on mennyt. Min‰ en jaksa t‰t‰ en‰‰
+katsella. Min‰ en voi en‰‰ kuunnella t‰t‰ menoa ja mekastusta.
+
+SUSANNA. Kyll‰ t‰st‰ hyv‰‰ tulee, ei kukaan en‰‰ is‰nt‰‰ vastusta.
+
+HENNA (kuiskaa Susannalle). Sen pit‰isi nyt saada ryyppy, muuten se
+pakahtuu.
+
+    (Susanna juoksee aittaan ja palaa sielt‰ pullo k‰dess‰‰n.)
+
+JUHA. Pian sielt‰ tuvasta ulos joka sorkka! Mit‰ te siell‰ kuhnailette.
+
+SUSANNA (tarjoaa pulloa). Is‰nt‰ ottaa pienen vahvistuksen nyt. Kyll‰
+se on hyv‰‰, min‰ olen sit‰ itse keitt‰nyt. Ei is‰nt‰ nyt halveksi
+t‰llaista v‰h‰ist‰ lahjaa. Passaa ottaa nyt!
+
+JUHA (ryypp‰‰ kulauksen). Ei se toinen voima toista voimaa kaada. Ja
+nyt min‰ olenkin valmis mihin tahansa!
+
+    (Tuvasta tulevat Tuomas, Anna, Katri ja Sohvi nyytteineen.)
+
+TUOMAS. T‰m‰ on sellaista kohtelua, ett‰ min‰ en osaa sanoa sanaakaan.
+
+JUHA. Ei tarvitsekaan sanoa mit‰‰n. Tuossa on ver‰j‰, siit‰ on tie
+ulos. Ja t‰nne ette saa tulla ennenkuin vasta h‰ihin. Ja niist‰
+min‰ l‰het‰n tiedon teille. Menk‰‰ sinne L‰ngelm‰elle, josta olette
+tulleetkin.
+
+    (Tuomas, Anna, Katri ja Sohvi menev‰t verkalleen ver‰j‰st‰.)
+
+SUSANNA. Is‰nt‰ istuu nyt. T‰m‰ t‰llainen raukaisee.
+
+JUHA (huomaa Hennan. ƒkki‰ muistuu h‰nelle jotain mieleen, h‰nen
+suuttumuksensa h‰vi‰‰ ja h‰n menee Hennan eteen ja nauraa). Ja se
+Henna!
+
+HENNA (hiukan peloissaan nauraa virskuen). Niin, L‰pik‰yt‰v‰n Henna
+min‰ olen sielt‰ L‰ngelm‰elt‰.
+
+JUHA. Tulee sielt‰ jotain hyv‰‰kin.
+
+    (Huutaa tupaanp‰in.)
+
+Hoi, muija, ota sielt‰ kaapista kukkaro ja sielt‰ talari!
+
+HENNA. Ett‰ oikeinko is‰nt‰ aikoo...
+
+JUHA. Min‰ en viel‰ ole j‰‰nyt mit‰‰n velkaa.
+
+REGINA (rient‰‰ tuvasta k‰dess‰‰n talari). T‰ss‰ on!
+
+JUHA (ottaa sen ja puristaa Hennan k‰teen). Ja t‰ss‰ on palkka!
+
+SUSANNA. Mit‰ se Henna on tehnyt, kun h‰n palkan sai?
+
+JUHA. Se neuvoi minua. Ja neuvosta maksetaan tuomarillekin saati sitten
+t‰llaiselle, joka on viisaampi kuin koko tuomiokapituli yhteens‰. Niin
+se tiet‰‰ ja tuntee koko avioliiton sis‰lt‰ ja ulkoa.
+
+    (Mikko, Liisa, Martti ja Maria tulevat ver‰j‰st‰.)
+
+MIKKO. Kyll‰h‰n me tulimme t‰nne tˆihin, mutta auttamaan ainoastaan.
+N‰ytt‰‰ silt‰ kuin talon v‰ki pysyisi kotona.
+
+JUHA. Min‰ olen t‰‰ll‰ hiukan siivonnut taloa. Ja aijai, miten minun
+sieluni nyt kutiaa. Min‰ tahtoisin ilosta oikein kirota.
+
+LIISA. Min‰ n‰in Tuomaan joukkoineen menev‰n t‰‰lt‰ nyytit k‰siss‰.
+Oikeinko niist‰ on p‰‰sty?
+
+JUHA. On, p‰‰sty on, kerrankin p‰‰sty. Ja kun min‰ olen alkuun tullut,
+niin ei t‰nne en‰‰ tule kukaan, sen min‰ takaan.
+
+MARTTI (k‰ttelee h‰nt‰). Terve tuloa sitten miesten joukkoon!
+
+JUHA. Olenhan min‰ t‰ss‰ ollut ihan kuin housuissa k‰velev‰ nainen,
+hiljainen ja ujo. Min‰ en tiennyt t‰h‰n asti, miten ihanaa on
+suuttuminen. Se on kuin ukkonen kes‰isell‰ helteell‰. Minun mieleni on
+nyt niin hiivatin kepe‰.
+
+SUSANNA. Is‰nt‰ kiroaa vaan, ei se mit‰‰n tee, mutta kiroaa v‰hitellen.
+
+SIKALA (tulee pyssy k‰dess‰‰n ver‰j‰st‰). Onko se Heikkil‰n Martti
+t‰‰ll‰?
+
+JUHA. Tuossa h‰n on.
+
+    (Osoittaa Marttia.)
+
+SIKALA. Min‰ ammun sen nulikan.
+
+SUSANNA. Ei saa, ei saa!
+
+LIISA (lempe‰sti). No, mit‰ sin‰ nyt r‰hiset?
+
+SIKALA. Kun h‰n menee ja houkuttelee Marian pois. Min‰ kuulin
+vallesmannilta, ett‰ he ovat menneet kihloihin. Mill‰ min‰ nyt korjaan
+viljani? Min‰ ammun sen miehen kuin k‰rp‰sen tuohon paikkaan.
+
+LIISA. Sin‰ et ammu mit‰‰n nyt, veljeni! Me olemme saaneet hyv‰n mini‰n
+taloomme. Ja kun sovussa el‰mme, niin aina meill‰ riitt‰‰ k‰tt‰ ja apua
+sinunkin taloasi varten.
+
+SIKALA. Se on siis t‰ytt‰ totta eik‰ vain kulkupuheita? He aikovat siis
+vakavasti yhteen?
+
+MARTTI. Niin vakavasti kuin ajatella saattaa.
+
+SIKALA. Sitten saat, sin‰ Martti, t‰m‰n pyssyn oikein omaksesi. Ota
+pois, ennenkuin ehdin katua! Sellaista tarvitsee nainut mies aina!
+
+ANTTI (tulee ver‰j‰st‰). Min‰ en jaksanut is‰nn‰n kanssa juosta. T‰‰ll‰
+n‰ytt‰‰ olevan oikein ilo ja riemu. Mit‰ t‰‰ll‰ on tapahtunut?
+
+LIISA. Ei mit‰‰n muuta kuin ett‰ nuori mies on tullut mieheksi.
+
+SUSANNA. Ja siit‰ kannattaa iloita.
+
+LIISA. Niin, siit‰ kannattaa iloita. Nainen on t‰ss‰ talossa lˆyt‰nyt
+herransa. Ellei niin olisi, niin huonosti olisi kaikki. Valta on
+oleva miehell‰, koska h‰n sit‰ oikein k‰ytt‰‰. Me naiset olemme sit‰
+varten, jotta talon kunnossa pit‰isimme, jotta se s‰ilyisi sukupolvesta
+sukupolveen, s‰ilyisi kauniina perintˆn‰. Ja kun min‰ muistelen
+edesmenneit‰ em‰nti‰, jotka taloa ovat hoitaneet vaikeina aikoina,
+jolloin miehet ovat sotaa k‰yneet maan ja kruunun puolesta, niin
+silloin n‰en, ett‰ v‰h‰inen ei ole se teht‰v‰, joka meill‰ naisilla
+on. Ja niin olkoon meid‰n el‰m‰mme em‰ntin‰, ett‰ me olemme aivan kuin
+kukkiva seppele meid‰n miehemme p‰‰n p‰‰ll‰.
+
+ANTTI. Kauniisti sanottu, ja mieleni on t‰st‰ heltynyt.
+
+HENNA. Sen min‰ sanon, vaikka olenkin vaimoihminen, ett‰ mies on
+sent‰‰n aina mies!
+
+Loppu.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK PITKƒJƒRVELƒISET***
+
+
+******* This file should be named 62617-8.txt or 62617-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/6/2/6/1/62617
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
